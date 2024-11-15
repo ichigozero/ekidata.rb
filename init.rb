@@ -1,15 +1,7 @@
 require 'sqlite3'
 require './importer'
 
-DB_PATH = 'ekidata.db'.freeze
-
-begin
-  File.delete(DB_PATH)
-rescue Errno::ENOENT
-  # do nothing
-end
-
-db = SQLite3::Database.open(DB_PATH)
+db = SQLite3::Database.new(':memory:')
 
 [
   PrefectureRepository.creator(db),

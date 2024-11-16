@@ -11,12 +11,24 @@ end
 
 db = SQLite3::Database.open(DB_PATH)
 
-[PrefectureRepository, CompanyRepository, LineRepository, StationRepository, JoinRepository].each do |r|
-  rc = r.creator(db)
-  rc.create
-  rc.close
+[
+  PrefectureRepository.creator(db),
+  CompanyRepository.creator(db),
+  LineRepository.creator(db),
+  StationRepository.creator(db),
+  JoinRepository.creator(db)
+].each do |r|
+  r.do
+  r.close
+end
 
-  ri = r.importer(db)
-  ri.import
-  ri.close
+[
+  PrefectureRepository.importer(db),
+  CompanyRepository.importer(db),
+  LineRepository.importer(db),
+  StationRepository.importer(db),
+  JoinRepository.importer(db)
+].each do |r|
+  r.do
+  r.close
 end

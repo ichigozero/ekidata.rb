@@ -6,7 +6,7 @@ class RepositoryCreator
     @stmt = db.prepare(create_query)
   end
 
-  def create
+  def do
     @stmt.execute
   end
 
@@ -22,7 +22,7 @@ class RepositoryImporter
     @stmt = db.prepare(insert_query)
   end
 
-  def import
+  def do
     @db.transaction do
       i = 0
       CSV.foreach(@csv_path) do |row|

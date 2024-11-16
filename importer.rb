@@ -43,11 +43,11 @@ module PrefectureRepository
   CSV_PATH = './data/pref.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS prefectures (
-      id INTEGER NOT NULL PRIMARY KEY,
+      pref_cd INTEGER NOT NULL PRIMARY KEY,
       pref_name TEXT
     )
   SQL
-  INSERT_QUERY = 'INSERT INTO prefectures (id, pref_name) VALUES (?, ?)'.freeze
+  INSERT_QUERY = 'INSERT INTO prefectures VALUES (?, ?)'.freeze
 
   def self.creator(db)
     RepositoryCreator.new db, CREATE_QUERY
@@ -62,25 +62,19 @@ module CompanyRepository
   CSV_PATH = './data/company.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS companies (
-      id INTEGER NOT NULL PRIMARY KEY,
-      railway_id INTEGER,
-      common_name TEXT,
-      kana_name TEXT,
-      official_name TEXT,
-      short_name TEXT,
-      url TEXT,
-      category INTEGER,
-      status INTEGER,
-      sort_code INTEGER
+      company_cd INTEGER NOT NULL PRIMARY KEY,
+      rr_cd INTEGER,
+      company_name TEXT,
+      company_name_k TEXT,
+      company_name_h TEXT,
+      company_name_r TEXT,
+      company_url TEXT,
+      company_type INTEGER,
+      e_status INTEGER,
+      e_sort INTEGER
     )
   SQL
-  INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO companies (
-      id, railway_id, common_name, kana_name, official_name,
-      short_name, url, category, status, sort_code
-    )
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-  SQL
+  INSERT_QUERY = 'INSERT INTO companies VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'.freeze
 
   def self.creator(db)
     RepositoryCreator.new db, CREATE_QUERY
@@ -95,29 +89,24 @@ module LineRepository
   CSV_PATH = './data/line.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS lines (
-      id INTEGER NOT NULL PRIMARY KEY,
-      company_id INTEGER,
-      common_name TEXT,
-      kana_name TEXT,
-      official_name TEXT,
-      color_code TEXT,
-      color_name TEXT,
-      category INTEGER,
-      longitude REAL,
-      latitude REAL,
-      zoom_size INTEGER,
-      status INTEGER,
-      sort_code TEXT,
-      FOREIGN KEY (company_id) REFERENCES companies(id)
+      line_cd INTEGER NOT NULL PRIMARY KEY,
+      company_cd INTEGER,
+      line_name TEXT,
+      line_name_k TEXT,
+      line_name_h TEXT,
+      line_color_c TEXT,
+      line_color_t TEXT,
+      line_type INTEGER,
+      lon REAL,
+      lat REAL,
+      zoom INTEGER,
+      e_status INTEGER,
+      e_sort TEXT,
+      FOREIGN KEY (company_cd) REFERENCES companies(company_cd)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO lines (
-      id, company_id, common_name, kana_name, official_name,
-      color_code, color_name, category, longitude, latitude,
-      zoom_size, status, sort_code
-    )
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO lines VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
@@ -133,32 +122,27 @@ module StationRepository
   CSV_PATH = './data/station.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS stations (
-      id INTEGER NOT NULL PRIMARY KEY,
-      group_id INTEGER,
-      common_name TEXT,
-      kana_name TEXT,
-      romaji_name TEXT,
-      line_id INTEGER,
-      prefecture_id INTEGER,
-      post_code TEXT,
+      station_cd INTEGER NOT NULL PRIMARY KEY,
+      station_g_cd INTEGER,
+      station_name TEXT,
+      station_name_k TEXT,
+      station_name_r TEXT,
+      line_cd INTEGER,
+      pref_cd INTEGER,
+      post TEXT,
       address TEXT,
-      longitude REAL,
-      latitude REAL,
-      open_date TEXT,
-      close_date TEXT,
-      status INTEGER,
-      sort_code INTEGER,
-      FOREIGN KEY (line_id) REFERENCES lines(id),
-      FOREIGN KEY (prefecture_id) REFERENCES prefectures(id)
+      lon REAL,
+      lat REAL,
+      open_ymd TEXT,
+      close_ymd TEXT,
+      e_status INTEGER,
+      e_sort INTEGER,
+      FOREIGN KEY (line_cd) REFERENCES lines(line_cd),
+      FOREIGN KEY (pref_cd) REFERENCES prefectures(prefF_cd)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO stations (
-      id, group_id, common_name, kana_name, romaji_name,
-      line_id, prefecture_id, post_code, address, longitude,
-      latitude, open_date, close_date, status, sort_code
-    )
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO stations VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
@@ -174,18 +158,17 @@ module JoinRepository
   CSV_PATH = './data/join.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS connecting_stations (
-      line_id INTEGER NOT NULL,
-      station_id_1 INTEGER NOT NULL,
-      station_id_2 INTEGER NOT NULL,
-      FOREIGN KEY (line_id) REFERENCES lines(id),
-      FOREIGN KEY (station_id_1) REFERENCES stations(id),
-      FOREIGN KEY (station_id_2) REFERENCES stations(id),
-      PRIMARY KEY (line_id, station_id_1, station_id_2)
+      line_cd INTEGER NOT NULL,
+      station_cd1 INTEGER NOT NULL,
+      station_cd2 INTEGER NOT NULL,
+      FOREIGN KEY (line_cd) REFERENCES lines(line_cd),
+      FOREIGN KEY (station_cd1) REFERENCES stations(station_cd),
+      FOREIGN KEY (station_cd2) REFERENCES stations(station_cd),
+      PRIMARY KEY (line_cd, station_cd1, station_cd2)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO connecting_stations (line_id, station_id_1, station_id_2)
-    VALUES (?, ?, ?)
+    INSERT INTO connecting_stations VALUES (?, ?, ?)
   SQL
 
   def self.creator(db)

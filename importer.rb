@@ -1,30 +1,45 @@
 require 'csv'
 require 'sqlite3'
 
-class Importer
-  CSV_PATH = ''.freeze
-  CREATE_QUERY = ''.freeze
-  INSERT_QUERY = ''.freeze
-
-  def self.create_table(db)
-    db.execute self::CREATE_QUERY
+class RepositoryCreator
+  def initialize(db, create_query)
+    @stmt = db.prepare(create_query)
   end
 
-  def self.import(db)
-    stmt = db.prepare(self::INSERT_QUERY)
-    db.transaction do
-      i = 0
-      CSV.foreach(self::CSV_PATH) do |row|
-        i += 1
-        next if i == 1
+  def create
+    @stmt.execute
+  end
 
-        stmt.execute(row)
-      end
-    end
+  def close
+    @stmt.close
   end
 end
 
-class PrefectureImporter < Importer
+class RepositoryImporter
+  def initialize(db, csv_path, insert_query)
+    @csv_path = csv_path
+    @db = db
+    @stmt = db.prepare(insert_query)
+  end
+
+  def import
+    @db.transaction do
+      i = 0
+      CSV.foreach(@csv_path) do |row|
+        i += 1
+        next if i == 1
+
+        @stmt.execute(row)
+      end
+    end
+  end
+
+  def close
+    @stmt.close
+  end
+end
+
+module PrefectureRepository
   CSV_PATH = './data/pref.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS prefectures (
@@ -33,9 +48,17 @@ class PrefectureImporter < Importer
     )
   SQL
   INSERT_QUERY = 'INSERT INTO prefectures (id, pref_name) VALUES (?, ?)'.freeze
+
+  def self.creator(db)
+    RepositoryCreator.new db, CREATE_QUERY
+  end
+
+  def self.importer(db)
+    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
 end
 
-class CompanyImporter < Importer
+module CompanyRepository
   CSV_PATH = './data/company.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS companies (
@@ -58,9 +81,17 @@ class CompanyImporter < Importer
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
+
+  def self.creator(db)
+    RepositoryCreator.new db, CREATE_QUERY
+  end
+
+  def self.importer(db)
+    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
 end
 
-class LineImporter < Importer
+module LineRepository
   CSV_PATH = './data/line.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS lines (
@@ -88,9 +119,17 @@ class LineImporter < Importer
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
+
+  def self.creator(db)
+    RepositoryCreator.new db, CREATE_QUERY
+  end
+
+  def self.importer(db)
+    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
 end
 
-class StationImporter < Importer
+module StationRepository
   CSV_PATH = './data/station.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS stations (
@@ -121,9 +160,17 @@ class StationImporter < Importer
     )
     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
+
+  def self.creator(db)
+    RepositoryCreator.new db, CREATE_QUERY
+  end
+
+  def self.importer(db)
+    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
 end
 
-class JoinImporter < Importer
+module JoinRepository
   CSV_PATH = './data/join.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
     CREATE TABLE IF NOT EXISTS connecting_stations (
@@ -140,4 +187,12 @@ class JoinImporter < Importer
     INSERT INTO connecting_stations (line_id, station_id_1, station_id_2)
     VALUES (?, ?, ?)
   SQL
+
+  def self.creator(db)
+    RepositoryCreator.new db, CREATE_QUERY
+  end
+
+  def self.importer(db)
+    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
 end

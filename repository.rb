@@ -42,12 +42,12 @@ end
 module PrefectureRepository
   CSV_PATH = './data/pref.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS prefectures (
+    CREATE TABLE IF NOT EXISTS m_pref (
       pref_cd INTEGER NOT NULL PRIMARY KEY,
       pref_name TEXT
     )
   SQL
-  INSERT_QUERY = 'INSERT INTO prefectures VALUES (?, ?)'.freeze
+  INSERT_QUERY = 'INSERT INTO m_pref VALUES (?, ?)'.freeze
 
   def self.creator(db)
     RepositoryCreator.new db, CREATE_QUERY
@@ -61,7 +61,7 @@ end
 module CompanyRepository
   CSV_PATH = './data/company.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS companies (
+    CREATE TABLE IF NOT EXISTS m_company (
       company_cd INTEGER NOT NULL PRIMARY KEY,
       rr_cd INTEGER,
       company_name TEXT,
@@ -74,7 +74,7 @@ module CompanyRepository
       e_sort INTEGER
     )
   SQL
-  INSERT_QUERY = 'INSERT INTO companies VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'.freeze
+  INSERT_QUERY = 'INSERT INTO m_company VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'.freeze
 
   def self.creator(db)
     RepositoryCreator.new db, CREATE_QUERY
@@ -88,7 +88,7 @@ end
 module LineRepository
   CSV_PATH = './data/line.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS lines (
+    CREATE TABLE IF NOT EXISTS m_line (
       line_cd INTEGER NOT NULL PRIMARY KEY,
       company_cd INTEGER,
       line_name TEXT,
@@ -102,11 +102,11 @@ module LineRepository
       zoom INTEGER,
       e_status INTEGER,
       e_sort TEXT,
-      FOREIGN KEY (company_cd) REFERENCES companies(company_cd)
+      FOREIGN KEY (company_cd) REFERENCES m_company(company_cd)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO lines VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO m_line VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
@@ -121,7 +121,7 @@ end
 module StationRepository
   CSV_PATH = './data/station.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS stations (
+    CREATE TABLE IF NOT EXISTS m_station (
       station_cd INTEGER NOT NULL PRIMARY KEY,
       station_g_cd INTEGER,
       station_name TEXT,
@@ -137,12 +137,12 @@ module StationRepository
       close_ymd TEXT,
       e_status INTEGER,
       e_sort INTEGER,
-      FOREIGN KEY (line_cd) REFERENCES lines(line_cd),
-      FOREIGN KEY (pref_cd) REFERENCES prefectures(prefF_cd)
+      FOREIGN KEY (line_cd) REFERENCES m_line(line_cd),
+      FOREIGN KEY (pref_cd) REFERENCES m_pref(prefF_cd)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO stations VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO m_station VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
@@ -157,18 +157,18 @@ end
 module JoinRepository
   CSV_PATH = './data/join.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS joins (
+    CREATE TABLE IF NOT EXISTS m_station_join (
       line_cd INTEGER NOT NULL,
       station_cd1 INTEGER NOT NULL,
       station_cd2 INTEGER NOT NULL,
-      FOREIGN KEY (line_cd) REFERENCES lines(line_cd),
-      FOREIGN KEY (station_cd1) REFERENCES stations(station_cd),
-      FOREIGN KEY (station_cd2) REFERENCES stations(station_cd),
+      FOREIGN KEY (line_cd) REFERENCES m_line(line_cd),
+      FOREIGN KEY (station_cd1) REFERENCES m_station(station_cd),
+      FOREIGN KEY (station_cd2) REFERENCES m_station(station_cd),
       PRIMARY KEY (line_cd, station_cd1, station_cd2)
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO joins VALUES (?, ?, ?)
+    INSERT INTO m_station_join VALUES (?, ?, ?)
   SQL
 
   def self.creator(db)

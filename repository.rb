@@ -157,7 +157,7 @@ end
 module JoinRepository
   CSV_PATH = './data/join.csv'.freeze
   CREATE_QUERY = <<~SQL.freeze
-    CREATE TABLE IF NOT EXISTS connecting_stations (
+    CREATE TABLE IF NOT EXISTS joins (
       line_cd INTEGER NOT NULL,
       station_cd1 INTEGER NOT NULL,
       station_cd2 INTEGER NOT NULL,
@@ -168,7 +168,7 @@ module JoinRepository
     )
   SQL
   INSERT_QUERY = <<~SQL.freeze
-    INSERT INTO connecting_stations VALUES (?, ?, ?)
+    INSERT INTO joins VALUES (?, ?, ?)
   SQL
 
   def self.creator(db)

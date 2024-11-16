@@ -1,5 +1,5 @@
 require 'sqlite3'
-require './importer'
+require './repository'
 
 db = SQLite3::Database.new(':memory:')
 

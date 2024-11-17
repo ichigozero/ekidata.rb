@@ -1,15 +1,11 @@
+require 'fileutils'
+require 'json'
 require 'sqlite3'
-require './importer'
+require './repository'
 
-DB_PATH = 'ekidata.db'.freeze
+FileUtils.mkdir_p ['./api/p', './api/l', './api/s', './api/g', './api/n']
 
-begin
-  File.delete(DB_PATH)
-rescue Errno::ENOENT
-  # do nothing
-end
-
-db = SQLite3::Database.open(DB_PATH)
+db = SQLite3::Database.new(':memory:')
 
 [
   PrefectureRepository.creator(db),
@@ -31,4 +27,36 @@ end
 ].each do |r|
   r.do
   r.close
+end
+
+db.results_as_hash = true
+
+LineRepository.lines_by_prefectures(db) do |pref_cd, data|
+  File.open("./api/p/#{pref_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
+
+StationRepository.stations_by_lines(db) do |line_cd, data|
+  File.open("./api/l/#{line_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
+
+StationRepository.station_details(db) do |station_cd, data|
+  File.open("./api/s/#{station_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
+
+StationRepository.stations_by_groups(db) do |station_cd, data|
+  File.open("./api/g/#{station_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
+
+JoinRepository.station_joins_by_lines(db) do |line_cd, data|
+  File.open("./api/n/#{line_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
 end

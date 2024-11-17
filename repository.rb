@@ -116,6 +116,28 @@ module LineRepository
   def self.importer(db)
     RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
   end
+
+  def self.lines_by_prefectures(db)
+    stmt1 = db.prepare('SELECT pref_cd FROM m_pref')
+    stmt2 = db.prepare <<~SQL
+      SELECT l.line_cd, l.line_name
+      FROM m_line l
+      INNER JOIN m_station s ON s.line_cd = l.line_cd
+      WHERE s.pref_cd = ?
+        AND l.e_status = 0
+        AND l.line_cd > 10000
+    SQL
+    stmt1.execute.each do |row|
+      pref_cd = row['pref_cd']
+      stmt2.bind_param 1, pref_cd
+      r = stmt2.execute.to_a
+
+      next if r.empty?
+
+      yield pref_cd, { line: r }
+      stmt2.reset!
+    end
+  end
 end
 
 module StationRepository

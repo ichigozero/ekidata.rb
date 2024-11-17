@@ -45,9 +45,15 @@ end
 
 StationRepository.station_details(db) do |station_cd, data|
   File.open("./api/s/#{station_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
 
 StationRepository.stations_by_groups(db) do |station_cd, data|
   File.open("./api/g/#{station_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
+  end
+end
 
 JoinRepository.station_joins_by_lines(db) do |line_cd, data|
   File.open("./api/n/#{line_cd}.json", 'w') do |f|

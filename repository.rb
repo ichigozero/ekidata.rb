@@ -272,4 +272,32 @@ module JoinRepository
   def self.importer(db)
     RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
   end
+
+  def self.station_joins_by_lines(db)
+    stmt1 = db.prepare 'SELECT line_cd FROM m_line'
+    stmt2 = db.prepare <<~SQL
+      SELECT
+        j.station_cd1,
+        j.station_cd2,
+        s1.station_name AS station_name1,
+        s2.station_name AS station_name2,
+        s1.lon AS lon1,
+        s1.lat AS lat1,
+        s2.lon AS lon2,
+        s2.lat AS lat2
+      FROM m_station_join j
+      LEFT JOIN m_station s1 ON s1.station_cd = j.station_cd1
+      LEFT JOIN m_station s2 ON s2.station_Cd = j.station_cd2
+      WHERE j.line_cd = ?
+    SQL
+
+    stmt1.execute.each do |row|
+      stmt2.bind_param 1, row['line_cd']
+      yield row['line_cd'], { station_join: stmt2.execute.to_a }
+      stmt2.reset!
+    end
+
+    stmt1.close
+    stmt2.close
+  end
 end

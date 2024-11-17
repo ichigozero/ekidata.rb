@@ -224,6 +224,28 @@ module StationRepository
 
     stmt.close
   end
+
+  def self.stations_by_groups(db)
+    stmt1 = db.prepare 'SELECT DISTINCT station_g_cd FROM m_station'
+    stmt2 = db.prepare <<~SQL
+      SELECT s.pref_cd, s.line_cd, l.line_name, s.station_cd, s.station_name
+      FROM m_station s
+      INNER JOIN m_line l ON l.line_cd = s.line_cd
+      WHERE s.e_status = 0
+        AND s.station_cd > 1000000
+        AND s.station_g_cd = ?
+      ORDER BY s.e_sort, s.station_cd
+    SQL
+
+    stmt1.execute.each do |row|
+      stmt2.bind_param 1, row['station_g_cd']
+      yield row['station_g_cd'], stmt2.execute.to_a
+      stmt2.reset!
+    end
+
+    stmt1.close
+    stmt2.close
+  end
 end
 
 module JoinRepository

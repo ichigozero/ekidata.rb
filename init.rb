@@ -3,7 +3,7 @@ require 'json'
 require 'sqlite3'
 require './repository'
 
-FileUtils.mkdir_p ['./api/p', './api/l', './api/s']
+FileUtils.mkdir_p ['./api/p', './api/l', './api/s', './api/g']
 
 db = SQLite3::Database.new(':memory:')
 
@@ -45,6 +45,9 @@ end
 
 StationRepository.station_details(db) do |station_cd, data|
   File.open("./api/s/#{station_cd}.json", 'w') do |f|
+
+StationRepository.stations_by_groups(db) do |station_cd, data|
+  File.open("./api/g/#{station_cd}.json", 'w') do |f|
     f.write(JSON.pretty_generate(data))
   end
 end

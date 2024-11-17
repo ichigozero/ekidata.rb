@@ -196,6 +196,34 @@ module StationRepository
     stmt1.close
     stmt2.close
   end
+
+  def self.station_details(db)
+    stmt = db.prepare <<~SQL
+      SELECT
+        s.pref_cd, s.line_cd, l.line_name, s.station_cd,
+        s.station_g_cd, s.station_name, s.lon, s.lat
+      FROM m_station s
+      LEFT JOIN m_line l ON l.line_cd = s.line_cd
+      WHERE s.e_status = 0 AND s.station_cd > 1000000
+      ORDER BY s.station_cd
+    SQL
+
+    stmt.execute.each do |row|
+      s = {
+        pref_cd: row['pref_cd'],
+        line_cd: row['line_cd'],
+        line_name: row['line_name'],
+        station_cd: row['station_cd'],
+        station_g_cd: row['station_g_cd'],
+        station_name: row['station_name'],
+        lon: row['lon'],
+        lat: row['lat']
+      }
+      yield row['station_cd'], { station: s }
+    end
+
+    stmt.close
+  end
 end
 
 module JoinRepository

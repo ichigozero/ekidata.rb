@@ -3,7 +3,7 @@ require 'json'
 require 'sqlite3'
 require './repository'
 
-FileUtils.mkdir_p ['./api/p', './api/l']
+FileUtils.mkdir_p ['./api/p', './api/l', './api/s']
 
 db = SQLite3::Database.new(':memory:')
 
@@ -31,14 +31,20 @@ end
 
 db.results_as_hash = true
 
-LineRepository.lines_by_prefectures(db) do |pref_cd, row|
+LineRepository.lines_by_prefectures(db) do |pref_cd, data|
   File.open("./api/p/#{pref_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(row))
+    f.write(JSON.pretty_generate(data))
   end
 end
 
-StationRepository.stations_by_lines(db) do |line_cd, row|
+StationRepository.stations_by_lines(db) do |line_cd, data|
   File.open("./api/l/#{line_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(row))
+    f.write(JSON.pretty_generate(data))
+  end
+end
+
+StationRepository.station_details(db) do |station_cd, data|
+  File.open("./api/s/#{station_cd}.json", 'w') do |f|
+    f.write(JSON.pretty_generate(data))
   end
 end

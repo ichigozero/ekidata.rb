@@ -128,15 +128,16 @@ module LineRepository
         AND l.line_cd > 10000
     SQL
     stmt1.execute.each do |row|
-      pref_cd = row['pref_cd']
-      stmt2.bind_param 1, pref_cd
+      stmt2.bind_param 1, row['pref_cd']
       r = stmt2.execute.to_a
 
       next if r.empty?
 
-      yield pref_cd, { line: r }
+      yield row['pref_cd'], { line: r }
       stmt2.reset!
     end
+    stmt1.close
+    stmt2.close
   end
 end
 
@@ -173,6 +174,27 @@ module StationRepository
 
   def self.importer(db)
     RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+  end
+
+  def self.stations_by_lines(db)
+    stmt1 = db.prepare 'SELECT line_cd FROM m_line'
+    stmt2 = db.prepare <<~SQL
+      SELECT station_cd, station_g_cd, station_name, lon, lat
+      FROM m_station
+      WHERE e_status = 0
+        AND station_cd > 1000000
+        AND line_cd = ?
+      ORDER BY e_sort, station_cd
+    SQL
+
+    stmt1.execute.each do |row|
+      stmt2.bind_param 1, row['line_cd']
+      yield row['line_cd'], { station_l: stmt2.execute.to_a }
+      stmt2.reset!
+    end
+
+    stmt1.close
+    stmt2.close
   end
 end
 

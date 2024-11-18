@@ -1,8 +1,8 @@
 require 'fileutils'
 require 'json'
-require 'nokogiri'
 require 'sqlite3'
 require './repository'
+require './xml'
 
 FileUtils.mkdir_p ['./api/p', './api/l', './api/s', './api/g', './api/n']
 
@@ -34,21 +34,7 @@ db.results_as_hash = true
 
 LineRepository.lines_by_prefectures(db) do |pref, data|
   pref_cd = pref['pref_cd']
-
-  builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
-    xml.ekidata(version: 'ekidata.jp pref api 1.0') do
-      xml.pref do
-        xml.code pref_cd
-        xml.name pref['pref_name']
-      end
-      data.each do |d|
-        xml.line do
-          xml.line_cd d['line_cd']
-          xml.line_name d['line_name']
-        end
-      end
-    end
-  end
+  builder = XMLBuilder.lines_by_prefectures(pref, data)
 
   File.open("./api/p/#{pref_cd}.xml", 'w') do |f|
     f << builder.to_xml
@@ -61,27 +47,7 @@ end
 
 StationRepository.stations_by_lines(db) do |line, data|
   line_cd = line['line_cd']
-
-  builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
-    xml.ekidata(version: 'ekidata.jp pref api 1.0') do
-      xml.line do
-        xml.line_cd line_cd
-        xml.line_name line['line_name']
-        xml.line_lon line ['lon']
-        xml.line_lat line['lat']
-        xml.line_zoom line['zoom']
-      end
-      data.each do |d|
-        xml.station do
-          xml.station_cd d['station_cd']
-          xml.station_g_cd d['station_g_cd']
-          xml.station_name d['station_name']
-          xml.lon d['lon']
-          xml.lat d['lat']
-        end
-      end
-    end
-  end
+  builder = XMLBuilder.stations_by_lines(line, data)
 
   File.open("./api/l/#{line_cd}.xml", 'w') do |f|
     f << builder.to_xml
@@ -93,20 +59,7 @@ StationRepository.stations_by_lines(db) do |line, data|
 end
 
 StationRepository.station_details(db) do |station_cd, data|
-  builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
-    xml.ekidata(version: 'ekidata.jp pref api 1.0') do
-      xml.station do
-        xml.pref_cd data[:pref_cd]
-        xml.line_cd data[:line_cd]
-        xml.line_name data[:line_name]
-        xml.station_cd data[:station_cd]
-        xml.station_g_cd_ data[:station_g_cd]
-        xml.station_name data[:station_name]
-        xml.lon data[:lon]
-        xml.lat data[:lat]
-      end
-    end
-  end
+  builder = XMLBuilder.station_details data
 
   File.open("./api/s/#{station_cd}.xml", 'w') do |f|
     f << builder.to_xml
@@ -124,22 +77,7 @@ StationRepository.stations_by_groups(db) do |station_cd, data|
 end
 
 JoinRepository.station_joins_by_lines(db) do |line_cd, data|
-  builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
-    xml.ekidata(version: 'ekidata.jp pref api 1.0') do
-      data.each do |d|
-        xml.station do
-          xml.station_cd1 d['station_cd1']
-          xml.station_cd2 d['station_cd2']
-          xml.station_name1 d['station_name1']
-          xml.station_name2 d['station_name2']
-          xml.lat1 d['lat1']
-          xml.lon1 d['lon1']
-          xml.lat2 d['lat2']
-          xml.lon2 d['lon2']
-        end
-      end
-    end
-  end
+  builder = XMLBuilder.joins_by_lines data
 
   File.open("./api/n/#{line_cd}.xml", 'w') do |f|
     f << builder.to_xml

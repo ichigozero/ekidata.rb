@@ -118,7 +118,7 @@ module LineRepository
   end
 
   def self.lines_by_prefectures(db)
-    stmt1 = db.prepare('SELECT pref_cd FROM m_pref')
+    stmt1 = db.prepare 'SELECT pref_cd, pref_name FROM m_pref'
     stmt2 = db.prepare <<~SQL
       SELECT l.line_cd, l.line_name
       FROM m_line l
@@ -126,16 +126,18 @@ module LineRepository
       WHERE s.pref_cd = ?
         AND l.e_status = 0
         AND l.line_cd > 10000
+      GROUP BY l.line_cd
     SQL
+
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['pref_cd']
       r = stmt2.execute.to_a
 
-      next if r.empty?
+      yield row, r unless r.empty?
 
-      yield row['pref_cd'], { line: r }
       stmt2.reset!
     end
+
     stmt1.close
     stmt2.close
   end
@@ -177,7 +179,7 @@ module StationRepository
   end
 
   def self.stations_by_lines(db)
-    stmt1 = db.prepare 'SELECT line_cd FROM m_line'
+    stmt1 = db.prepare 'SELECT line_cd, line_name, lon, lat, zoom FROM m_line'
     stmt2 = db.prepare <<~SQL
       SELECT station_cd, station_g_cd, station_name, lon, lat
       FROM m_station
@@ -189,7 +191,10 @@ module StationRepository
 
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['line_cd']
-      yield row['line_cd'], { station_l: stmt2.execute.to_a }
+      r = stmt2.execute.to_a
+
+      yield row, r unless r.empty?
+
       stmt2.reset!
     end
 

@@ -291,14 +291,17 @@ module JoinRepository
         s2.lon AS lon2,
         s2.lat AS lat2
       FROM m_station_join j
-      LEFT JOIN m_station s1 ON s1.station_cd = j.station_cd1
-      LEFT JOIN m_station s2 ON s2.station_Cd = j.station_cd2
+      INNER JOIN m_station s1 ON s1.station_cd = j.station_cd1
+      INNER JOIN m_station s2 ON s2.station_Cd = j.station_cd2
       WHERE j.line_cd = ?
     SQL
 
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['line_cd']
-      yield row['line_cd'], { station_join: stmt2.execute.to_a }
+      r = stmt2.execute.to_a
+
+      yield row['line_cd'], r unless r.empty?
+
       stmt2.reset!
     end
 

@@ -124,7 +124,28 @@ StationRepository.stations_by_groups(db) do |station_cd, data|
 end
 
 JoinRepository.station_joins_by_lines(db) do |line_cd, data|
+  builder = Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
+    xml.ekidata(version: 'ekidata.jp pref api 1.0') do
+      data.each do |d|
+        xml.station do
+          xml.station_cd1 d['station_cd1']
+          xml.station_cd2 d['station_cd2']
+          xml.station_name1 d['station_name1']
+          xml.station_name2 d['station_name2']
+          xml.lat1 d['lat1']
+          xml.lon1 d['lon1']
+          xml.lat2 d['lat2']
+          xml.lon2 d['lon2']
+        end
+      end
+    end
+  end
+
+  File.open("./api/n/#{line_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/n/#{line_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ station_join: data }))
   end
 end

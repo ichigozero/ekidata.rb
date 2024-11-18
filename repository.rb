@@ -224,7 +224,7 @@ module StationRepository
         lon: row['lon'],
         lat: row['lat']
       }
-      yield row['station_cd'], { station: s }
+      yield row['station_cd'], s
     end
 
     stmt.close

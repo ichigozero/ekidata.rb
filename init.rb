@@ -70,7 +70,14 @@ StationRepository.station_details(db) do |station_cd, data|
   end
 end
 
-StationRepository.stations_by_groups(db) do |station_cd, data|
+StationRepository.station_groups(db) do |station, data|
+  station_cd = station['station_cd']
+  builder = XMLBuilder.station_groups(station, data)
+
+  File.open("./api/g/#{station_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/g/#{station_cd}.json", 'w') do |f|
     f.write(JSON.pretty_generate(data))
   end

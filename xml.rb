@@ -58,6 +58,31 @@ module XMLBuilder
     end
   end
 
+  def self.station_groups(station, data)
+    Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
+      xml.ekidata(version: 'ekidata.jp pref api 1.0') do
+        xml.station do
+          xml.line_cd station['line_cd']
+          xml.line_name station['line_name']
+          xml.station_cd station['station_cd']
+          xml.station_g_cd_ station['station_g_cd']
+          xml.station_name station['station_name']
+          xml.lon station['lon']
+          xml.lat station['lat']
+        end
+        data.each do |d|
+          xml.station_g do
+            xml.pref_cd d['pref_cd']
+            xml.line_cd d['line_cd']
+            xml.line_name d['line_name']
+            xml.station_cd d['station_cd']
+            xml.station_name d['station_name']
+          end
+        end
+      end
+    end
+  end
+
   def self.joins_by_lines(data)
     Nokogiri::XML::Builder.new(encoding: 'UTF-8') do |xml|
       xml.ekidata(version: 'ekidata.jp pref api 1.0') do

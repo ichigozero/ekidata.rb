@@ -118,7 +118,7 @@ module LineRepository
   end
 
   def self.lines_by_prefectures(db)
-    stmt1 = db.prepare('SELECT pref_cd FROM m_pref')
+    stmt1 = db.prepare 'SELECT pref_cd, pref_name FROM m_pref'
     stmt2 = db.prepare <<~SQL
       SELECT l.line_cd, l.line_name
       FROM m_line l
@@ -126,16 +126,18 @@ module LineRepository
       WHERE s.pref_cd = ?
         AND l.e_status = 0
         AND l.line_cd > 10000
+      GROUP BY l.line_cd
     SQL
+
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['pref_cd']
       r = stmt2.execute.to_a
 
-      next if r.empty?
+      yield row, r unless r.empty?
 
-      yield row['pref_cd'], { line: r }
       stmt2.reset!
     end
+
     stmt1.close
     stmt2.close
   end
@@ -177,7 +179,7 @@ module StationRepository
   end
 
   def self.stations_by_lines(db)
-    stmt1 = db.prepare 'SELECT line_cd FROM m_line'
+    stmt1 = db.prepare 'SELECT line_cd, line_name, lon, lat, zoom FROM m_line'
     stmt2 = db.prepare <<~SQL
       SELECT station_cd, station_g_cd, station_name, lon, lat
       FROM m_station
@@ -189,7 +191,10 @@ module StationRepository
 
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['line_cd']
-      yield row['line_cd'], { station_l: stmt2.execute.to_a }
+      r = stmt2.execute.to_a
+
+      yield row, r unless r.empty?
+
       stmt2.reset!
     end
 
@@ -219,14 +224,27 @@ module StationRepository
         lon: row['lon'],
         lat: row['lat']
       }
-      yield row['station_cd'], { station: s }
+      yield row['station_cd'], s
     end
 
     stmt.close
   end
 
-  def self.stations_by_groups(db)
-    stmt1 = db.prepare 'SELECT DISTINCT station_g_cd FROM m_station'
+  def self.station_groups(db)
+    stmt1 = db.prepare <<~SQL
+      SELECT
+        l.line_cd,
+        l.line_name,
+        s.station_cd,
+        s.station_g_cd,
+        s.station_name,
+        s.lon,
+        s.lat
+      FROM m_station s
+      INNER JOIN m_line l ON l.line_cd = s.line_cd
+      WHERE s.e_status = 0 AND s.station_cd > 1000000
+      ORDER BY s.station_g_cd
+    SQL
     stmt2 = db.prepare <<~SQL
       SELECT s.pref_cd, s.line_cd, l.line_name, s.station_cd, s.station_name
       FROM m_station s
@@ -239,7 +257,7 @@ module StationRepository
 
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['station_g_cd']
-      yield row['station_g_cd'], stmt2.execute.to_a
+      yield row, stmt2.execute.to_a
       stmt2.reset!
     end
 
@@ -286,14 +304,17 @@ module JoinRepository
         s2.lon AS lon2,
         s2.lat AS lat2
       FROM m_station_join j
-      LEFT JOIN m_station s1 ON s1.station_cd = j.station_cd1
-      LEFT JOIN m_station s2 ON s2.station_Cd = j.station_cd2
+      INNER JOIN m_station s1 ON s1.station_cd = j.station_cd1
+      INNER JOIN m_station s2 ON s2.station_Cd = j.station_cd2
       WHERE j.line_cd = ?
     SQL
 
     stmt1.execute.each do |row|
       stmt2.bind_param 1, row['line_cd']
-      yield row['line_cd'], { station_join: stmt2.execute.to_a }
+      r = stmt2.execute.to_a
+
+      yield row['line_cd'], r unless r.empty?
+
       stmt2.reset!
     end
 

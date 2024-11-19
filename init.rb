@@ -2,6 +2,7 @@ require 'fileutils'
 require 'json'
 require 'sqlite3'
 require './repository'
+require './xml'
 
 FileUtils.mkdir_p ['./api/p', './api/l', './api/s', './api/g', './api/n']
 
@@ -31,32 +32,65 @@ end
 
 db.results_as_hash = true
 
-LineRepository.lines_by_prefectures(db) do |pref_cd, data|
+LineRepository.lines_by_prefectures(db) do |pref, data|
+  pref_cd = pref['pref_cd']
+  builder = XMLBuilder.lines_by_prefectures(pref, data)
+
+  File.open("./api/p/#{pref_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/p/#{pref_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ line: data }))
   end
 end
 
-StationRepository.stations_by_lines(db) do |line_cd, data|
+StationRepository.stations_by_lines(db) do |line, data|
+  line_cd = line['line_cd']
+  builder = XMLBuilder.stations_by_lines(line, data)
+
+  File.open("./api/l/#{line_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/l/#{line_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ station_l: data }))
   end
 end
 
 StationRepository.station_details(db) do |station_cd, data|
+  builder = XMLBuilder.station_details data
+
+  File.open("./api/s/#{station_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/s/#{station_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ station: data }))
   end
 end
 
-StationRepository.stations_by_groups(db) do |station_cd, data|
+StationRepository.station_groups(db) do |station, data|
+  station_cd = station['station_cd']
+  builder = XMLBuilder.station_groups(station, data)
+
+  File.open("./api/g/#{station_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/g/#{station_cd}.json", 'w') do |f|
     f.write(JSON.pretty_generate(data))
   end
 end
 
 JoinRepository.station_joins_by_lines(db) do |line_cd, data|
+  builder = XMLBuilder.joins_by_lines data
+
+  File.open("./api/n/#{line_cd}.xml", 'w') do |f|
+    f << builder.to_xml
+  end
+
   File.open("./api/n/#{line_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ station_join: data }))
   end
 end

@@ -1,0 +1,44 @@
+openapi: 3.0.0
+info:
+  title: ekidata
+  description: 日本の鉄道駅の情報を提供するAPI
+  version: 1.0.0
+  license:
+    name: MIT
+    url: "https://opensource.org/licenses/mit-license.php"
+servers:
+  - url: "https://ichigozero.github.io/ekidata.rb"
+paths:
+  "/api/p/{pref_cd}":
+    get:
+      summary: 都道府県
+      description: 都道府県の路線一覧を表示する
+      parameters:
+        - name: pref_cd
+          in: path
+          description: 都道府県コード
+          required: true
+          schema:
+            type: integer
+          example: 13
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  line:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        line_cd:
+                          type: integer
+                        line_name:
+                          type: string
+                    example:
+                      - line_cd: 11302
+                        line_name: JR山手線
+                      - line_cd: 11312
+                        line_name: JR中央線(快速)

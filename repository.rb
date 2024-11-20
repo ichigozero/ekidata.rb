@@ -24,10 +24,8 @@ class RepositoryImporter
 
   def do
     @db.transaction do
-      i = 0
-      CSV.foreach(@csv_path) do |row|
-        i += 1
-        next if i == 1
+      CSV.foreach(@csv_path).with_index do |row, i|
+        next if i.zero?
 
         @stmt.execute(row)
       end
@@ -214,17 +212,7 @@ module StationRepository
     SQL
 
     stmt.execute.each do |row|
-      s = {
-        pref_cd: row['pref_cd'],
-        line_cd: row['line_cd'],
-        line_name: row['line_name'],
-        station_cd: row['station_cd'],
-        station_g_cd: row['station_g_cd'],
-        station_name: row['station_name'],
-        lon: row['lon'],
-        lat: row['lat']
-      }
-      yield row['station_cd'], s
+      yield row['station_cd'], row.to_h
     end
 
     stmt.close

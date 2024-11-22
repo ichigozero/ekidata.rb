@@ -79,7 +79,7 @@ StationRepository.station_groups(db) do |station, data|
   end
 
   File.open("./api/g/#{station_cd}.json", 'w') do |f|
-    f.write(JSON.pretty_generate(data))
+    f.write(JSON.pretty_generate({ station_g: data }))
   end
 end
 

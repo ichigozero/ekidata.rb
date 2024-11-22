@@ -1,0 +1,276 @@
+openapi: 3.0.0
+info:
+  title: 駅データ
+  description: 日本の鉄道駅の情報を提供するAPI
+  version: 1.0.0
+  license:
+    name: MIT
+    url: "https://opensource.org/licenses/mit-license.php"
+servers:
+  - url: "https://ichigozero.github.io/ekidata.rb"
+paths:
+  "/api/p/{pref_cd}":
+    get:
+      summary: 都道府県
+      description: 都道府県の路線一覧を表示する
+      parameters:
+        - name: pref_cd
+          in: path
+          description: 都道府県コード
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 47
+          example: 13
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  line:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        line_cd:
+                          type: integer
+                          description: 沿線コード
+                        line_name:
+                          type: string
+                          description: 沿線名
+                    example:
+                      - line_cd: 11302
+                        line_name: JR山手線
+                      - line_cd: 11312
+                        line_name: JR中央線(快速)
+  "/api/l/{line_cd}":
+    get:
+      summary: 路線
+      description: 路線の駅一覧を表示する
+      parameters:
+        - name: line_cd
+          in: path
+          description: 路線コード
+          required: true
+          schema:
+            type: integer
+            minimum: 10000
+            maximum: 99999
+          example: 11302
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  station_l:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        station_cd:
+                          type: integer
+                          description: 駅コード
+                        station_g_cd:
+                          type: integer
+                          description: 駅グループコード
+                        station_name:
+                          type: string
+                          description: 駅名
+                        lon:
+                          type: number
+                          description: 経度
+                        lat:
+                          type: number
+                          description: 緯度
+                    example:
+                      - station_cd: 1130201
+                        station_g_cd: 1130201
+                        station_name: 大崎
+                        lon: 139.728439
+                        lat: 35.619772
+                      - station_cd: 1130202
+                        station_g_cd: 1130202
+                        station_name: 五反田
+                        lon: 139.723822
+                        lat: 35.625974
+  "/api/s/{station_cd}":
+    get:
+      summary: 駅詳細
+      description: 駅の詳細を表示する
+      parameters:
+        - name: station_cd
+          in: path
+          description: 駅コード
+          required: true
+          schema:
+            type: integer
+            minimum: 1000000
+            maximum: 9999999
+          example: 1130224
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  station:
+                    type: object
+                    properties:
+                      pref_cd:
+                        type: integer
+                        description: 都道府県コード
+                      line_cd:
+                        type: string
+                        description: 沿線コード
+                      line_name:
+                        type: string
+                        description: 沿線名
+                      station_cd:
+                        type: string
+                        description: 駅コード
+                      station_g_d:
+                        type: string
+                        description: 駅グループコード
+                      station_name:
+                        type: string
+                        description: 駅名
+                      lon:
+                        type: string
+                        description: 駅名
+                      lat:
+                        type: string
+                        description: 緯度
+                    example:
+                      pref_cd: 13
+                      line_cd: 11302
+                      line_name: JR山手線
+                      station_cd: 1130224
+                      station_g_cd: 1130101
+                      station_name: 東京
+                      lon: 139.766103
+                      lat: 35.681391
+  "/api/g/{station_cd}":
+    get:
+      summary: 駅グループ
+      description: 駅グループ一覧を表示する
+      parameters:
+        - name: station_cd
+          in: path
+          description: 駅コード
+          required: true
+          schema:
+            type: integer
+            minimum: 1000000
+            maximum: 9999999
+          example: 1130224
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  station_g:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        pref_cd:
+                          type: integer
+                          description: 都道府県コード
+                        line_cd:
+                          type: integer
+                          description: 沿線コード
+                        line_name:
+                          type: string
+                          description: 沿線名
+                        station_cd:
+                          type: integer
+                          description: 駅コード
+                        station_name:
+                          type: string
+                          description: 駅名
+                    example:
+                      - pref_cd: 13
+                        line_cd: 11301
+                        line_name: JR東海道本線(東京～熱海)
+                        station_cd: 1130101
+                        station_name: 東京
+                      - pref_cd: 13
+                        line_cd: 11302
+                        line_name: JR山手線
+                        station_cd: 1130224
+                        station_name: 東京
+  "/api/n/{line_cd}":
+    get:
+      summary: 隣接駅
+      description: 路線の隣接駅一覧を表示する
+      parameters:
+        - name: line_cd
+          in: path
+          description: 路線コード
+          required: true
+          schema:
+            type: integer
+            minimum: 10000
+            maximum: 99999
+          example: 11302
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  station_join:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        station_cd1:
+                          type: integer
+                          description: 1つめの駅コード
+                        station_cd2:
+                          type: integer
+                          description: 2つめの駅コード
+                        station_name1:
+                          type: string
+                          description: 1つめの駅名
+                        station_name2:
+                          type: string
+                          description: 2つめの駅名
+                        lon1:
+                          type: number
+                          description: 1つめの経度
+                        lat1:
+                          type: number
+                          description: 1つめの緯度
+                        lon2:
+                          type: number
+                          description: 2つめの経度
+                        lat2:
+                          type: number
+                          description: 2つめの緯度
+                    example:
+                      - station_cd1: 1130201
+                        station_cd2: 1130202
+                        station_name1: 大崎
+                        station_name2: 五反田
+                        lon1: 139.728439
+                        lat1: 35.619772
+                        lon2: 139.723822
+                        lat2: 35.625974
+                      - station_cd1: 1130202
+                        station_cd2: 1130203
+                        station_name1: 五反田
+                        station_name2: 目黒
+                        lon1: 139.723822
+                        lat1: 35.625974
+                        lon2: 139.715775
+                        lat2: 35.633923

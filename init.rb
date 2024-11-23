@@ -71,14 +71,14 @@ StationRepository.station_details(db) do |station_cd, data|
 end
 
 StationRepository.station_groups(db) do |station, data|
-  station_cd = station['station_cd']
+  station_g_cd = station['station_g_cd']
   builder = XMLBuilder.station_groups(station, data)
 
-  File.open("./api/g/#{station_cd}.xml", 'w') do |f|
+  File.open("./api/g/#{station_g_cd}.xml", 'w') do |f|
     f << builder.to_xml
   end
 
-  File.open("./api/g/#{station_cd}.json", 'w') do |f|
+  File.open("./api/g/#{station_g_cd}.json", 'w') do |f|
     f.write(JSON.pretty_generate({ station_g: data }))
   end
 end

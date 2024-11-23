@@ -206,7 +206,7 @@ module StationRepository
         s.pref_cd, s.line_cd, l.line_name, s.station_cd,
         s.station_g_cd, s.station_name, s.lon, s.lat
       FROM m_station s
-      LEFT JOIN m_line l ON l.line_cd = s.line_cd
+      INNER JOIN m_line l ON l.line_cd = s.line_cd
       WHERE s.e_status = 0 AND s.station_cd > 1000000
       ORDER BY s.station_cd
     SQL

@@ -57,7 +57,7 @@ paths:
           required: true
           schema:
             type: integer
-            minimum: 10000
+            minimum: 10001
             maximum: 99999
           example: 11302
       responses:
@@ -109,7 +109,7 @@ paths:
           required: true
           schema:
             type: integer
-            minimum: 1000000
+            minimum: 1000001
             maximum: 9999999
           example: 1130224
       responses:
@@ -166,7 +166,7 @@ paths:
           required: true
           schema:
             type: integer
-            minimum: 1000000
+            minimum: 1000001
             maximum: 9999999
           example: 1130224
       responses:
@@ -218,7 +218,7 @@ paths:
           required: true
           schema:
             type: integer
-            minimum: 10000
+            minimum: 10001
             maximum: 99999
           example: 11302
       responses:

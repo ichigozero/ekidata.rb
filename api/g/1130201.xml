@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ekidata version="ekidata.jp pref api 1.0">
   <station>
-    <line_cd>11302</line_cd>
-    <line_name>JR山手線</line_name>
-    <station_cd>1130201</station_cd>
+    <line_cd>99337</line_cd>
+    <line_name>りんかい線</line_name>
+    <station_cd>9933708</station_cd>
     <station_g_cd>1130201</station_g_cd>
     <station_name>大崎</station_name>
     <lon>139.728439</lon>

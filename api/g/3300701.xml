@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ekidata version="ekidata.jp pref api 1.0">
   <station>
-    <line_cd>33007</line_cd>
-    <line_name>京阪京津線</line_name>
-    <station_cd>3300701</station_cd>
+    <line_cd>99611</line_cd>
+    <line_name>京都市営地下鉄東西線</line_name>
+    <station_cd>9961108</station_cd>
     <station_g_cd>3300701</station_g_cd>
     <station_name>御陵</station_name>
     <lon>135.801637</lon>

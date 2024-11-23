@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ekidata version="ekidata.jp pref api 1.0">
   <station>
-    <line_cd>11903</line_cd>
-    <line_name>JR鹿児島本線(博多～八代)</line_name>
-    <station_cd>1190341</station_cd>
+    <line_cd>99922</line_cd>
+    <line_name>熊本市電Ａ系統</line_name>
+    <station_cd>9992203</station_cd>
     <station_g_cd>1190341</station_g_cd>
-    <station_name>熊本</station_name>
-    <lon>130.688499</lon>
-    <lat>32.789207</lat>
+    <station_name>熊本駅前</station_name>
+    <lon>130.690398</lon>
+    <lat>32.790377</lat>
   </station>
   <station_g>
     <pref_cd>43</pref_cd>

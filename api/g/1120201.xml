@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ekidata version="ekidata.jp pref api 1.0">
   <station>
-    <line_cd>11202</line_cd>
-    <line_name>JR奥羽本線(新庄～青森)</line_name>
-    <station_cd>1120201</station_cd>
+    <line_cd>11221</line_cd>
+    <line_name>奥の細道湯けむりライン</line_name>
+    <station_cd>1122127</station_cd>
     <station_g_cd>1120201</station_g_cd>
     <station_name>新庄</station_name>
     <lon>140.306064</lon>

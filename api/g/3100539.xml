@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ekidata version="ekidata.jp pref api 1.0">
   <station>
-    <line_cd>31005</line_cd>
-    <line_name>近鉄大阪線</line_name>
-    <station_cd>3100539</station_cd>
+    <line_cd>99531</line_cd>
+    <line_name>伊賀鉄道伊賀線</line_name>
+    <station_cd>9953114</station_cd>
     <station_g_cd>3100539</station_g_cd>
     <station_name>伊賀神戸</station_name>
     <lon>136.152854</lon>

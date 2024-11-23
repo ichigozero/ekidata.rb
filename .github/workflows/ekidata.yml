@@ -27,7 +27,7 @@ jobs:
       - name: Create public
         run: |
           mkdir -p ./public
-          mv -t ./public ./api ./doc
+          mv -t ./public index.html ./api
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

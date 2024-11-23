@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 99326,
+    "line_name": "湘南モノレール",
+    "station_cd": 9932601,
+    "station_g_cd": 1130107,
+    "station_name": "大船",
+    "lon": 139.531367,
+    "lat": 35.352359
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2100601,
+      "station_g_cd": 2100213,
+      "station_name": "西新井",
+      "lon": 139.790372,
+      "lat": 35.777323
+    },
+    {
+      "station_cd": 2100602,
+      "station_g_cd": 2100602,
+      "station_name": "大師前",
+      "lon": 139.781647,
+      "lat": 35.778989
+    }
+  ]
+}

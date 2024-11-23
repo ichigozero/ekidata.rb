@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 99528,
+    "line_name": "三岐鉄道三岐線",
+    "station_cd": 9952813,
+    "station_g_cd": 9952813,
+    "station_name": "東藤原",
+    "lon": 136.498904,
+    "lat": 35.147643
+  }
+}

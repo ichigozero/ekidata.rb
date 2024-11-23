@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11325,
+    "line_name": "JR内房線",
+    "station_cd": 1132516,
+    "station_g_cd": 1132516,
+    "station_name": "上総湊",
+    "lon": 139.871016,
+    "lat": 35.221855
+  }
+}

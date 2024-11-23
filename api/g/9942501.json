@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 17,
+      "line_cd": 99425,
+      "line_name": "あいの風とやま鉄道線",
+      "station_cd": 9942501,
+      "station_name": "倶利伽羅"
+    },
+    {
+      "pref_cd": 17,
+      "line_cd": 99426,
+      "line_name": "IRいしかわ鉄道線",
+      "station_cd": 1141547,
+      "station_name": "倶利伽羅"
+    }
+  ]
+}

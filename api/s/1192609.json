@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 46,
+    "line_cd": 11926,
+    "line_name": "JR肥薩線(吉松～隼人)",
+    "station_cd": 1192609,
+    "station_g_cd": 1192609,
+    "station_name": "日当山",
+    "lon": 130.749836,
+    "lat": 31.763402
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 26,
+      "line_cd": 34003,
+      "line_name": "阪急京都本線",
+      "station_cd": 3400310,
+      "station_name": "長岡天神"
+    }
+  ]
+}

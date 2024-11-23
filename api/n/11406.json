@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1140601,
+      "station_cd2": 1140602,
+      "station_name1": "新潟",
+      "station_name2": "東新潟",
+      "lon1": 139.060869,
+      "lat1": 37.912299,
+      "lon2": 139.108685,
+      "lat2": 37.908773
+    },
+    {
+      "station_cd1": 1140602,
+      "station_cd2": 1140603,
+      "station_name1": "東新潟",
+      "station_name2": "大形",
+      "lon1": 139.108685,
+      "lat1": 37.908773,
+      "lon2": 139.129272,
+      "lat2": 37.915518
+    },
+    {
+      "station_cd1": 1140603,
+      "station_cd2": 1140604,
+      "station_name1": "大形",
+      "station_name2": "新崎",
+      "lon1": 139.129272,
+      "lat1": 37.915518,
+      "lon2": 139.158558,
+      "lat2": 37.922478
+    },
+    {
+      "station_cd1": 1140604,
+      "station_cd2": 1140605,
+      "station_name1": "新崎",
+      "station_name2": "早通",
+      "lon1": 139.158558,
+      "lat1": 37.922478,
+      "lon2": 139.178173,
+      "lat2": 37.92109
+    },
+    {
+      "station_cd1": 1140605,
+      "station_cd2": 1140606,
+      "station_name1": "早通",
+      "station_name2": "豊栄",
+      "lon1": 139.178173,
+      "lat1": 37.92109,
+      "lon2": 139.215347,
+      "lat2": 37.919351
+    },
+    {
+      "station_cd1": 1140606,
+      "station_cd2": 1140607,
+      "station_name1": "豊栄",
+      "station_name2": "黒山",
+      "lon1": 139.215347,
+      "lat1": 37.919351,
+      "lon2": 139.241177,
+      "lat2": 37.937128
+    },
+    {
+      "station_cd1": 1140607,
+      "station_cd2": 1140608,
+      "station_name1": "黒山",
+      "station_name2": "佐々木",
+      "lon1": 139.241177,
+      "lat1": 37.937128,
+      "lon2": 139.270099,
+      "lat2": 37.949716
+    },
+    {
+      "station_cd1": 1140608,
+      "station_cd2": 1140609,
+      "station_name1": "佐々木",
+      "station_name2": "西新発田",
+      "lon1": 139.270099,
+      "lat1": 37.949716,
+      "lon2": 139.303474,
+      "lat2": 37.942097
+    },
+    {
+      "station_cd1": 1140609,
+      "station_cd2": 1140610,
+      "station_name1": "西新発田",
+      "station_name2": "新発田",
+      "lon1": 139.303474,
+      "lat1": 37.942097,
+      "lon2": 139.335189,
+      "lat2": 37.94412
+    }
+  ]
+}

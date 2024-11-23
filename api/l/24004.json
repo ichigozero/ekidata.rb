@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2400401,
+      "station_g_cd": 2400123,
+      "station_name": "東府中",
+      "lon": 139.495257,
+      "lat": 35.668766
+    },
+    {
+      "station_cd": 2400402,
+      "station_g_cd": 2400402,
+      "station_name": "府中競馬正門前",
+      "lon": 139.485019,
+      "lat": 35.668288
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 20,
+      "line_cd": 99404,
+      "line_name": "上田電鉄別所線",
+      "station_cd": 9940402,
+      "station_name": "城下"
+    }
+  ]
+}

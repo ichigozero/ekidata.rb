@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9932401,
+      "station_g_cd": 2300141,
+      "station_name": "東成田",
+      "lon": 140.387225,
+      "lat": 35.770091
+    },
+    {
+      "station_cd": 9932402,
+      "station_g_cd": 9932402,
+      "station_name": "芝山千代田",
+      "lon": 140.399215,
+      "lat": 35.754248
+    }
+  ]
+}

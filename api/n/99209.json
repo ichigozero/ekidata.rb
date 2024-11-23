@@ -1,0 +1,284 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9920901,
+      "station_cd2": 9920902,
+      "station_name1": "鷹巣",
+      "station_name2": "西鷹巣",
+      "lon1": 140.369816,
+      "lat1": 40.232059,
+      "lon2": 140.357918,
+      "lat2": 40.224615
+    },
+    {
+      "station_cd1": 9920902,
+      "station_cd2": 9920903,
+      "station_name1": "西鷹巣",
+      "station_name2": "縄文小ヶ田",
+      "lon1": 140.357918,
+      "lat1": 40.224615,
+      "lon2": 140.349206,
+      "lat2": 40.204973
+    },
+    {
+      "station_cd1": 9920903,
+      "station_cd2": 9920904,
+      "station_name1": "縄文小ヶ田",
+      "station_name2": "大野台",
+      "lon1": 140.349206,
+      "lat1": 40.204973,
+      "lon2": 140.340777,
+      "lat2": 40.186975
+    },
+    {
+      "station_cd1": 9920904,
+      "station_cd2": 9920905,
+      "station_name1": "大野台",
+      "station_name2": "合川",
+      "lon1": 140.340777,
+      "lat1": 40.186975,
+      "lon2": 140.330148,
+      "lat2": 40.161033
+    },
+    {
+      "station_cd1": 9920905,
+      "station_cd2": 9920906,
+      "station_name1": "合川",
+      "station_name2": "上杉",
+      "lon1": 140.330148,
+      "lat1": 40.161033,
+      "lon2": 140.349495,
+      "lat2": 40.146533
+    },
+    {
+      "station_cd1": 9920906,
+      "station_cd2": 9920907,
+      "station_name1": "上杉",
+      "station_name2": "米内沢",
+      "lon1": 140.349495,
+      "lat1": 40.146533,
+      "lon2": 140.373477,
+      "lat2": 40.128199
+    },
+    {
+      "station_cd1": 9920907,
+      "station_cd2": 9920908,
+      "station_name1": "米内沢",
+      "station_name2": "桂瀬",
+      "lon1": 140.373477,
+      "lat1": 40.128199,
+      "lon2": 140.417854,
+      "lat2": 40.101634
+    },
+    {
+      "station_cd1": 9920908,
+      "station_cd2": 9920909,
+      "station_name1": "桂瀬",
+      "station_name2": "阿仁前田温泉",
+      "lon1": 140.417854,
+      "lat1": 40.101634,
+      "lon2": 140.417731,
+      "lat2": 40.061322
+    },
+    {
+      "station_cd1": 9920909,
+      "station_cd2": 9920910,
+      "station_name1": "阿仁前田温泉",
+      "station_name2": "前田南",
+      "lon1": 140.417731,
+      "lat1": 40.061322,
+      "lon2": 140.40227,
+      "lat2": 40.050604
+    },
+    {
+      "station_cd1": 9920910,
+      "station_cd2": 9920911,
+      "station_name1": "前田南",
+      "station_name2": "小渕",
+      "lon1": 140.40227,
+      "lat1": 40.050604,
+      "lon2": 140.40117,
+      "lat2": 40.033817
+    },
+    {
+      "station_cd1": 9920911,
+      "station_cd2": 9920912,
+      "station_name1": "小渕",
+      "station_name2": "阿仁合",
+      "lon1": 140.40117,
+      "lat1": 40.033817,
+      "lon2": 140.401538,
+      "lat2": 40.000782
+    },
+    {
+      "station_cd1": 9920912,
+      "station_cd2": 9920913,
+      "station_name1": "阿仁合",
+      "station_name2": "荒瀬",
+      "lon1": 140.401538,
+      "lat1": 40.000782,
+      "lon2": 140.402486,
+      "lat2": 39.980085
+    },
+    {
+      "station_cd1": 9920913,
+      "station_cd2": 9920914,
+      "station_name1": "荒瀬",
+      "station_name2": "萱草",
+      "lon1": 140.402486,
+      "lat1": 39.980085,
+      "lon2": 140.412528,
+      "lat2": 39.95846
+    },
+    {
+      "station_cd1": 9920914,
+      "station_cd2": 9920915,
+      "station_name1": "萱草",
+      "station_name2": "笑内",
+      "lon1": 140.412528,
+      "lat1": 39.95846,
+      "lon2": 140.413071,
+      "lat2": 39.935151
+    },
+    {
+      "station_cd1": 9920915,
+      "station_cd2": 9920916,
+      "station_name1": "笑内",
+      "station_name2": "岩野目",
+      "lon1": 140.413071,
+      "lat1": 39.935151,
+      "lon2": 140.430639,
+      "lat2": 39.921248
+    },
+    {
+      "station_cd1": 9920916,
+      "station_cd2": 9920917,
+      "station_name1": "岩野目",
+      "station_name2": "比立内",
+      "lon1": 140.430639,
+      "lat1": 39.921248,
+      "lon2": 140.452643,
+      "lat2": 39.905078
+    },
+    {
+      "station_cd1": 9920917,
+      "station_cd2": 9920918,
+      "station_name1": "比立内",
+      "station_name2": "奥阿仁",
+      "lon1": 140.452643,
+      "lat1": 39.905078,
+      "lon2": 140.48946,
+      "lat2": 39.911567
+    },
+    {
+      "station_cd1": 9920918,
+      "station_cd2": 9920919,
+      "station_name1": "奥阿仁",
+      "station_name2": "阿仁マタギ",
+      "lon1": 140.48946,
+      "lat1": 39.911567,
+      "lon2": 140.515793,
+      "lat2": 39.91952
+    },
+    {
+      "station_cd1": 9920919,
+      "station_cd2": 9920920,
+      "station_name1": "阿仁マタギ",
+      "station_name2": "戸沢",
+      "lon1": 140.515793,
+      "lat1": 39.91952,
+      "lon2": 140.581208,
+      "lat2": 39.859084
+    },
+    {
+      "station_cd1": 9920920,
+      "station_cd2": 9920921,
+      "station_name1": "戸沢",
+      "station_name2": "上桧木内",
+      "lon1": 140.581208,
+      "lat1": 39.859084,
+      "lon2": 140.584937,
+      "lat2": 39.815858
+    },
+    {
+      "station_cd1": 9920921,
+      "station_cd2": 9920922,
+      "station_name1": "上桧木内",
+      "station_name2": "左通",
+      "lon1": 140.584937,
+      "lat1": 39.815858,
+      "lon2": 140.586118,
+      "lat2": 39.801867
+    },
+    {
+      "station_cd1": 9920922,
+      "station_cd2": 9920923,
+      "station_name1": "左通",
+      "station_name2": "羽後中里",
+      "lon1": 140.586118,
+      "lat1": 39.801867,
+      "lon2": 140.602775,
+      "lat2": 39.771049
+    },
+    {
+      "station_cd1": 9920923,
+      "station_cd2": 9920924,
+      "station_name1": "羽後中里",
+      "station_name2": "松葉",
+      "lon1": 140.602775,
+      "lat1": 39.771049,
+      "lon2": 140.590288,
+      "lat2": 39.744107
+    },
+    {
+      "station_cd1": 9920924,
+      "station_cd2": 9920925,
+      "station_name1": "松葉",
+      "station_name2": "羽後長戸呂",
+      "lon1": 140.590288,
+      "lat1": 39.744107,
+      "lon2": 140.565383,
+      "lat2": 39.727689
+    },
+    {
+      "station_cd1": 9920925,
+      "station_cd2": 9920926,
+      "station_name1": "羽後長戸呂",
+      "station_name2": "八津",
+      "lon1": 140.565383,
+      "lat1": 39.727689,
+      "lon2": 140.552805,
+      "lat2": 39.687701
+    },
+    {
+      "station_cd1": 9920926,
+      "station_cd2": 9920927,
+      "station_name1": "八津",
+      "station_name2": "西明寺",
+      "lon1": 140.552805,
+      "lat1": 39.687701,
+      "lon2": 140.563191,
+      "lat2": 39.653175
+    },
+    {
+      "station_cd1": 9920927,
+      "station_cd2": 9920928,
+      "station_name1": "西明寺",
+      "station_name2": "羽後太田",
+      "lon1": 140.563191,
+      "lat1": 39.653175,
+      "lon2": 140.574249,
+      "lat2": 39.627304
+    },
+    {
+      "station_cd1": 9920928,
+      "station_cd2": 9920929,
+      "station_name1": "羽後太田",
+      "station_name2": "角館",
+      "lon1": 140.574249,
+      "lat1": 39.627304,
+      "lon2": 140.570988,
+      "lat2": 39.591716
+    }
+  ]
+}

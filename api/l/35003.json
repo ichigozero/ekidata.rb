@@ -1,0 +1,32 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3500301,
+      "station_g_cd": 3500112,
+      "station_name": "武庫川",
+      "lon": 135.383654,
+      "lat": 34.718154
+    },
+    {
+      "station_cd": 3500302,
+      "station_g_cd": 3500302,
+      "station_name": "東鳴尾",
+      "lon": 135.379065,
+      "lat": 34.712646
+    },
+    {
+      "station_cd": 3500303,
+      "station_g_cd": 3500303,
+      "station_name": "洲先",
+      "lon": 135.378049,
+      "lat": 34.709046
+    },
+    {
+      "station_cd": 3500304,
+      "station_g_cd": 3500304,
+      "station_name": "武庫川団地前",
+      "lon": 135.374757,
+      "lat": 34.704894
+    }
+  ]
+}

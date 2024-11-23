@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 42,
+      "line_cd": 11905,
+      "line_name": "JR長崎本線(鳥栖～長崎)",
+      "station_cd": 1190528,
+      "station_name": "西諫早"
+    }
+  ]
+}

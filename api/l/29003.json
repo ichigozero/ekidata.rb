@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2900301,
+      "station_g_cd": 2900301,
+      "station_name": "羽沢横浜国大",
+      "lon": 139.586389,
+      "lat": 35.481389
+    },
+    {
+      "station_cd": 2900302,
+      "station_g_cd": 2900108,
+      "station_name": "西谷",
+      "lon": 139.565721,
+      "lat": 35.478092
+    }
+  ]
+}

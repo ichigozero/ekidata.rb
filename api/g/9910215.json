@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 1,
+      "line_cd": 99102,
+      "line_name": "札幌市営地下鉄南北線",
+      "station_cd": 9910215,
+      "station_name": "自衛隊前"
+    }
+  ]
+}

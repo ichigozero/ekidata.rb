@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+  <station>
+    <station_cd1>9980101</station_cd1>
+    <station_cd2>9980102</station_cd2>
+    <station_name1>海部</station_name1>
+    <station_name2>宍喰</station_name2>
+    <lat1>33.593453</lat1>
+    <lon1>134.351999</lon1>
+    <lat2>33.566949</lat2>
+    <lon2>134.300741</lon2>
+  </station>
+  <station>
+    <station_cd1>9980102</station_cd1>
+    <station_cd2>9980103</station_cd2>
+    <station_name1>宍喰</station_name1>
+    <station_name2>甲浦</station_name2>
+    <lat1>33.566949</lat1>
+    <lon1>134.300741</lon1>
+    <lat2>33.547238</lat2>
+    <lon2>134.288242</lon2>
+  </station>
+  <station>
+    <station_cd1>9980104</station_cd1>
+    <station_cd2>9980101</station_cd2>
+    <station_name1>阿波海南</station_name1>
+    <station_name2>海部</station_name2>
+    <lat1>33.606379</lat1>
+    <lon1>134.350805</lon1>
+    <lat2>33.593453</lat2>
+    <lon2>134.351999</lon2>
+  </station>
+</ekidata>

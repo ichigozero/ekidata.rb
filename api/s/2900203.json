@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 29002,
+    "line_name": "相鉄いずみ野線",
+    "station_cd": 2900203,
+    "station_g_cd": 2900203,
+    "station_name": "緑園都市",
+    "lon": 139.521841,
+    "lat": 35.439502
+  }
+}

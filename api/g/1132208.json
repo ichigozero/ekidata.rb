@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 11,
+      "line_cd": 11322,
+      "line_name": "JR川越線",
+      "station_cd": 1132208,
+      "station_name": "笠幡"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9964701,
+      "station_cd2": 9964702,
+      "station_name1": "新長田",
+      "station_name2": "駒ヶ林",
+      "lon1": 135.144963,
+      "lat1": 34.656854,
+      "lon2": 135.149554,
+      "lat2": 34.652108
+    },
+    {
+      "station_cd1": 9964702,
+      "station_cd2": 9964703,
+      "station_name1": "駒ヶ林",
+      "station_name2": "苅藻",
+      "lon1": 135.149554,
+      "lat1": 34.652108,
+      "lon2": 135.156598,
+      "lat2": 34.65365
+    },
+    {
+      "station_cd1": 9964703,
+      "station_cd2": 9964704,
+      "station_name1": "苅藻",
+      "station_name2": "御崎公園",
+      "lon1": 135.156598,
+      "lat1": 34.65365,
+      "lon2": 135.164998,
+      "lat2": 34.654641
+    },
+    {
+      "station_cd1": 9964704,
+      "station_cd2": 9964705,
+      "station_name1": "御崎公園",
+      "station_name2": "和田岬",
+      "lon1": 135.164998,
+      "lat1": 34.654641,
+      "lon2": 135.176082,
+      "lat2": 34.657957
+    },
+    {
+      "station_cd1": 9964705,
+      "station_cd2": 9964706,
+      "station_name1": "和田岬",
+      "station_name2": "中央市場前",
+      "lon1": 135.176082,
+      "lat1": 34.657957,
+      "lon2": 135.175866,
+      "lat2": 34.666199
+    },
+    {
+      "station_cd1": 9964706,
+      "station_cd2": 9964707,
+      "station_name1": "中央市場前",
+      "station_name2": "ハーバーランド",
+      "lon1": 135.175866,
+      "lat1": 34.666199,
+      "lon2": 135.178657,
+      "lat2": 34.678554
+    },
+    {
+      "station_cd1": 9964707,
+      "station_cd2": 9964708,
+      "station_name1": "ハーバーランド",
+      "station_name2": "みなと元町",
+      "lon1": 135.178657,
+      "lat1": 34.678554,
+      "lon2": 135.183973,
+      "lat2": 34.685875
+    },
+    {
+      "station_cd1": 9964708,
+      "station_cd2": 9964709,
+      "station_name1": "みなと元町",
+      "station_name2": "旧居留地・大丸前",
+      "lon1": 135.183973,
+      "lat1": 34.685875,
+      "lon2": 135.189836,
+      "lat2": 34.689369
+    },
+    {
+      "station_cd1": 9964709,
+      "station_cd2": 9964710,
+      "station_name1": "旧居留地・大丸前",
+      "station_name2": "三宮・花時計前",
+      "lon1": 135.189836,
+      "lat1": 34.689369,
+      "lon2": 135.195538,
+      "lat2": 34.691618
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 27,
+      "line_cd": 99620,
+      "line_name": "大阪メトロ四つ橋線",
+      "station_cd": 9962011,
+      "station_name": "住之江公園"
+    },
+    {
+      "pref_cd": 27,
+      "line_cd": 99625,
+      "line_name": "大阪メトロ南港ポートタウン線",
+      "station_cd": 9962510,
+      "station_name": "住之江公園"
+    }
+  ]
+}

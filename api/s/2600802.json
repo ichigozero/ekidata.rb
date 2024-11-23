@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 26008,
+    "line_name": "東急こどもの国線",
+    "station_cd": 2600802,
+    "station_g_cd": 2600802,
+    "station_name": "恩田",
+    "lon": 139.492127,
+    "lat": 35.545535
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 42,
+    "line_cd": 99916,
+    "line_name": "長崎電軌５系統",
+    "station_cd": 9991609,
+    "station_g_cd": 9991609,
+    "station_name": "メディカルセンター",
+    "lon": 129.87241,
+    "lat": 32.740523
+  }
+}

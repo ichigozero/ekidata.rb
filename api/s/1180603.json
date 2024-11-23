@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 37,
+    "line_cd": 11806,
+    "line_name": "JR予讃線",
+    "station_cd": 1180603,
+    "station_g_cd": 1180603,
+    "station_name": "鬼無",
+    "lon": 133.99385,
+    "lat": 34.325455
+  }
+}

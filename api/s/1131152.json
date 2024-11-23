@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 20,
+    "line_cd": 11311,
+    "line_name": "JR中央本線(東京～塩尻)",
+    "station_cd": 1131152,
+    "station_g_cd": 1131152,
+    "station_name": "小野",
+    "lon": 137.9706,
+    "lat": 36.04693
+  }
+}

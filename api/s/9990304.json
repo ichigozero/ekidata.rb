@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99903,
+    "line_name": "糸田線",
+    "station_cd": 9990304,
+    "station_g_cd": 9990304,
+    "station_name": "糸田",
+    "lon": 130.785773,
+    "lat": 33.656481
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99303,
+    "line_name": "都営三田線",
+    "station_cd": 9930316,
+    "station_g_cd": 9930316,
+    "station_name": "西巣鴨",
+    "lon": 139.728712,
+    "lat": 35.743508
+  }
+}

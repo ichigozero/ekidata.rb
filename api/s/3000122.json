@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 30001,
+    "line_name": "名鉄名古屋本線",
+    "station_cd": 3000122,
+    "station_g_cd": 3000122,
+    "station_name": "豊明",
+    "lon": 137.008161,
+    "lat": 35.041127
+  }
+}

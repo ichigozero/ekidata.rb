@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 5,
+    "line_cd": 11204,
+    "line_name": "JR五能線",
+    "station_cd": 1120404,
+    "station_g_cd": 1120404,
+    "station_name": "北能代",
+    "lon": 140.033835,
+    "lat": 40.254138
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1140514,
+      "station_cd2": 9942301,
+      "station_name1": "親不知",
+      "station_name2": "市振",
+      "lon1": 137.738104,
+      "lat1": 37.006818,
+      "lon2": 137.650373,
+      "lat2": 36.980448
+    },
+    {
+      "station_cd1": 1140515,
+      "station_cd2": 1140514,
+      "station_name1": "青海",
+      "station_name2": "親不知",
+      "lon1": 137.795622,
+      "lat1": 37.022469,
+      "lon2": 137.738104,
+      "lat2": 37.006818
+    },
+    {
+      "station_cd1": 1140516,
+      "station_cd2": 1140515,
+      "station_name1": "糸魚川",
+      "station_name2": "青海",
+      "lon1": 137.861311,
+      "lat1": 37.043631,
+      "lon2": 137.795622,
+      "lat2": 37.022469
+    },
+    {
+      "station_cd1": 1140517,
+      "station_cd2": 9942302,
+      "station_name1": "梶屋敷",
+      "station_name2": "えちご押上ひすい海岸",
+      "lon1": 137.905738,
+      "lat1": 37.056577,
+      "lon2": 137.8784,
+      "lat2": 37.0482
+    },
+    {
+      "station_cd1": 1140518,
+      "station_cd2": 1140517,
+      "station_name1": "浦本",
+      "station_name2": "梶屋敷",
+      "lon1": 137.939659,
+      "lat1": 37.073935,
+      "lon2": 137.905738,
+      "lat2": 37.056577
+    },
+    {
+      "station_cd1": 1140519,
+      "station_cd2": 1140518,
+      "station_name1": "能生",
+      "station_name2": "浦本",
+      "lon1": 137.988405,
+      "lat1": 37.096049,
+      "lon2": 137.939659,
+      "lat2": 37.073935
+    },
+    {
+      "station_cd1": 1140520,
+      "station_cd2": 1140519,
+      "station_name1": "筒石",
+      "station_name2": "能生",
+      "lon1": 138.060768,
+      "lat1": 37.127473,
+      "lon2": 137.988405,
+      "lat2": 37.096049
+    },
+    {
+      "station_cd1": 1140521,
+      "station_cd2": 1140520,
+      "station_name1": "名立",
+      "station_name2": "筒石",
+      "lon1": 138.092649,
+      "lat1": 37.15584,
+      "lon2": 138.060768,
+      "lat2": 37.127473
+    },
+    {
+      "station_cd1": 1140522,
+      "station_cd2": 1140521,
+      "station_name1": "有間川",
+      "station_name2": "名立",
+      "lon1": 138.136553,
+      "lat1": 37.163323,
+      "lon2": 138.092649,
+      "lat2": 37.15584
+    },
+    {
+      "station_cd1": 1140523,
+      "station_cd2": 1140522,
+      "station_name1": "谷浜",
+      "station_name2": "有間川",
+      "lon1": 138.173867,
+      "lat1": 37.162399,
+      "lon2": 138.136553,
+      "lat2": 37.163323
+    },
+    {
+      "station_cd1": 1140524,
+      "station_cd2": 1140523,
+      "station_name1": "直江津",
+      "station_name2": "谷浜",
+      "lon1": 138.242265,
+      "lat1": 37.170251,
+      "lon2": 138.173867,
+      "lat2": 37.162399
+    },
+    {
+      "station_cd1": 9942302,
+      "station_cd2": 1140516,
+      "station_name1": "えちご押上ひすい海岸",
+      "station_name2": "糸魚川",
+      "lon1": 137.8784,
+      "lat1": 37.0482,
+      "lon2": 137.861311,
+      "lat2": 37.043631
+    }
+  ]
+}

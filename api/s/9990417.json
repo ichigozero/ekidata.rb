@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99904,
+    "line_name": "田川線",
+    "station_cd": 9990417,
+    "station_g_cd": 9990417,
+    "station_name": "令和コスタ行橋",
+    "lon": 130.973278,
+    "lat": 33.716389
+  }
+}

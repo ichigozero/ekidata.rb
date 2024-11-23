@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 31025,
+    "line_name": "近鉄京都線",
+    "station_cd": 3102510,
+    "station_g_cd": 3102510,
+    "station_name": "小倉",
+    "lon": 135.781914,
+    "lat": 34.89304
+  }
+}

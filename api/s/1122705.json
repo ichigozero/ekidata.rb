@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 7,
+    "line_cd": 11227,
+    "line_name": "JR只見線",
+    "station_cd": 1122705,
+    "station_g_cd": 1122705,
+    "station_name": "会津高田",
+    "lon": 139.841266,
+    "lat": 37.470839
+  }
+}

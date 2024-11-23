@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 24,
+      "line_cd": 31010,
+      "line_name": "近鉄鳥羽線",
+      "station_cd": 3101003,
+      "station_name": "朝熊"
+    }
+  ]
+}

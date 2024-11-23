@@ -1,0 +1,32 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3400701,
+      "station_g_cd": 3400211,
+      "station_name": "石橋阪大前",
+      "lon": 135.445487,
+      "lat": 34.808254
+    },
+    {
+      "station_cd": 3400702,
+      "station_g_cd": 3400702,
+      "station_name": "桜井",
+      "lon": 135.460705,
+      "lat": 34.816801
+    },
+    {
+      "station_cd": 3400703,
+      "station_g_cd": 3400703,
+      "station_name": "牧落",
+      "lon": 135.465794,
+      "lat": 34.823436
+    },
+    {
+      "station_cd": 3400704,
+      "station_g_cd": 3400704,
+      "station_name": "箕面",
+      "lon": 135.46819,
+      "lat": 34.834404
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2400701,
+      "station_g_cd": 1130208,
+      "station_name": "新線新宿",
+      "lon": 139.698812,
+      "lat": 35.68869
+    },
+    {
+      "station_cd": 2400704,
+      "station_g_cd": 2400104,
+      "station_name": "笹塚",
+      "lon": 139.667251,
+      "lat": 35.673758
+    },
+    {
+      "station_cd": 2400702,
+      "station_g_cd": 2400102,
+      "station_name": "初台",
+      "lon": 139.686354,
+      "lat": 35.68123
+    },
+    {
+      "station_cd": 2400703,
+      "station_g_cd": 2400103,
+      "station_name": "幡ヶ谷",
+      "lon": 139.676183,
+      "lat": 35.677061
+    }
+  ]
+}

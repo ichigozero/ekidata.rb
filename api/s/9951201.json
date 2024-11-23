@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 99512,
+    "line_name": "リニモ",
+    "station_cd": 9951201,
+    "station_g_cd": 9951201,
+    "station_name": "藤が丘",
+    "lon": 137.02171,
+    "lat": 35.182113
+  }
+}

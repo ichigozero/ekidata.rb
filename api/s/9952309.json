@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 99523,
+    "line_name": "ゆとりーとライン",
+    "station_cd": 9952309,
+    "station_g_cd": 9952309,
+    "station_name": "小幡緑地",
+    "lon": 136.982839,
+    "lat": 35.218785
+  }
+}

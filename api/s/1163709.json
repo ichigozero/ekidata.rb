@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 29,
+    "line_cd": 11637,
+    "line_name": "万葉まほろば線",
+    "station_cd": 1163709,
+    "station_g_cd": 1163709,
+    "station_name": "三輪",
+    "lon": 135.848435,
+    "lat": 34.527138
+  }
+}

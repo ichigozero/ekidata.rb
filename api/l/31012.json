@@ -1,0 +1,25 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3101201,
+      "station_g_cd": 3100315,
+      "station_name": "道明寺",
+      "lon": 135.620399,
+      "lat": 34.56834
+    },
+    {
+      "station_cd": 3101202,
+      "station_g_cd": 3101202,
+      "station_name": "柏原南口",
+      "lon": 135.624956,
+      "lat": 34.58153
+    },
+    {
+      "station_cd": 3101203,
+      "station_g_cd": 1160712,
+      "station_name": "柏原",
+      "lon": 135.623308,
+      "lat": 34.586668
+    }
+  ]
+}

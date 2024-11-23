@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 31,
+    "line_cd": 11616,
+    "line_name": "JR山陰本線(豊岡～米子)",
+    "station_cd": 1161633,
+    "station_g_cd": 1161633,
+    "station_name": "赤碕",
+    "lon": 133.634527,
+    "lat": 35.512437
+  }
+}

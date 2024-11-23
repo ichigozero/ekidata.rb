@@ -1,0 +1,194 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1160101,
+      "station_cd2": 1160102,
+      "station_name1": "米原",
+      "station_name2": "彦根",
+      "lon1": 136.289992,
+      "lat1": 35.314657,
+      "lon2": 136.263347,
+      "lat2": 35.272216
+    },
+    {
+      "station_cd1": 1160102,
+      "station_cd2": 1160103,
+      "station_name1": "彦根",
+      "station_name2": "南彦根",
+      "lon1": 136.263347,
+      "lat1": 35.272216,
+      "lon2": 136.248,
+      "lat2": 35.246097
+    },
+    {
+      "station_cd1": 1160103,
+      "station_cd2": 1160104,
+      "station_name1": "南彦根",
+      "station_name2": "河瀬",
+      "lon1": 136.248,
+      "lat1": 35.246097,
+      "lon2": 136.225285,
+      "lat2": 35.225384
+    },
+    {
+      "station_cd1": 1160104,
+      "station_cd2": 1160105,
+      "station_name1": "河瀬",
+      "station_name2": "稲枝",
+      "lon1": 136.225285,
+      "lat1": 35.225384,
+      "lon2": 136.194469,
+      "lat2": 35.203312
+    },
+    {
+      "station_cd1": 1160105,
+      "station_cd2": 1160106,
+      "station_name1": "稲枝",
+      "station_name2": "能登川",
+      "lon1": 136.194469,
+      "lat1": 35.203312,
+      "lon2": 136.165987,
+      "lat2": 35.179897
+    },
+    {
+      "station_cd1": 1160106,
+      "station_cd2": 1160107,
+      "station_name1": "能登川",
+      "station_name2": "安土",
+      "lon1": 136.165987,
+      "lat1": 35.179897,
+      "lon2": 136.1335,
+      "lat2": 35.142465
+    },
+    {
+      "station_cd1": 1160107,
+      "station_cd2": 1160108,
+      "station_name1": "安土",
+      "station_name2": "近江八幡",
+      "lon1": 136.1335,
+      "lat1": 35.142465,
+      "lon2": 136.102715,
+      "lat2": 35.122765
+    },
+    {
+      "station_cd1": 1160108,
+      "station_cd2": 1160109,
+      "station_name1": "近江八幡",
+      "station_name2": "篠原",
+      "lon1": 136.102715,
+      "lat1": 35.122765,
+      "lon2": 136.071679,
+      "lat2": 35.099203
+    },
+    {
+      "station_cd1": 1160109,
+      "station_cd2": 1160110,
+      "station_name1": "篠原",
+      "station_name2": "野洲",
+      "lon1": 136.071679,
+      "lat1": 35.099203,
+      "lon2": 136.022487,
+      "lat2": 35.068509
+    },
+    {
+      "station_cd1": 1160110,
+      "station_cd2": 1160111,
+      "station_name1": "野洲",
+      "station_name2": "守山",
+      "lon1": 136.022487,
+      "lat1": 35.068509,
+      "lon2": 135.996037,
+      "lat2": 35.050513
+    },
+    {
+      "station_cd1": 1160111,
+      "station_cd2": 1160112,
+      "station_name1": "守山",
+      "station_name2": "栗東",
+      "lon1": 135.996037,
+      "lat1": 35.050513,
+      "lon2": 135.980083,
+      "lat2": 35.037448
+    },
+    {
+      "station_cd1": 1160112,
+      "station_cd2": 1160113,
+      "station_name1": "栗東",
+      "station_name2": "草津",
+      "lon1": 135.980083,
+      "lat1": 35.037448,
+      "lon2": 135.962744,
+      "lat2": 35.022913
+    },
+    {
+      "station_cd1": 1160113,
+      "station_cd2": 1160114,
+      "station_name1": "草津",
+      "station_name2": "南草津",
+      "lon1": 135.962744,
+      "lat1": 35.022913,
+      "lon2": 135.947362,
+      "lat2": 35.003855
+    },
+    {
+      "station_cd1": 1160114,
+      "station_cd2": 1160115,
+      "station_name1": "南草津",
+      "station_name2": "瀬田",
+      "lon1": 135.947362,
+      "lat1": 35.003855,
+      "lon2": 135.925673,
+      "lat2": 34.987223
+    },
+    {
+      "station_cd1": 1160115,
+      "station_cd2": 1160116,
+      "station_name1": "瀬田",
+      "station_name2": "石山",
+      "lon1": 135.925673,
+      "lat1": 34.987223,
+      "lon2": 135.900228,
+      "lat2": 34.97987
+    },
+    {
+      "station_cd1": 1160116,
+      "station_cd2": 1160117,
+      "station_name1": "石山",
+      "station_name2": "膳所",
+      "lon1": 135.900228,
+      "lat1": 34.97987,
+      "lon2": 135.880539,
+      "lat2": 34.999373
+    },
+    {
+      "station_cd1": 1160117,
+      "station_cd2": 1160118,
+      "station_name1": "膳所",
+      "station_name2": "大津",
+      "lon1": 135.880539,
+      "lat1": 34.999373,
+      "lon2": 135.864651,
+      "lat2": 35.002997
+    },
+    {
+      "station_cd1": 1160118,
+      "station_cd2": 1160119,
+      "station_name1": "大津",
+      "station_name2": "山科",
+      "lon1": 135.864651,
+      "lat1": 35.002997,
+      "lon2": 135.816647,
+      "lat2": 34.992636
+    },
+    {
+      "station_cd1": 1160119,
+      "station_cd2": 1160120,
+      "station_name1": "山科",
+      "station_name2": "京都",
+      "lon1": 135.816647,
+      "lat1": 34.992636,
+      "lon2": 135.757748,
+      "lat2": 34.985465
+    }
+  ]
+}

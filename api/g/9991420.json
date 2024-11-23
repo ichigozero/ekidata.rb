@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 42,
+      "line_cd": 99913,
+      "line_name": "長崎電軌１系統",
+      "station_cd": 9991305,
+      "station_name": "若葉町"
+    },
+    {
+      "pref_cd": 42,
+      "line_cd": 99914,
+      "line_name": "長崎電軌３系統",
+      "station_cd": 9991420,
+      "station_name": "若葉町"
+    }
+  ]
+}

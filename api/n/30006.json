@@ -1,0 +1,84 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3000601,
+      "station_cd2": 3000602,
+      "station_name1": "豊田市",
+      "station_name2": "梅坪",
+      "lon1": 137.156227,
+      "lat1": 35.087305,
+      "lon2": 137.162206,
+      "lat2": 35.099654
+    },
+    {
+      "station_cd1": 3000602,
+      "station_cd2": 3000603,
+      "station_name1": "梅坪",
+      "station_name2": "上豊田",
+      "lon1": 137.162206,
+      "lat1": 35.099654,
+      "lon2": 137.15535,
+      "lat2": 35.116168
+    },
+    {
+      "station_cd1": 3000603,
+      "station_cd2": 3000604,
+      "station_name1": "上豊田",
+      "station_name2": "浄水",
+      "lon1": 137.15535,
+      "lat1": 35.116168,
+      "lon2": 137.137186,
+      "lat2": 35.121298
+    },
+    {
+      "station_cd1": 3000604,
+      "station_cd2": 3000605,
+      "station_name1": "浄水",
+      "station_name2": "三好ヶ丘",
+      "lon1": 137.137186,
+      "lat1": 35.121298,
+      "lon2": 137.111219,
+      "lat2": 35.126918
+    },
+    {
+      "station_cd1": 3000605,
+      "station_cd2": 3000606,
+      "station_name1": "三好ヶ丘",
+      "station_name2": "黒笹",
+      "lon1": 137.111219,
+      "lat1": 35.126918,
+      "lon2": 137.091365,
+      "lat2": 35.127681
+    },
+    {
+      "station_cd1": 3000606,
+      "station_cd2": 3000607,
+      "station_name1": "黒笹",
+      "station_name2": "米野木",
+      "lon1": 137.091365,
+      "lat1": 35.127681,
+      "lon2": 137.06702,
+      "lat2": 35.123728
+    },
+    {
+      "station_cd1": 3000607,
+      "station_cd2": 3000608,
+      "station_name1": "米野木",
+      "station_name2": "日進",
+      "lon1": 137.06702,
+      "lat1": 35.123728,
+      "lon2": 137.04878,
+      "lat2": 35.118378
+    },
+    {
+      "station_cd1": 3000608,
+      "station_cd2": 3000609,
+      "station_name1": "日進",
+      "station_name2": "赤池",
+      "lon1": 137.04878,
+      "lat1": 35.118378,
+      "lon2": 137.017978,
+      "lat2": 35.121097
+    }
+  ]
+}

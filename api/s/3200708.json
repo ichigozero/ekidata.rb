@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 32007,
+    "line_name": "南海高野線",
+    "station_cd": 3200708,
+    "station_g_cd": 3200708,
+    "station_name": "住吉東",
+    "lon": 135.497587,
+    "lat": 34.6133
+  }
+}

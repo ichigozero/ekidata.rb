@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 11112,
+    "line_name": "JR札沼線",
+    "station_cd": 1111208,
+    "station_g_cd": 1111208,
+    "station_name": "篠路",
+    "lon": 141.364323,
+    "lat": 43.145152
+  }
+}

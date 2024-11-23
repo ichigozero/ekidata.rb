@@ -1,0 +1,24 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9970801,
+      "station_cd2": 9970802,
+      "station_name1": "みどり口",
+      "station_name2": "みどり中街",
+      "lon1": 132.596248,
+      "lat1": 34.422294,
+      "lon2": 132.594804,
+      "lat2": 34.42771
+    },
+    {
+      "station_cd1": 9970802,
+      "station_cd2": 9970803,
+      "station_name1": "みどり中街",
+      "station_name2": "みどり中央",
+      "lon1": 132.594804,
+      "lat1": 34.42771,
+      "lon2": 132.589435,
+      "lat2": 34.430248
+    }
+  ]
+}

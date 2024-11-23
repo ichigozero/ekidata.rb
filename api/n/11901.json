@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1190101,
+      "station_cd2": 1190102,
+      "station_name1": "博多",
+      "station_name2": "博多南",
+      "lon1": 130.420622,
+      "lat1": 33.590002,
+      "lon2": 130.436997,
+      "lat2": 33.517955
+    }
+  ]
+}

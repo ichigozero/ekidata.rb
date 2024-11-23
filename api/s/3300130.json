@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 33001,
+    "line_name": "京阪本線",
+    "station_cd": 3300130,
+    "station_g_cd": 3300130,
+    "station_name": "守口市",
+    "lon": 135.565273,
+    "lat": 34.735323
+  }
+}

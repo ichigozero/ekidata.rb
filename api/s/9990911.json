@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99909,
+    "line_name": "筑豊電気鉄道線",
+    "station_cd": 9990911,
+    "station_g_cd": 9990911,
+    "station_name": "通谷",
+    "lon": 130.726978,
+    "lat": 33.822994
+  }
+}

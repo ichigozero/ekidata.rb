@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 27003,
+    "line_name": "京急大師線",
+    "station_cd": 2700307,
+    "station_g_cd": 2700307,
+    "station_name": "小島新田",
+    "lon": 139.747575,
+    "lat": 35.534798
+  }
+}

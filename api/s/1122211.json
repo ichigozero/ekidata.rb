@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11222,
+    "line_name": "JR仙石線",
+    "station_cd": 1122211,
+    "station_g_cd": 1122211,
+    "station_name": "多賀城",
+    "lon": 141.005375,
+    "lat": 38.291656
+  }
+}

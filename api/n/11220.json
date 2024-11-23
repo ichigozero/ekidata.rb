@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1122001,
+      "station_cd2": 1122002,
+      "station_name1": "新庄",
+      "station_name2": "升形",
+      "lon1": 140.306064,
+      "lat1": 38.76256,
+      "lon2": 140.24423,
+      "lat2": 38.751646
+    },
+    {
+      "station_cd1": 1122002,
+      "station_cd2": 1122003,
+      "station_name1": "升形",
+      "station_name2": "羽前前波",
+      "lon1": 140.24423,
+      "lat1": 38.751646,
+      "lon2": 140.209525,
+      "lat2": 38.747654
+    },
+    {
+      "station_cd1": 1122003,
+      "station_cd2": 1122004,
+      "station_name1": "羽前前波",
+      "station_name2": "津谷",
+      "lon1": 140.209525,
+      "lat1": 38.747654,
+      "lon2": 140.186375,
+      "lat2": 38.737618
+    },
+    {
+      "station_cd1": 1122004,
+      "station_cd2": 1122005,
+      "station_name1": "津谷",
+      "station_name2": "古口",
+      "lon1": 140.186375,
+      "lat1": 38.737618,
+      "lon2": 140.14602,
+      "lat2": 38.737129
+    },
+    {
+      "station_cd1": 1122005,
+      "station_cd2": 1122006,
+      "station_name1": "古口",
+      "station_name2": "高屋",
+      "lon1": 140.14602,
+      "lat1": 38.737129,
+      "lon2": 140.070936,
+      "lat2": 38.752567
+    },
+    {
+      "station_cd1": 1122006,
+      "station_cd2": 1122007,
+      "station_name1": "高屋",
+      "station_name2": "清川",
+      "lon1": 140.070936,
+      "lat1": 38.752567,
+      "lon2": 140.020761,
+      "lat2": 38.790152
+    },
+    {
+      "station_cd1": 1122007,
+      "station_cd2": 1122008,
+      "station_name1": "清川",
+      "station_name2": "狩川",
+      "lon1": 140.020761,
+      "lat1": 38.790152,
+      "lon2": 139.976777,
+      "lat2": 38.79367
+    },
+    {
+      "station_cd1": 1122008,
+      "station_cd2": 1122009,
+      "station_name1": "狩川",
+      "station_name2": "南野",
+      "lon1": 139.976777,
+      "lat1": 38.79367,
+      "lon2": 139.944742,
+      "lat2": 38.81813
+    },
+    {
+      "station_cd1": 1122009,
+      "station_cd2": 1122010,
+      "station_name1": "南野",
+      "station_name2": "余目",
+      "lon1": 139.944742,
+      "lat1": 38.81813,
+      "lon2": 139.911348,
+      "lat2": 38.844321
+    }
+  ]
+}

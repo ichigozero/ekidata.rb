@@ -1,0 +1,54 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9951001,
+      "station_cd2": 9951002,
+      "station_name1": "枇杷島",
+      "station_name2": "尾張星の宮",
+      "lon1": 136.861816,
+      "lat1": 35.198681,
+      "lon2": 136.855011,
+      "lat2": 35.212988
+    },
+    {
+      "station_cd1": 9951002,
+      "station_cd2": 9951003,
+      "station_name1": "尾張星の宮",
+      "station_name2": "小田井",
+      "lon1": 136.855011,
+      "lat1": 35.212988,
+      "lon2": 136.880491,
+      "lat2": 35.221043
+    },
+    {
+      "station_cd1": 9951003,
+      "station_cd2": 9951004,
+      "station_name1": "小田井",
+      "station_name2": "比良",
+      "lon1": 136.880491,
+      "lat1": 35.221043,
+      "lon2": 136.90178,
+      "lat2": 35.228549
+    },
+    {
+      "station_cd1": 9951004,
+      "station_cd2": 9951005,
+      "station_name1": "比良",
+      "station_name2": "味美",
+      "lon1": 136.90178,
+      "lat1": 35.228549,
+      "lon2": 136.932263,
+      "lat2": 35.229504
+    },
+    {
+      "station_cd1": 9951005,
+      "station_cd2": 9951006,
+      "station_name1": "味美",
+      "station_name2": "勝川",
+      "lon1": 136.932263,
+      "lat1": 35.229504,
+      "lon2": 136.952734,
+      "lat2": 35.227821
+    }
+  ]
+}

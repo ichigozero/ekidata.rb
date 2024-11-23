@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99304,
+    "line_name": "都営新宿線",
+    "station_cd": 9930417,
+    "station_g_cd": 9930417,
+    "station_name": "船堀",
+    "lon": 139.864258,
+    "lat": 35.683795
+  }
+}

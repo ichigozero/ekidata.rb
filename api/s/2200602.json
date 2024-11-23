@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 22006,
+    "line_name": "レオライナー",
+    "station_cd": 2200602,
+    "station_g_cd": 2200602,
+    "station_name": "西武園ゆうえんち",
+    "lon": 139.440166,
+    "lat": 35.769042
+  }
+}

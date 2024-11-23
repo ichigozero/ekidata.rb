@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99908,
+    "line_name": "北九州モノレール",
+    "station_cd": 9990802,
+    "station_g_cd": 9990802,
+    "station_name": "平和通",
+    "lon": 130.881246,
+    "lat": 33.883159
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 36004,
+    "line_name": "西鉄貝塚線",
+    "station_cd": 3600408,
+    "station_g_cd": 1191605,
+    "station_name": "和白",
+    "lon": 130.42976,
+    "lat": 33.688741
+  }
+}

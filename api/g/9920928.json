@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 5,
+      "line_cd": 99209,
+      "line_name": "秋田内陸線",
+      "station_cd": 9920928,
+      "station_name": "羽後太田"
+    }
+  ]
+}

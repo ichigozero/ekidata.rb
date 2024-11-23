@@ -1,0 +1,114 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9941701,
+      "station_cd2": 9941702,
+      "station_name1": "北鉄金沢",
+      "station_name2": "七ツ屋",
+      "lon1": 136.649524,
+      "lat1": 36.578637,
+      "lon2": 136.651752,
+      "lat2": 36.583108
+    },
+    {
+      "station_cd1": 9941702,
+      "station_cd2": 9941703,
+      "station_name1": "七ツ屋",
+      "station_name2": "上諸江",
+      "lon1": 136.651752,
+      "lat1": 36.583108,
+      "lon2": 136.648941,
+      "lat2": 36.590835
+    },
+    {
+      "station_cd1": 9941703,
+      "station_cd2": 9941704,
+      "station_name1": "上諸江",
+      "station_name2": "磯部",
+      "lon1": 136.648941,
+      "lat1": 36.590835,
+      "lon2": 136.648313,
+      "lat2": 36.596554
+    },
+    {
+      "station_cd1": 9941704,
+      "station_cd2": 9941705,
+      "station_name1": "磯部",
+      "station_name2": "割出",
+      "lon1": 136.648313,
+      "lat1": 36.596554,
+      "lon2": 136.648474,
+      "lat2": 36.602619
+    },
+    {
+      "station_cd1": 9941705,
+      "station_cd2": 9941706,
+      "station_name1": "割出",
+      "station_name2": "三口",
+      "lon1": 136.648474,
+      "lat1": 36.602619,
+      "lon2": 136.647579,
+      "lat2": 36.606572
+    },
+    {
+      "station_cd1": 9941706,
+      "station_cd2": 9941707,
+      "station_name1": "三口",
+      "station_name2": "三ツ屋",
+      "lon1": 136.647579,
+      "lat1": 36.606572,
+      "lon2": 136.645538,
+      "lat2": 36.611941
+    },
+    {
+      "station_cd1": 9941707,
+      "station_cd2": 9941708,
+      "station_name1": "三ツ屋",
+      "station_name2": "大河端",
+      "lon1": 136.645538,
+      "lat1": 36.611941,
+      "lon2": 136.643368,
+      "lat2": 36.616701
+    },
+    {
+      "station_cd1": 9941708,
+      "station_cd2": 9941709,
+      "station_name1": "大河端",
+      "station_name2": "北間",
+      "lon1": 136.643368,
+      "lat1": 36.616701,
+      "lon2": 136.641265,
+      "lat2": 36.622625
+    },
+    {
+      "station_cd1": 9941709,
+      "station_cd2": 9941710,
+      "station_name1": "北間",
+      "station_name2": "蚊爪",
+      "lon1": 136.641265,
+      "lat1": 36.622625,
+      "lon2": 136.64319,
+      "lat2": 36.625886
+    },
+    {
+      "station_cd1": 9941710,
+      "station_cd2": 9941711,
+      "station_name1": "蚊爪",
+      "station_name2": "粟ヶ崎",
+      "lon1": 136.64319,
+      "lat1": 36.625886,
+      "lon2": 136.638149,
+      "lat2": 36.630224
+    },
+    {
+      "station_cd1": 9941711,
+      "station_cd2": 9941712,
+      "station_name1": "粟ヶ崎",
+      "station_name2": "内灘",
+      "lon1": 136.638149,
+      "lat1": 36.630224,
+      "lon2": 136.63416,
+      "lat2": 36.63336
+    }
+  ]
+}

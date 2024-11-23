@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 37,
+    "line_cd": 99803,
+    "line_name": "琴電長尾線",
+    "station_cd": 9980313,
+    "station_g_cd": 9980313,
+    "station_name": "平木",
+    "lon": 134.131327,
+    "lat": 34.272134
+  }
+}

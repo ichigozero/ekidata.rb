@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 5,
+    "line_cd": 11202,
+    "line_name": "JR奥羽本線(新庄～青森)",
+    "station_cd": 1120267,
+    "station_g_cd": 1120267,
+    "station_name": "泉外旭川",
+    "lon": 140.112181,
+    "lat": 39.73835
+  }
+}

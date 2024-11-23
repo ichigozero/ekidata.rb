@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11723,
+    "line_name": "JR小野田線",
+    "station_cd": 1172311,
+    "station_g_cd": 1172311,
+    "station_name": "浜河内",
+    "lon": 131.179518,
+    "lat": 33.950529
+  }
+}

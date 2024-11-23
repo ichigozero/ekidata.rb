@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11314,
+    "line_name": "JR総武本線",
+    "station_cd": 1131419,
+    "station_g_cd": 1131419,
+    "station_name": "日向",
+    "lon": 140.362447,
+    "lat": 35.628402
+  }
+}

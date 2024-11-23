@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 4,
+      "line_cd": 11223,
+      "line_name": "JR石巻線",
+      "station_cd": 1122305,
+      "station_name": "佳景山"
+    }
+  ]
+}

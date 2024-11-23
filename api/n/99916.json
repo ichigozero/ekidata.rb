@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9991601,
+      "station_cd2": 9991602,
+      "station_name1": "蛍茶屋",
+      "station_name2": "新中川町",
+      "lon1": 129.894254,
+      "lat1": 32.751135,
+      "lon2": 129.890435,
+      "lat2": 32.752362
+    },
+    {
+      "station_cd1": 9991602,
+      "station_cd2": 9991603,
+      "station_name1": "新中川町",
+      "station_name2": "新大工町",
+      "lon1": 129.890435,
+      "lat1": 32.752362,
+      "lon2": 129.886701,
+      "lat2": 32.75238
+    },
+    {
+      "station_cd1": 9991603,
+      "station_cd2": 9991604,
+      "station_name1": "新大工町",
+      "station_name2": "諏訪神社",
+      "lon1": 129.886701,
+      "lat1": 32.75238,
+      "lon2": 129.884083,
+      "lat2": 32.752596
+    },
+    {
+      "station_cd1": 9991604,
+      "station_cd2": 9991605,
+      "station_name1": "諏訪神社",
+      "station_name2": "市民会館",
+      "lon1": 129.884083,
+      "lat1": 32.752596,
+      "lon2": 129.88065,
+      "lat2": 32.74942
+    },
+    {
+      "station_cd1": 9991605,
+      "station_cd2": 9991606,
+      "station_name1": "市民会館",
+      "station_name2": "めがね橋",
+      "lon1": 129.88065,
+      "lat1": 32.74942,
+      "lon2": 129.878204,
+      "lat2": 32.746785
+    },
+    {
+      "station_cd1": 9991606,
+      "station_cd2": 9991613,
+      "station_name1": "めがね橋",
+      "station_name2": "浜町アーケード",
+      "lon1": 129.878204,
+      "lat1": 32.746785,
+      "lon2": 129.8768124,
+      "lat2": 32.74476168
+    },
+    {
+      "station_cd1": 9991607,
+      "station_cd2": 9991608,
+      "station_name1": "西浜町",
+      "station_name2": "新地中華街",
+      "lon1": 129.876015,
+      "lat1": 32.743735,
+      "lon2": 129.874942,
+      "lat2": 32.742869
+    },
+    {
+      "station_cd1": 9991608,
+      "station_cd2": 9991609,
+      "station_name1": "新地中華街",
+      "station_name2": "メディカルセンター",
+      "lon1": 129.874942,
+      "lat1": 32.742869,
+      "lon2": 129.87241,
+      "lat2": 32.740523
+    },
+    {
+      "station_cd1": 9991609,
+      "station_cd2": 9991610,
+      "station_name1": "メディカルセンター",
+      "station_name2": "大浦海岸通",
+      "lon1": 129.87241,
+      "lat1": 32.740523,
+      "lon2": 129.870608,
+      "lat2": 32.737861
+    },
+    {
+      "station_cd1": 9991610,
+      "station_cd2": 9991611,
+      "station_name1": "大浦海岸通",
+      "station_name2": "大浦天主堂",
+      "lon1": 129.870608,
+      "lat1": 32.737861,
+      "lon2": 129.87078,
+      "lat2": 32.736408
+    },
+    {
+      "station_cd1": 9991611,
+      "station_cd2": 9991612,
+      "station_name1": "大浦天主堂",
+      "station_name2": "石橋",
+      "lon1": 129.87078,
+      "lat1": 32.736408,
+      "lon2": 129.872432,
+      "lat2": 32.734269
+    },
+    {
+      "station_cd1": 9991613,
+      "station_cd2": 9991607,
+      "station_name1": "浜町アーケード",
+      "station_name2": "西浜町",
+      "lon1": 129.8768124,
+      "lat1": 32.74476168,
+      "lon2": 129.876015,
+      "lat2": 32.743735
+    }
+  ]
+}

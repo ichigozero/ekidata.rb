@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 46,
+    "line_cd": 99925,
+    "line_name": "鹿児島市電１系統",
+    "station_cd": 9992513,
+    "station_g_cd": 9992513,
+    "station_name": "荒田八幡",
+    "lon": 130.553015,
+    "lat": 31.573618
+  }
+}

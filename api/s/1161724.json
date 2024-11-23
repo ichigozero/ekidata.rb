@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11617,
+    "line_name": "学研都市線",
+    "station_cd": 1161724,
+    "station_g_cd": 1161724,
+    "station_name": "京橋",
+    "lon": 135.534253,
+    "lat": 34.696047
+  }
+}

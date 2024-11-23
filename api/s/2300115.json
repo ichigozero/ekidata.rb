@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 23001,
+    "line_name": "京成本線",
+    "station_cd": 2300115,
+    "station_g_cd": 2300115,
+    "station_name": "菅野",
+    "lon": 139.919413,
+    "lat": 35.728272
+  }
+}

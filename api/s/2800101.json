@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 28001,
+    "line_name": "東京メトロ銀座線",
+    "station_cd": 2800101,
+    "station_g_cd": 2100201,
+    "station_name": "浅草",
+    "lon": 139.797592,
+    "lat": 35.710733
+  }
+}

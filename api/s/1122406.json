@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11224,
+    "line_name": "JR気仙沼線",
+    "station_cd": 1122406,
+    "station_g_cd": 1122406,
+    "station_name": "柳津",
+    "lon": 141.305947,
+    "lat": 38.611693
+  }
+}

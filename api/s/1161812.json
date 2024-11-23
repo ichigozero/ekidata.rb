@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 11618,
+    "line_name": "奈良線",
+    "station_cd": 1161812,
+    "station_g_cd": 1161812,
+    "station_name": "城陽",
+    "lon": 135.781071,
+    "lat": 34.855536
+  }
+}

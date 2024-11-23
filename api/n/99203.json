@@ -1,0 +1,134 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9920301,
+      "station_cd2": 9920302,
+      "station_name1": "大鰐",
+      "station_name2": "宿川原",
+      "lon1": 140.566822,
+      "lat1": 40.52182,
+      "lon2": 140.557559,
+      "lat2": 40.525153
+    },
+    {
+      "station_cd1": 9920302,
+      "station_cd2": 9920303,
+      "station_name1": "宿川原",
+      "station_name2": "鯖石",
+      "lon1": 140.557559,
+      "lat1": 40.525153,
+      "lon2": 140.5527,
+      "lat2": 40.53561
+    },
+    {
+      "station_cd1": 9920303,
+      "station_cd2": 9920304,
+      "station_name1": "鯖石",
+      "station_name2": "石川プール前",
+      "lon1": 140.5527,
+      "lat1": 40.53561,
+      "lon2": 140.550278,
+      "lat2": 40.543292
+    },
+    {
+      "station_cd1": 9920304,
+      "station_cd2": 9920305,
+      "station_name1": "石川プール前",
+      "station_name2": "石川",
+      "lon1": 140.550278,
+      "lat1": 40.543292,
+      "lon2": 140.541337,
+      "lat2": 40.550967
+    },
+    {
+      "station_cd1": 9920305,
+      "station_cd2": 9920306,
+      "station_name1": "石川",
+      "station_name2": "義塾高校前",
+      "lon1": 140.541337,
+      "lat1": 40.550967,
+      "lon2": 140.527461,
+      "lat2": 40.555824
+    },
+    {
+      "station_cd1": 9920306,
+      "station_cd2": 9920307,
+      "station_name1": "義塾高校前",
+      "station_name2": "津軽大沢",
+      "lon1": 140.527461,
+      "lat1": 40.555824,
+      "lon2": 140.516392,
+      "lat2": 40.557865
+    },
+    {
+      "station_cd1": 9920307,
+      "station_cd2": 9920308,
+      "station_name1": "津軽大沢",
+      "station_name2": "松木平",
+      "lon1": 140.516392,
+      "lat1": 40.557865,
+      "lon2": 140.497097,
+      "lat2": 40.560677
+    },
+    {
+      "station_cd1": 9920308,
+      "station_cd2": 9920309,
+      "station_name1": "松木平",
+      "station_name2": "小栗山",
+      "lon1": 140.497097,
+      "lat1": 40.560677,
+      "lon2": 140.486704,
+      "lat2": 40.564276
+    },
+    {
+      "station_cd1": 9920309,
+      "station_cd2": 9920310,
+      "station_name1": "小栗山",
+      "station_name2": "千年",
+      "lon1": 140.486704,
+      "lat1": 40.564276,
+      "lon2": 140.480282,
+      "lat2": 40.567387
+    },
+    {
+      "station_cd1": 9920310,
+      "station_cd2": 9920311,
+      "station_name1": "千年",
+      "station_name2": "聖愛中高前",
+      "lon1": 140.480282,
+      "lat1": 40.567387,
+      "lon2": 140.47269,
+      "lat2": 40.577202
+    },
+    {
+      "station_cd1": 9920311,
+      "station_cd2": 9920312,
+      "station_name1": "聖愛中高前",
+      "station_name2": "弘前学院大前",
+      "lon1": 140.47269,
+      "lat1": 40.577202,
+      "lon2": 140.470654,
+      "lat2": 40.583363
+    },
+    {
+      "station_cd1": 9920312,
+      "station_cd2": 9920313,
+      "station_name1": "弘前学院大前",
+      "station_name2": "弘高下",
+      "lon1": 140.470654,
+      "lat1": 40.583363,
+      "lon2": 140.468212,
+      "lat2": 40.593078
+    },
+    {
+      "station_cd1": 9920313,
+      "station_cd2": 9920314,
+      "station_name1": "弘高下",
+      "station_name2": "中央弘前",
+      "lon1": 140.468212,
+      "lat1": 40.593078,
+      "lon2": 140.472203,
+      "lat2": 40.599144
+    }
+  ]
+}

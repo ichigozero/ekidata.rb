@@ -1,0 +1,104 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1132201,
+      "station_cd2": 1132202,
+      "station_name1": "大宮",
+      "station_name2": "日進",
+      "lon1": 139.62405,
+      "lat1": 35.906439,
+      "lon2": 139.606111,
+      "lat2": 35.931555
+    },
+    {
+      "station_cd1": 1132202,
+      "station_cd2": 1132211,
+      "station_name1": "日進",
+      "station_name2": "西大宮",
+      "lon1": 139.606111,
+      "lat1": 35.931555,
+      "lon2": 139.5797968,
+      "lat2": 35.92228133
+    },
+    {
+      "station_cd1": 1132203,
+      "station_cd2": 1132204,
+      "station_name1": "指扇",
+      "station_name2": "南古谷",
+      "lon1": 139.564951,
+      "lat1": 35.917023,
+      "lon2": 139.519082,
+      "lat2": 35.903344
+    },
+    {
+      "station_cd1": 1132204,
+      "station_cd2": 1132205,
+      "station_name1": "南古谷",
+      "station_name2": "川越",
+      "lon1": 139.519082,
+      "lat1": 35.903344,
+      "lon2": 139.483078,
+      "lat2": 35.906742
+    },
+    {
+      "station_cd1": 1132205,
+      "station_cd2": 1132206,
+      "station_name1": "川越",
+      "station_name2": "西川越",
+      "lon1": 139.483078,
+      "lat1": 35.906742,
+      "lon2": 139.459746,
+      "lat2": 35.91909
+    },
+    {
+      "station_cd1": 1132206,
+      "station_cd2": 1132207,
+      "station_name1": "西川越",
+      "station_name2": "的場",
+      "lon1": 139.459746,
+      "lat1": 35.91909,
+      "lon2": 139.435376,
+      "lat2": 35.917478
+    },
+    {
+      "station_cd1": 1132207,
+      "station_cd2": 1132208,
+      "station_name1": "的場",
+      "station_name2": "笠幡",
+      "lon1": 139.435376,
+      "lat1": 35.917478,
+      "lon2": 139.40622,
+      "lat2": 35.907551
+    },
+    {
+      "station_cd1": 1132208,
+      "station_cd2": 1132209,
+      "station_name1": "笠幡",
+      "station_name2": "武蔵高萩",
+      "lon1": 139.40622,
+      "lat1": 35.907551,
+      "lon2": 139.371123,
+      "lat2": 35.901729
+    },
+    {
+      "station_cd1": 1132209,
+      "station_cd2": 1132210,
+      "station_name1": "武蔵高萩",
+      "station_name2": "高麗川",
+      "lon1": 139.371123,
+      "lat1": 35.901729,
+      "lon2": 139.33809,
+      "lat2": 35.896328
+    },
+    {
+      "station_cd1": 1132211,
+      "station_cd2": 1132203,
+      "station_name1": "西大宮",
+      "station_name2": "指扇",
+      "lon1": 139.5797968,
+      "lat1": 35.92228133,
+      "lon2": 139.564951,
+      "lat2": 35.917023
+    }
+  ]
+}

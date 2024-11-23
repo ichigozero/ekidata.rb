@@ -1,0 +1,64 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9951501,
+      "station_cd2": 9951502,
+      "station_name1": "金山",
+      "station_name2": "日比野",
+      "lon1": 136.901611,
+      "lat1": 35.14352,
+      "lon2": 136.893125,
+      "lat2": 35.132711
+    },
+    {
+      "station_cd1": 9951502,
+      "station_cd2": 9951503,
+      "station_name1": "日比野",
+      "station_name2": "六番町",
+      "lon1": 136.893125,
+      "lat1": 35.132711,
+      "lon2": 136.888715,
+      "lat2": 35.124623
+    },
+    {
+      "station_cd1": 9951503,
+      "station_cd2": 9951504,
+      "station_name1": "六番町",
+      "station_name2": "東海通",
+      "lon1": 136.888715,
+      "lat1": 35.124623,
+      "lon2": 136.887336,
+      "lat2": 35.113388
+    },
+    {
+      "station_cd1": 9951504,
+      "station_cd2": 9951505,
+      "station_name1": "東海通",
+      "station_name2": "港区役所",
+      "lon1": 136.887336,
+      "lat1": 35.113388,
+      "lon2": 136.88455,
+      "lat2": 35.105736
+    },
+    {
+      "station_cd1": 9951505,
+      "station_cd2": 9951506,
+      "station_name1": "港区役所",
+      "station_name2": "築地口",
+      "lon1": 136.88455,
+      "lat1": 35.105736,
+      "lon2": 136.883162,
+      "lat2": 35.099348
+    },
+    {
+      "station_cd1": 9951506,
+      "station_cd2": 9951507,
+      "station_name1": "築地口",
+      "station_name2": "名古屋港",
+      "lon1": 136.883162,
+      "lat1": 35.099348,
+      "lon2": 136.881971,
+      "lat2": 35.09348
+    }
+  ]
+}

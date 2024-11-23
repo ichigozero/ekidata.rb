@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9940601,
+      "station_cd2": 9940602,
+      "station_name1": "屋代",
+      "station_name2": "東屋代",
+      "lon1": 138.128534,
+      "lat1": 36.531972,
+      "lon2": 138.132084,
+      "lat2": 36.542321
+    },
+    {
+      "station_cd1": 9940602,
+      "station_cd2": 9940603,
+      "station_name1": "東屋代",
+      "station_name2": "雨宮",
+      "lon1": 138.132084,
+      "lat1": 36.542321,
+      "lon2": 138.14809,
+      "lat2": 36.548865
+    },
+    {
+      "station_cd1": 9940603,
+      "station_cd2": 9940604,
+      "station_name1": "雨宮",
+      "station_name2": "岩野",
+      "lon1": 138.14809,
+      "lat1": 36.548865,
+      "lon2": 138.162877,
+      "lat2": 36.560628
+    },
+    {
+      "station_cd1": 9940604,
+      "station_cd2": 9940605,
+      "station_name1": "岩野",
+      "station_name2": "象山口",
+      "lon1": 138.162877,
+      "lat1": 36.560628,
+      "lon2": 138.188596,
+      "lat2": 36.561209
+    },
+    {
+      "station_cd1": 9940605,
+      "station_cd2": 9940606,
+      "station_name1": "象山口",
+      "station_name2": "松代",
+      "lon1": 138.188596,
+      "lat1": 36.561209,
+      "lon2": 138.198083,
+      "lat2": 36.565876
+    },
+    {
+      "station_cd1": 9940606,
+      "station_cd2": 9940607,
+      "station_name1": "松代",
+      "station_name2": "金井山",
+      "lon1": 138.198083,
+      "lat1": 36.565876,
+      "lon2": 138.201443,
+      "lat2": 36.591282
+    },
+    {
+      "station_cd1": 9940607,
+      "station_cd2": 9940608,
+      "station_name1": "金井山",
+      "station_name2": "大室",
+      "lon1": 138.201443,
+      "lat1": 36.591282,
+      "lon2": 138.223692,
+      "lat2": 36.601024
+    },
+    {
+      "station_cd1": 9940608,
+      "station_cd2": 9940609,
+      "station_name1": "大室",
+      "station_name2": "信濃川田",
+      "lon1": 138.223692,
+      "lat1": 36.601024,
+      "lon2": 138.238512,
+      "lat2": 36.605488
+    },
+    {
+      "station_cd1": 9940609,
+      "station_cd2": 9940610,
+      "station_name1": "信濃川田",
+      "station_name2": "若穂",
+      "lon1": 138.238512,
+      "lat1": 36.605488,
+      "lon2": 138.252938,
+      "lat2": 36.610779
+    },
+    {
+      "station_cd1": 9940610,
+      "station_cd2": 9940611,
+      "station_name1": "若穂",
+      "station_name2": "綿内",
+      "lon1": 138.252938,
+      "lat1": 36.610779,
+      "lon2": 138.25961,
+      "lat2": 36.625075
+    },
+    {
+      "station_cd1": 9940611,
+      "station_cd2": 9940612,
+      "station_name1": "綿内",
+      "station_name2": "井上",
+      "lon1": 138.25961,
+      "lat1": 36.625075,
+      "lon2": 138.280758,
+      "lat2": 36.638376
+    },
+    {
+      "station_cd1": 9940612,
+      "station_cd2": 9940613,
+      "station_name1": "井上",
+      "station_name2": "須坂",
+      "lon1": 138.280758,
+      "lat1": 36.638376,
+      "lon2": 138.304239,
+      "lat2": 36.656841
+    }
+  ]
+}

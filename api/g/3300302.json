@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 27,
+      "line_cd": 33003,
+      "line_name": "京阪交野線",
+      "station_cd": 3300302,
+      "station_name": "宮之阪"
+    }
+  ]
+}

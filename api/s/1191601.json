@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 11916,
+    "line_name": "海の中道線",
+    "station_cd": 1191601,
+    "station_g_cd": 1191601,
+    "station_name": "西戸崎",
+    "lon": 130.35777,
+    "lat": 33.650139
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 26005,
+    "line_name": "東急池上線",
+    "station_cd": 2600507,
+    "station_g_cd": 2600507,
+    "station_name": "洗足池",
+    "lon": 139.690896,
+    "lat": 35.599648
+  }
+}

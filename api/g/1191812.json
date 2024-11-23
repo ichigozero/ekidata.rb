@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 42,
+      "line_cd": 11918,
+      "line_name": "JR佐世保線",
+      "station_cd": 1191812,
+      "station_name": "大塔"
+    }
+  ]
+}

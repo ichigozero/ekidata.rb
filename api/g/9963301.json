@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 28,
+      "line_cd": 99632,
+      "line_name": "有馬線",
+      "station_cd": 9963215,
+      "station_name": "有馬口"
+    },
+    {
+      "pref_cd": 28,
+      "line_cd": 99633,
+      "line_name": "三田線",
+      "station_cd": 9963301,
+      "station_name": "有馬口"
+    }
+  ]
+}

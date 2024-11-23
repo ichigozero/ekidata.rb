@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99903,
+    "line_name": "糸田線",
+    "station_cd": 9990302,
+    "station_g_cd": 9990302,
+    "station_name": "豊前大熊",
+    "lon": 130.780387,
+    "lat": 33.672646
+  }
+}

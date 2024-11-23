@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 11618,
+    "line_name": "奈良線",
+    "station_cd": 1161816,
+    "station_g_cd": 1161816,
+    "station_name": "玉水",
+    "lon": 135.807022,
+    "lat": 34.800108
+  }
+}

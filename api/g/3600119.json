@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 40,
+      "line_cd": 36001,
+      "line_name": "西鉄天神大牟田線",
+      "station_cd": 3600119,
+      "station_name": "大保"
+    }
+  ]
+}

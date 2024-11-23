@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11222,
+    "line_name": "JR仙石線",
+    "station_cd": 1122207,
+    "station_g_cd": 1122207,
+    "station_name": "小鶴新田",
+    "lon": 140.935446,
+    "lat": 38.273455
+  }
+}

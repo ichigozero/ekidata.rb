@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 6,
+    "line_cd": 11216,
+    "line_name": "山形線",
+    "station_cd": 1121611,
+    "station_g_cd": 1121611,
+    "station_name": "高畠",
+    "lon": 140.15281,
+    "lat": 37.992314
+  }
+}

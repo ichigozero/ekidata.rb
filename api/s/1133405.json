@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 9,
+    "line_cd": 11334,
+    "line_name": "JR烏山線",
+    "station_cd": 1133405,
+    "station_g_cd": 1133405,
+    "station_name": "大金",
+    "lon": 140.095656,
+    "lat": 36.656275
+  }
+}

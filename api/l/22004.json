@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2200401,
+      "station_g_cd": 2200106,
+      "station_name": "練馬",
+      "lon": 139.654368,
+      "lat": 35.737893
+    },
+    {
+      "station_cd": 2200402,
+      "station_g_cd": 2200402,
+      "station_name": "豊島園",
+      "lon": 139.647979,
+      "lat": 35.742054
+    }
+  ]
+}

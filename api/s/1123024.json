@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11230,
+    "line_name": "JR常磐線(いわき～仙台)",
+    "station_cd": 1123024,
+    "station_g_cd": 1123024,
+    "station_name": "山下",
+    "lon": 140.88902084496573,
+    "lat": 37.96655866238211
+  }
+}

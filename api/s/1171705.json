@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 11717,
+    "line_name": "JR可部線",
+    "station_cd": 1171705,
+    "station_g_cd": 1171705,
+    "station_name": "下祇園",
+    "lon": 132.462328,
+    "lat": 34.439354
+  }
+}

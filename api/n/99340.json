@@ -1,0 +1,144 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9934001,
+      "station_cd2": 9934002,
+      "station_name1": "京成高砂",
+      "station_name2": "新柴又",
+      "lon1": 139.866875,
+      "lat1": 35.750932,
+      "lon2": 139.879376,
+      "lat2": 35.75101
+    },
+    {
+      "station_cd1": 9934002,
+      "station_cd2": 9934003,
+      "station_name1": "新柴又",
+      "station_name2": "矢切",
+      "lon1": 139.879376,
+      "lat1": 35.75101,
+      "lon2": 139.899742,
+      "lat2": 35.757503
+    },
+    {
+      "station_cd1": 9934003,
+      "station_cd2": 9934004,
+      "station_name1": "矢切",
+      "station_name2": "北国分",
+      "lon1": 139.899742,
+      "lat1": 35.757503,
+      "lon2": 139.914252,
+      "lat2": 35.762916
+    },
+    {
+      "station_cd1": 9934004,
+      "station_cd2": 9934005,
+      "station_name1": "北国分",
+      "station_name2": "秋山",
+      "lon1": 139.914252,
+      "lat1": 35.762916,
+      "lon2": 139.930723,
+      "lat2": 35.765299
+    },
+    {
+      "station_cd1": 9934005,
+      "station_cd2": 9934006,
+      "station_name1": "秋山",
+      "station_name2": "東松戸",
+      "lon1": 139.930723,
+      "lat1": 35.765299,
+      "lon2": 139.942957,
+      "lat2": 35.769954
+    },
+    {
+      "station_cd1": 9934006,
+      "station_cd2": 9934007,
+      "station_name1": "東松戸",
+      "station_name2": "松飛台",
+      "lon1": 139.942957,
+      "lat1": 35.769954,
+      "lon2": 139.957739,
+      "lat2": 35.775377
+    },
+    {
+      "station_cd1": 9934007,
+      "station_cd2": 9934008,
+      "station_name1": "松飛台",
+      "station_name2": "大町",
+      "lon1": 139.957739,
+      "lat1": 35.775377,
+      "lon2": 139.973567,
+      "lat2": 35.775103
+    },
+    {
+      "station_cd1": 9934008,
+      "station_cd2": 9934009,
+      "station_name1": "大町",
+      "station_name2": "新鎌ヶ谷",
+      "lon1": 139.973567,
+      "lat1": 35.775103,
+      "lon2": 139.998361,
+      "lat2": 35.779481
+    },
+    {
+      "station_cd1": 9934009,
+      "station_cd2": 9934010,
+      "station_name1": "新鎌ヶ谷",
+      "station_name2": "西白井",
+      "lon1": 139.998361,
+      "lat1": 35.779481,
+      "lon2": 140.031545,
+      "lat2": 35.784364
+    },
+    {
+      "station_cd1": 9934010,
+      "station_cd2": 9934011,
+      "station_name1": "西白井",
+      "station_name2": "白井",
+      "lon1": 140.031545,
+      "lat1": 35.784364,
+      "lon2": 140.0541,
+      "lat2": 35.784723
+    },
+    {
+      "station_cd1": 9934011,
+      "station_cd2": 9934012,
+      "station_name1": "白井",
+      "station_name2": "小室",
+      "lon1": 140.0541,
+      "lat1": 35.784723,
+      "lon2": 140.076073,
+      "lat2": 35.787004
+    },
+    {
+      "station_cd1": 9934012,
+      "station_cd2": 9934013,
+      "station_name1": "小室",
+      "station_name2": "千葉ニュータウン中央",
+      "lon1": 140.076073,
+      "lat1": 35.787004,
+      "lon2": 140.116159,
+      "lat2": 35.800175
+    },
+    {
+      "station_cd1": 9934013,
+      "station_cd2": 9934014,
+      "station_name1": "千葉ニュータウン中央",
+      "station_name2": "印西牧の原",
+      "lon1": 140.116159,
+      "lat1": 35.800175,
+      "lon2": 140.166911,
+      "lat2": 35.803608
+    },
+    {
+      "station_cd1": 9934014,
+      "station_cd2": 9934015,
+      "station_name1": "印西牧の原",
+      "station_name2": "印旛日本医大",
+      "lon1": 140.166911,
+      "lat1": 35.803608,
+      "lon2": 140.203112,
+      "lat2": 35.787512
+    }
+  ]
+}

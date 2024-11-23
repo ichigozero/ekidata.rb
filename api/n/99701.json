@@ -1,0 +1,84 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9970101,
+      "station_cd2": 9970102,
+      "station_name1": "郡家",
+      "station_name2": "八頭高校前",
+      "lon1": 134.250807,
+      "lat1": 35.412824,
+      "lon2": 134.246254,
+      "lat2": 35.405799
+    },
+    {
+      "station_cd1": 9970102,
+      "station_cd2": 9970103,
+      "station_name1": "八頭高校前",
+      "station_name2": "因幡船岡",
+      "lon1": 134.246254,
+      "lat1": 35.405799,
+      "lon2": 134.249174,
+      "lat2": 35.395187
+    },
+    {
+      "station_cd1": 9970103,
+      "station_cd2": 9970104,
+      "station_name1": "因幡船岡",
+      "station_name2": "隼",
+      "lon1": 134.249174,
+      "lat1": 35.395187,
+      "lon2": 134.270503,
+      "lat2": 35.388707
+    },
+    {
+      "station_cd1": 9970104,
+      "station_cd2": 9970105,
+      "station_name1": "隼",
+      "station_name2": "安部",
+      "lon1": 134.270503,
+      "lat1": 35.388707,
+      "lon2": 134.291682,
+      "lat2": 35.374526
+    },
+    {
+      "station_cd1": 9970105,
+      "station_cd2": 9970106,
+      "station_name1": "安部",
+      "station_name2": "八東",
+      "lon1": 134.291682,
+      "lat1": 35.374526,
+      "lon2": 134.316496,
+      "lat2": 35.363572
+    },
+    {
+      "station_cd1": 9970106,
+      "station_cd2": 9970107,
+      "station_name1": "八東",
+      "station_name2": "徳丸",
+      "lon1": 134.316496,
+      "lat1": 35.363572,
+      "lon2": 134.335719,
+      "lat2": 35.364323
+    },
+    {
+      "station_cd1": 9970107,
+      "station_cd2": 9970108,
+      "station_name1": "徳丸",
+      "station_name2": "丹比",
+      "lon1": 134.335719,
+      "lat1": 35.364323,
+      "lon2": 134.356175,
+      "lat2": 35.360734
+    },
+    {
+      "station_cd1": 9970108,
+      "station_cd2": 9970109,
+      "station_name1": "丹比",
+      "station_name2": "若桜",
+      "lon1": 134.356175,
+      "lat1": 35.360734,
+      "lon2": 134.398289,
+      "lat2": 35.345253
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 15,
+      "line_cd": 11410,
+      "line_name": "JR弥彦線",
+      "station_cd": 1141007,
+      "station_name": "北三条"
+    }
+  ]
+}

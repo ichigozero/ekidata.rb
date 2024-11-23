@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9963101,
+      "station_g_cd": 9963006,
+      "station_name": "新開地",
+      "lon": 135.169291,
+      "lat": 34.675981
+    },
+    {
+      "station_cd": 9963102,
+      "station_g_cd": 9963102,
+      "station_name": "湊川",
+      "lon": 135.166426,
+      "lat": 34.679153
+    }
+  ]
+}

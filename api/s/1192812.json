@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 45,
+    "line_cd": 11928,
+    "line_name": "JR日南線",
+    "station_cd": 1192812,
+    "station_g_cd": 1192812,
+    "station_name": "小内海",
+    "lon": 131.466127,
+    "lat": 31.737838
+  }
+}

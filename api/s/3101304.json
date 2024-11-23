@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 31013,
+    "line_name": "内部線",
+    "station_cd": 3101304,
+    "station_g_cd": 3101304,
+    "station_name": "南日永",
+    "lon": 136.601015,
+    "lat": 34.949949
+  }
+}

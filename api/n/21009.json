@@ -1,0 +1,84 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2100901,
+      "station_cd2": 2100902,
+      "station_name1": "下今市",
+      "station_name2": "大谷向",
+      "lon1": 139.692666,
+      "lat1": 36.72563,
+      "lon2": 139.691916,
+      "lat2": 36.73224
+    },
+    {
+      "station_cd1": 2100902,
+      "station_cd2": 2100903,
+      "station_name1": "大谷向",
+      "station_name2": "大桑",
+      "lon1": 139.691916,
+      "lat1": 36.73224,
+      "lon2": 139.713546,
+      "lat2": 36.76079
+    },
+    {
+      "station_cd1": 2100903,
+      "station_cd2": 2100904,
+      "station_name1": "大桑",
+      "station_name2": "新高徳",
+      "lon1": 139.713546,
+      "lat1": 36.76079,
+      "lon2": 139.710623,
+      "lat2": 36.779816
+    },
+    {
+      "station_cd1": 2100904,
+      "station_cd2": 2100905,
+      "station_name1": "新高徳",
+      "station_name2": "小佐越",
+      "lon1": 139.710623,
+      "lat1": 36.779816,
+      "lon2": 139.706465,
+      "lat2": 36.802252
+    },
+    {
+      "station_cd1": 2100905,
+      "station_cd2": 2100909,
+      "station_name1": "小佐越",
+      "station_name2": "東武ワールドスクウェア",
+      "lon1": 139.706465,
+      "lat1": 36.802252,
+      "lon2": 139.709083,
+      "lat2": 36.808333
+    },
+    {
+      "station_cd1": 2100906,
+      "station_cd2": 2100907,
+      "station_name1": "鬼怒川温泉",
+      "station_name2": "鬼怒川公園",
+      "lon1": 139.716552,
+      "lat1": 36.822622,
+      "lon2": 139.72287,
+      "lat2": 36.841
+    },
+    {
+      "station_cd1": 2100907,
+      "station_cd2": 2100908,
+      "station_name1": "鬼怒川公園",
+      "station_name2": "新藤原",
+      "lon1": 139.72287,
+      "lat1": 36.841,
+      "lon2": 139.732963,
+      "lat2": 36.852505
+    },
+    {
+      "station_cd1": 2100909,
+      "station_cd2": 2100906,
+      "station_name1": "東武ワールドスクウェア",
+      "station_name2": "鬼怒川温泉",
+      "lon1": 139.709083,
+      "lat1": 36.808333,
+      "lon2": 139.716552,
+      "lat2": 36.822622
+    }
+  ]
+}

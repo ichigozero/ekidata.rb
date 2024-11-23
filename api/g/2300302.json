@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 13,
+      "line_cd": 23003,
+      "line_name": "京成金町線",
+      "station_cd": 2300302,
+      "station_name": "柴又"
+    }
+  ]
+}

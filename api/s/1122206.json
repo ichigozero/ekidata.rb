@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11222,
+    "line_name": "JR仙石線",
+    "station_cd": 1122206,
+    "station_g_cd": 1122206,
+    "station_name": "苦竹",
+    "lon": 140.918867,
+    "lat": 38.268722
+  }
+}

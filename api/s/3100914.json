@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 31009,
+    "line_name": "近鉄山田線",
+    "station_cd": 3100914,
+    "station_g_cd": 3100914,
+    "station_name": "宇治山田",
+    "lon": 136.714002,
+    "lat": 34.488256
+  }
+}

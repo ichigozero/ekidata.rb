@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 11103,
+    "line_name": "JR函館本線(小樽～旭川)",
+    "station_cd": 1110322,
+    "station_g_cd": 1110322,
+    "station_name": "高砂",
+    "lon": 141.540752,
+    "lat": 43.100084
+  }
+}

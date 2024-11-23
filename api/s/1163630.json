@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 30,
+    "line_cd": 11636,
+    "line_name": "JR和歌山線",
+    "station_cd": 1163630,
+    "station_g_cd": 1163630,
+    "station_name": "岩出",
+    "lon": 135.321272,
+    "lat": 34.254945
+  }
+}

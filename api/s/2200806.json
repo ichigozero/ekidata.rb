@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 22008,
+    "line_name": "西武拝島線",
+    "station_cd": 2200806,
+    "station_g_cd": 2200806,
+    "station_name": "武蔵砂川",
+    "lon": 139.392319,
+    "lat": 35.728876
+  }
+}

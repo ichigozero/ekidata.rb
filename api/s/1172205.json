@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11722,
+    "line_name": "JR美祢線",
+    "station_cd": 1172205,
+    "station_g_cd": 1172205,
+    "station_name": "南大嶺",
+    "lon": 131.185299,
+    "lat": 34.161483
+  }
+}

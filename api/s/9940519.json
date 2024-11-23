@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 20,
+    "line_cd": 99405,
+    "line_name": "長野電鉄長野線",
+    "station_cd": 9940519,
+    "station_g_cd": 9940519,
+    "station_name": "信州中野",
+    "lon": 138.364901,
+    "lat": 36.74476
+  }
+}

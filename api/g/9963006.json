@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 28,
+      "line_cd": 99630,
+      "line_name": "神戸高速東西線",
+      "station_cd": 9963006,
+      "station_name": "新開地"
+    },
+    {
+      "pref_cd": 28,
+      "line_cd": 99631,
+      "line_name": "神戸高速南北線",
+      "station_cd": 9963101,
+      "station_name": "新開地"
+    }
+  ]
+}

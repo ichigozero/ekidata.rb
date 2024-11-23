@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 6,
+    "line_cd": 11218,
+    "line_name": "フルーツライン左沢線",
+    "station_cd": 1121803,
+    "station_g_cd": 1121803,
+    "station_name": "東金井",
+    "lon": 140.302666,
+    "lat": 38.277058
+  }
+}

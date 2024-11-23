@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9920201,
+      "station_cd2": 9920202,
+      "station_name1": "弘前",
+      "station_name2": "弘前東高前",
+      "lon1": 140.485708,
+      "lat1": 40.59899,
+      "lon2": 140.488529,
+      "lat2": 40.592301
+    },
+    {
+      "station_cd1": 9920202,
+      "station_cd2": 9920203,
+      "station_name1": "弘前東高前",
+      "station_name2": "運動公園前",
+      "lon1": 140.488529,
+      "lat1": 40.592301,
+      "lon2": 140.502875,
+      "lat2": 40.589527
+    },
+    {
+      "station_cd1": 9920203,
+      "station_cd2": 9920204,
+      "station_name1": "運動公園前",
+      "station_name2": "新里",
+      "lon1": 140.502875,
+      "lat1": 40.589527,
+      "lon2": 140.519879,
+      "lat2": 40.587445
+    },
+    {
+      "station_cd1": 9920204,
+      "station_cd2": 9920205,
+      "station_name1": "新里",
+      "station_name2": "館田",
+      "lon1": 140.519879,
+      "lat1": 40.587445,
+      "lon2": 140.538617,
+      "lat2": 40.585135
+    },
+    {
+      "station_cd1": 9920205,
+      "station_cd2": 9920206,
+      "station_name1": "館田",
+      "station_name2": "平賀",
+      "lon1": 140.538617,
+      "lat1": 40.585135,
+      "lon2": 140.561048,
+      "lat2": 40.585044
+    },
+    {
+      "station_cd1": 9920206,
+      "station_cd2": 9920207,
+      "station_name1": "平賀",
+      "station_name2": "柏農高校前",
+      "lon1": 140.561048,
+      "lat1": 40.585044,
+      "lon2": 140.564367,
+      "lat2": 40.601867
+    },
+    {
+      "station_cd1": 9920207,
+      "station_cd2": 9920208,
+      "station_name1": "柏農高校前",
+      "station_name2": "津軽尾上",
+      "lon1": 140.564367,
+      "lat1": 40.601867,
+      "lon2": 140.576068,
+      "lat2": 40.613869
+    },
+    {
+      "station_cd1": 9920208,
+      "station_cd2": 9920209,
+      "station_name1": "津軽尾上",
+      "station_name2": "尾上高校前",
+      "lon1": 140.576068,
+      "lat1": 40.613869,
+      "lon2": 140.576806,
+      "lat2": 40.627634
+    },
+    {
+      "station_cd1": 9920209,
+      "station_cd2": 9920213,
+      "station_name1": "尾上高校前",
+      "station_name2": "田んぼアート",
+      "lon1": 140.576806,
+      "lat1": 40.627634,
+      "lon2": 140.573694,
+      "lat2": 40.632833
+    },
+    {
+      "station_cd1": 9920210,
+      "station_cd2": 9920211,
+      "station_name1": "田舎館",
+      "station_name2": "境松",
+      "lon1": 140.57097,
+      "lat1": 40.637274,
+      "lon2": 140.575691,
+      "lat2": 40.648609
+    },
+    {
+      "station_cd1": 9920211,
+      "station_cd2": 9920212,
+      "station_name1": "境松",
+      "station_name2": "黒石",
+      "lon1": 140.575691,
+      "lat1": 40.648609,
+      "lon2": 140.591045,
+      "lat2": 40.648342
+    },
+    {
+      "station_cd1": 9920213,
+      "station_cd2": 9920210,
+      "station_name1": "田んぼアート",
+      "station_name2": "田舎館",
+      "lon1": 140.573694,
+      "lat1": 40.632833,
+      "lon2": 140.57097,
+      "lat2": 40.637274
+    }
+  ]
+}

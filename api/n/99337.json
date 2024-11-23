@@ -1,0 +1,74 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9933701,
+      "station_cd2": 9933702,
+      "station_name1": "新木場",
+      "station_name2": "東雲",
+      "lon1": 139.827402,
+      "lat1": 35.646172,
+      "lon2": 139.804395,
+      "lat2": 35.640987
+    },
+    {
+      "station_cd1": 9933702,
+      "station_cd2": 9933703,
+      "station_name1": "東雲",
+      "station_name2": "国際展示場",
+      "lon1": 139.804395,
+      "lat1": 35.640987,
+      "lon2": 139.791617,
+      "lat2": 35.63441
+    },
+    {
+      "station_cd1": 9933703,
+      "station_cd2": 9933704,
+      "station_name1": "国際展示場",
+      "station_name2": "東京テレポート",
+      "lon1": 139.791617,
+      "lat1": 35.63441,
+      "lon2": 139.778896,
+      "lat2": 35.62753
+    },
+    {
+      "station_cd1": 9933704,
+      "station_cd2": 9933705,
+      "station_name1": "東京テレポート",
+      "station_name2": "天王洲アイル",
+      "lon1": 139.778896,
+      "lat1": 35.62753,
+      "lon2": 139.750793,
+      "lat2": 35.620562
+    },
+    {
+      "station_cd1": 9933705,
+      "station_cd2": 9933706,
+      "station_name1": "天王洲アイル",
+      "station_name2": "品川シーサイド",
+      "lon1": 139.750793,
+      "lat1": 35.620562,
+      "lon2": 139.749549,
+      "lat2": 35.608524
+    },
+    {
+      "station_cd1": 9933706,
+      "station_cd2": 9933707,
+      "station_name1": "品川シーサイド",
+      "station_name2": "大井町",
+      "lon1": 139.749549,
+      "lat1": 35.608524,
+      "lon2": 139.735025,
+      "lat2": 35.607535
+    },
+    {
+      "station_cd1": 9933707,
+      "station_cd2": 9933708,
+      "station_name1": "大井町",
+      "station_name2": "大崎",
+      "lon1": 139.735025,
+      "lat1": 35.607535,
+      "lon2": 139.728439,
+      "lat2": 35.619772
+    }
+  ]
+}

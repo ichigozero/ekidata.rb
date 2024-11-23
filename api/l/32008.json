@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3200801,
+      "station_g_cd": 3200742,
+      "station_name": "極楽橋",
+      "lon": 135.582078,
+      "lat": 34.23435
+    },
+    {
+      "station_cd": 3200802,
+      "station_g_cd": 3200802,
+      "station_name": "高野山",
+      "lon": 135.577619,
+      "lat": 34.227789
+    }
+  ]
+}

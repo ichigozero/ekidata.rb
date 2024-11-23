@@ -1,0 +1,254 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2100301,
+      "station_cd2": 2100302,
+      "station_name1": "東武動物公園",
+      "station_name2": "杉戸高野台",
+      "lon1": 139.726901,
+      "lat1": 36.024604,
+      "lon2": 139.714582,
+      "lat2": 36.051536
+    },
+    {
+      "station_cd1": 2100302,
+      "station_cd2": 2100303,
+      "station_name1": "杉戸高野台",
+      "station_name2": "幸手",
+      "lon1": 139.714582,
+      "lat1": 36.051536,
+      "lon2": 139.714937,
+      "lat2": 36.074297
+    },
+    {
+      "station_cd1": 2100303,
+      "station_cd2": 2100304,
+      "station_name1": "幸手",
+      "station_name2": "南栗橋",
+      "lon1": 139.714937,
+      "lat1": 36.074297,
+      "lon2": 139.713004,
+      "lat2": 36.113157
+    },
+    {
+      "station_cd1": 2100304,
+      "station_cd2": 2100305,
+      "station_name1": "南栗橋",
+      "station_name2": "栗橋",
+      "lon1": 139.713004,
+      "lat1": 36.113157,
+      "lon2": 139.693855,
+      "lat2": 36.137034
+    },
+    {
+      "station_cd1": 2100305,
+      "station_cd2": 2100306,
+      "station_name1": "栗橋",
+      "station_name2": "新古河",
+      "lon1": 139.693855,
+      "lat1": 36.137034,
+      "lon2": 139.686904,
+      "lat2": 36.192686
+    },
+    {
+      "station_cd1": 2100306,
+      "station_cd2": 2100307,
+      "station_name1": "新古河",
+      "station_name2": "柳生",
+      "lon1": 139.686904,
+      "lat1": 36.192686,
+      "lon2": 139.659645,
+      "lat2": 36.206756
+    },
+    {
+      "station_cd1": 2100307,
+      "station_cd2": 2100308,
+      "station_name1": "柳生",
+      "station_name2": "板倉東洋大前",
+      "lon1": 139.659645,
+      "lat1": 36.206756,
+      "lon2": 139.648493,
+      "lat2": 36.222404
+    },
+    {
+      "station_cd1": 2100308,
+      "station_cd2": 2100309,
+      "station_name1": "板倉東洋大前",
+      "station_name2": "藤岡",
+      "lon1": 139.648493,
+      "lat1": 36.222404,
+      "lon2": 139.64555,
+      "lat2": 36.255628
+    },
+    {
+      "station_cd1": 2100309,
+      "station_cd2": 2100310,
+      "station_name1": "藤岡",
+      "station_name2": "静和",
+      "lon1": 139.64555,
+      "lat1": 36.255628,
+      "lon2": 139.684864,
+      "lat2": 36.31651
+    },
+    {
+      "station_cd1": 2100310,
+      "station_cd2": 2100311,
+      "station_name1": "静和",
+      "station_name2": "新大平下",
+      "lon1": 139.684864,
+      "lat1": 36.31651,
+      "lon2": 139.701886,
+      "lat2": 36.339024
+    },
+    {
+      "station_cd1": 2100311,
+      "station_cd2": 2100312,
+      "station_name1": "新大平下",
+      "station_name2": "栃木",
+      "lon1": 139.701886,
+      "lat1": 36.339024,
+      "lon2": 139.731037,
+      "lat2": 36.371912
+    },
+    {
+      "station_cd1": 2100312,
+      "station_cd2": 2100313,
+      "station_name1": "栃木",
+      "station_name2": "新栃木",
+      "lon1": 139.731037,
+      "lat1": 36.371912,
+      "lon2": 139.742308,
+      "lat2": 36.390149
+    },
+    {
+      "station_cd1": 2100313,
+      "station_cd2": 2100314,
+      "station_name1": "新栃木",
+      "station_name2": "合戦場",
+      "lon1": 139.742308,
+      "lat1": 36.390149,
+      "lon2": 139.741057,
+      "lat2": 36.407647
+    },
+    {
+      "station_cd1": 2100314,
+      "station_cd2": 2100315,
+      "station_name1": "合戦場",
+      "station_name2": "家中",
+      "lon1": 139.741057,
+      "lat1": 36.407647,
+      "lon2": 139.747344,
+      "lat2": 36.429783
+    },
+    {
+      "station_cd1": 2100315,
+      "station_cd2": 2100316,
+      "station_name1": "家中",
+      "station_name2": "東武金崎",
+      "lon1": 139.747344,
+      "lat1": 36.429783,
+      "lon2": 139.749468,
+      "lat2": 36.466288
+    },
+    {
+      "station_cd1": 2100316,
+      "station_cd2": 2100317,
+      "station_name1": "東武金崎",
+      "station_name2": "楡木",
+      "lon1": 139.749468,
+      "lat1": 36.466288,
+      "lon2": 139.745164,
+      "lat2": 36.507497
+    },
+    {
+      "station_cd1": 2100317,
+      "station_cd2": 2100318,
+      "station_name1": "楡木",
+      "station_name2": "樅山",
+      "lon1": 139.745164,
+      "lat1": 36.507497,
+      "lon2": 139.741875,
+      "lat2": 36.532667
+    },
+    {
+      "station_cd1": 2100318,
+      "station_cd2": 2100319,
+      "station_name1": "樅山",
+      "station_name2": "新鹿沼",
+      "lon1": 139.741875,
+      "lat1": 36.532667,
+      "lon2": 139.74478,
+      "lat2": 36.556998
+    },
+    {
+      "station_cd1": 2100319,
+      "station_cd2": 2100320,
+      "station_name1": "新鹿沼",
+      "station_name2": "北鹿沼",
+      "lon1": 139.74478,
+      "lat1": 36.556998,
+      "lon2": 139.737646,
+      "lat2": 36.580811
+    },
+    {
+      "station_cd1": 2100320,
+      "station_cd2": 2100321,
+      "station_name1": "北鹿沼",
+      "station_name2": "板荷",
+      "lon1": 139.737646,
+      "lat1": 36.580811,
+      "lon2": 139.707739,
+      "lat2": 36.619476
+    },
+    {
+      "station_cd1": 2100321,
+      "station_cd2": 2100322,
+      "station_name1": "板荷",
+      "station_name2": "下小代",
+      "lon1": 139.707739,
+      "lat1": 36.619476,
+      "lon2": 139.713849,
+      "lat2": 36.651303
+    },
+    {
+      "station_cd1": 2100322,
+      "station_cd2": 2100323,
+      "station_name1": "下小代",
+      "station_name2": "明神",
+      "lon1": 139.713849,
+      "lat1": 36.651303,
+      "lon2": 139.712301,
+      "lat2": 36.676566
+    },
+    {
+      "station_cd1": 2100323,
+      "station_cd2": 2100324,
+      "station_name1": "明神",
+      "station_name2": "下今市",
+      "lon1": 139.712301,
+      "lat1": 36.676566,
+      "lon2": 139.692666,
+      "lat2": 36.72563
+    },
+    {
+      "station_cd1": 2100324,
+      "station_cd2": 2100325,
+      "station_name1": "下今市",
+      "station_name2": "上今市",
+      "lon1": 139.692666,
+      "lat1": 36.72563,
+      "lon2": 139.681026,
+      "lat2": 36.727962
+    },
+    {
+      "station_cd1": 2100325,
+      "station_cd2": 2100326,
+      "station_name1": "上今市",
+      "station_name2": "東武日光",
+      "lon1": 139.681026,
+      "lat1": 36.727962,
+      "lon2": 139.61975,
+      "lat2": 36.748233
+    }
+  ]
+}

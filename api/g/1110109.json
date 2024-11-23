@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 1,
+      "line_cd": 11101,
+      "line_name": "JR函館本線(函館～長万部)",
+      "station_cd": 1110109,
+      "station_name": "大沼公園"
+    }
+  ]
+}

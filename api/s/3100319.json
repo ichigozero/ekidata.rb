@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 29,
+    "line_cd": 31003,
+    "line_name": "近鉄南大阪線",
+    "station_cd": 3100319,
+    "station_g_cd": 3100319,
+    "station_name": "二上山",
+    "lon": 135.685974,
+    "lat": 34.53907
+  }
+}

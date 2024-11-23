@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 30,
+      "line_cd": 32008,
+      "line_name": "南海高野山ケーブル",
+      "station_cd": 3200802,
+      "station_name": "高野山"
+    }
+  ]
+}

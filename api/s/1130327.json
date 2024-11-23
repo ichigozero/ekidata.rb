@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 11303,
+    "line_name": "JR南武線",
+    "station_cd": 1130327,
+    "station_g_cd": 1130327,
+    "station_name": "川崎新町",
+    "lon": 139.699348,
+    "lat": 35.518234
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11617,
+    "line_name": "学研都市線",
+    "station_cd": 1161716,
+    "station_g_cd": 1161716,
+    "station_name": "忍ケ丘",
+    "lon": 135.645232,
+    "lat": 34.745762
+  }
+}

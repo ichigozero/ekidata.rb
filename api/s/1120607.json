@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 2,
+    "line_cd": 11206,
+    "line_name": "JR八戸線",
+    "station_cd": 1120607,
+    "station_g_cd": 1120607,
+    "station_name": "鮫",
+    "lon": 141.554891,
+    "lat": 40.530244
+  }
+}

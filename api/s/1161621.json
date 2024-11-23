@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 31,
+    "line_cd": 11616,
+    "line_name": "JR山陰本線(豊岡～米子)",
+    "station_cd": 1161621,
+    "station_g_cd": 1161621,
+    "station_name": "鳥取大学前",
+    "lon": 134.174305,
+    "lat": 35.51804
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 28,
+      "line_cd": 35001,
+      "line_name": "阪神本線",
+      "station_cd": 3500108,
+      "station_name": "大物"
+    },
+    {
+      "pref_cd": 28,
+      "line_cd": 35002,
+      "line_name": "阪神なんば線",
+      "station_cd": 3500206,
+      "station_name": "大物"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 25,
+    "line_cd": 11605,
+    "line_name": "JR湖西線",
+    "station_cd": 1160520,
+    "station_g_cd": 1160520,
+    "station_name": "マキノ",
+    "lon": 136.05978,
+    "lat": 35.461437
+  }
+}

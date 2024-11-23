@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9950201,
+      "station_cd2": 9950202,
+      "station_name1": "三島",
+      "station_name2": "三島広小路",
+      "lon1": 138.911369,
+      "lat1": 35.125946,
+      "lon2": 138.911202,
+      "lat2": 35.119272
+    },
+    {
+      "station_cd1": 9950202,
+      "station_cd2": 9950203,
+      "station_name1": "三島広小路",
+      "station_name2": "三島田町",
+      "lon1": 138.911202,
+      "lat1": 35.119272,
+      "lon2": 138.918421,
+      "lat2": 35.116205
+    },
+    {
+      "station_cd1": 9950203,
+      "station_cd2": 9950204,
+      "station_name1": "三島田町",
+      "station_name2": "三島二日町",
+      "lon1": 138.918421,
+      "lat1": 35.116205,
+      "lon2": 138.926001,
+      "lat2": 35.111039
+    },
+    {
+      "station_cd1": 9950204,
+      "station_cd2": 9950205,
+      "station_name1": "三島二日町",
+      "station_name2": "大場",
+      "lon1": 138.926001,
+      "lat1": 35.111039,
+      "lon2": 138.939414,
+      "lat2": 35.092569
+    },
+    {
+      "station_cd1": 9950205,
+      "station_cd2": 9950206,
+      "station_name1": "大場",
+      "station_name2": "伊豆仁田",
+      "lon1": 138.939414,
+      "lat1": 35.092569,
+      "lon2": 138.941509,
+      "lat2": 35.078821
+    },
+    {
+      "station_cd1": 9950206,
+      "station_cd2": 9950207,
+      "station_name1": "伊豆仁田",
+      "station_name2": "原木",
+      "lon1": 138.941509,
+      "lat1": 35.078821,
+      "lon2": 138.943695,
+      "lat2": 35.065653
+    },
+    {
+      "station_cd1": 9950207,
+      "station_cd2": 9950208,
+      "station_name1": "原木",
+      "station_name2": "韮山",
+      "lon1": 138.943695,
+      "lat1": 35.065653,
+      "lon2": 138.945467,
+      "lat2": 35.053547
+    },
+    {
+      "station_cd1": 9950208,
+      "station_cd2": 9950209,
+      "station_name1": "韮山",
+      "station_name2": "伊豆長岡",
+      "lon1": 138.945467,
+      "lat1": 35.053547,
+      "lon2": 138.947539,
+      "lat2": 35.039907
+    },
+    {
+      "station_cd1": 9950209,
+      "station_cd2": 9950210,
+      "station_name1": "伊豆長岡",
+      "station_name2": "田京",
+      "lon1": 138.947539,
+      "lat1": 35.039907,
+      "lon2": 138.945767,
+      "lat2": 35.014551
+    },
+    {
+      "station_cd1": 9950210,
+      "station_cd2": 9950211,
+      "station_name1": "田京",
+      "station_name2": "大仁",
+      "lon1": 138.945767,
+      "lat1": 35.014551,
+      "lon2": 138.937527,
+      "lat2": 34.994467
+    },
+    {
+      "station_cd1": 9950211,
+      "station_cd2": 9950212,
+      "station_name1": "大仁",
+      "station_name2": "牧之郷",
+      "lon1": 138.937527,
+      "lat1": 34.994467,
+      "lon2": 138.954317,
+      "lat2": 34.988677
+    },
+    {
+      "station_cd1": 9950212,
+      "station_cd2": 9950213,
+      "station_name1": "牧之郷",
+      "station_name2": "修善寺",
+      "lon1": 138.954317,
+      "lat1": 34.988677,
+      "lon2": 138.950545,
+      "lat2": 34.979091
+    }
+  ]
+}

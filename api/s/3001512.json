@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 30015,
+    "line_name": "名鉄犬山線",
+    "station_cd": 3001512,
+    "station_g_cd": 3001512,
+    "station_name": "布袋",
+    "lon": 136.872987,
+    "lat": 35.317135
+  }
+}

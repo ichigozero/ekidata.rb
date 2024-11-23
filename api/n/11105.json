@@ -1,0 +1,134 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1110501,
+      "station_cd2": 1110502,
+      "station_name1": "苫小牧",
+      "station_name2": "沼ノ端",
+      "lon1": 141.596837,
+      "lat1": 42.639665,
+      "lon2": 141.693132,
+      "lat2": 42.672057
+    },
+    {
+      "station_cd1": 1110502,
+      "station_cd2": 1110503,
+      "station_name1": "沼ノ端",
+      "station_name2": "遠浅",
+      "lon1": 141.693132,
+      "lat1": 42.672057,
+      "lon2": 141.769568,
+      "lat2": 42.729533
+    },
+    {
+      "station_cd1": 1110503,
+      "station_cd2": 1110504,
+      "station_name1": "遠浅",
+      "station_name2": "早来",
+      "lon1": 141.769568,
+      "lat1": 42.729533,
+      "lon2": 141.814106,
+      "lat2": 42.765237
+    },
+    {
+      "station_cd1": 1110504,
+      "station_cd2": 1110505,
+      "station_name1": "早来",
+      "station_name2": "安平",
+      "lon1": 141.814106,
+      "lat1": 42.765237,
+      "lon2": 141.825283,
+      "lat2": 42.814007
+    },
+    {
+      "station_cd1": 1110505,
+      "station_cd2": 1110506,
+      "station_name1": "安平",
+      "station_name2": "追分",
+      "lon1": 141.825283,
+      "lat1": 42.814007,
+      "lon2": 141.810678,
+      "lat2": 42.873316
+    },
+    {
+      "station_cd1": 1110506,
+      "station_cd2": 1110507,
+      "station_name1": "追分",
+      "station_name2": "三川",
+      "lon1": 141.810678,
+      "lat1": 42.873316,
+      "lon2": 141.800778,
+      "lat2": 42.945029
+    },
+    {
+      "station_cd1": 1110507,
+      "station_cd2": 1110508,
+      "station_name1": "三川",
+      "station_name2": "古山",
+      "lon1": 141.800778,
+      "lat1": 42.945029,
+      "lon2": 141.793969,
+      "lat2": 42.975256
+    },
+    {
+      "station_cd1": 1110508,
+      "station_cd2": 1110509,
+      "station_name1": "古山",
+      "station_name2": "由仁",
+      "lon1": 141.793969,
+      "lat1": 42.975256,
+      "lon2": 141.785868,
+      "lat2": 43.012206
+    },
+    {
+      "station_cd1": 1110509,
+      "station_cd2": 1110510,
+      "station_name1": "由仁",
+      "station_name2": "栗山",
+      "lon1": 141.785868,
+      "lat1": 43.012206,
+      "lon2": 141.775603,
+      "lat2": 43.058164
+    },
+    {
+      "station_cd1": 1110510,
+      "station_cd2": 1110511,
+      "station_name1": "栗山",
+      "station_name2": "栗丘",
+      "lon1": 141.775603,
+      "lat1": 43.058164,
+      "lon2": 141.744333,
+      "lat2": 43.085444
+    },
+    {
+      "station_cd1": 1110511,
+      "station_cd2": 1110512,
+      "station_name1": "栗丘",
+      "station_name2": "栗沢",
+      "lon1": 141.744333,
+      "lat1": 43.085444,
+      "lon2": 141.739743,
+      "lat2": 43.120367
+    },
+    {
+      "station_cd1": 1110512,
+      "station_cd2": 1110513,
+      "station_name1": "栗沢",
+      "station_name2": "志文",
+      "lon1": 141.739743,
+      "lat1": 43.120367,
+      "lon2": 141.744443,
+      "lat2": 43.158903
+    },
+    {
+      "station_cd1": 1110513,
+      "station_cd2": 1110514,
+      "station_name1": "志文",
+      "station_name2": "岩見沢",
+      "lon1": 141.744443,
+      "lat1": 43.158903,
+      "lon2": 141.759359,
+      "lat2": 43.204201
+    }
+  ]
+}

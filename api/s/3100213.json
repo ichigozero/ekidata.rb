@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 29,
+    "line_cd": 31002,
+    "line_name": "近鉄橿原線",
+    "station_cd": 3100213,
+    "station_g_cd": 3100213,
+    "station_name": "新ノ口",
+    "lon": 135.794631,
+    "lat": 34.525332
+  }
+}

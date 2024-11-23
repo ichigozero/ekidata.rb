@@ -1,0 +1,84 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1120701,
+      "station_cd2": 1120702,
+      "station_name1": "茂市",
+      "station_name2": "岩手刈屋",
+      "lon1": 141.799288,
+      "lat1": 39.620619,
+      "lon2": 141.759296,
+      "lat2": 39.642688
+    },
+    {
+      "station_cd1": 1120702,
+      "station_cd2": 1120703,
+      "station_name1": "岩手刈屋",
+      "station_name2": "中里",
+      "lon1": 141.759296,
+      "lat1": 39.642688,
+      "lon2": 141.736067,
+      "lat2": 39.661836
+    },
+    {
+      "station_cd1": 1120703,
+      "station_cd2": 1120704,
+      "station_name1": "中里",
+      "station_name2": "岩手和井内",
+      "lon1": 141.736067,
+      "lat1": 39.661836,
+      "lon2": 141.715705,
+      "lat2": 39.679905
+    },
+    {
+      "station_cd1": 1120704,
+      "station_cd2": 1120705,
+      "station_name1": "岩手和井内",
+      "station_name2": "押角",
+      "lon1": 141.715705,
+      "lat1": 39.679905,
+      "lon2": 141.693181,
+      "lat2": 39.724029
+    },
+    {
+      "station_cd1": 1120705,
+      "station_cd2": 1120706,
+      "station_name1": "押角",
+      "station_name2": "岩手大川",
+      "lon1": 141.693181,
+      "lat1": 39.724029,
+      "lon2": 141.671909,
+      "lat2": 39.800208
+    },
+    {
+      "station_cd1": 1120706,
+      "station_cd2": 1120707,
+      "station_name1": "岩手大川",
+      "station_name2": "浅内",
+      "lon1": 141.671909,
+      "lat1": 39.800208,
+      "lon2": 141.727016,
+      "lat2": 39.819482
+    },
+    {
+      "station_cd1": 1120707,
+      "station_cd2": 1120708,
+      "station_name1": "浅内",
+      "station_name2": "二升石",
+      "lon1": 141.727016,
+      "lat1": 39.819482,
+      "lon2": 141.745741,
+      "lat2": 39.836739
+    },
+    {
+      "station_cd1": 1120708,
+      "station_cd2": 1120709,
+      "station_name1": "二升石",
+      "station_name2": "岩泉",
+      "lon1": 141.745741,
+      "lat1": 39.836739,
+      "lon2": 141.786446,
+      "lat2": 39.845044
+    }
+  ]
+}

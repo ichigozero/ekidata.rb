@@ -1,0 +1,134 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9992001,
+      "station_cd2": 9992002,
+      "station_name1": "人吉温泉",
+      "station_name2": "相良藩願成寺",
+      "lon1": 130.753797,
+      "lat1": 32.216142,
+      "lon2": 130.769626,
+      "lat2": 32.218429
+    },
+    {
+      "station_cd1": 9992002,
+      "station_cd2": 9992003,
+      "station_name1": "相良藩願成寺",
+      "station_name2": "川村",
+      "lon1": 130.769626,
+      "lat1": 32.218429,
+      "lon2": 130.795307,
+      "lat2": 32.207284
+    },
+    {
+      "station_cd1": 9992003,
+      "station_cd2": 9992004,
+      "station_name1": "川村",
+      "station_name2": "肥後西村",
+      "lon1": 130.795307,
+      "lat1": 32.207284,
+      "lon2": 130.808839,
+      "lat2": 32.202271
+    },
+    {
+      "station_cd1": 9992004,
+      "station_cd2": 9992005,
+      "station_name1": "肥後西村",
+      "station_name2": "一武",
+      "lon1": 130.808839,
+      "lat1": 32.202271,
+      "lon2": 130.839915,
+      "lat2": 32.214551
+    },
+    {
+      "station_cd1": 9992005,
+      "station_cd2": 9992006,
+      "station_name1": "一武",
+      "station_name2": "木上",
+      "lon1": 130.839915,
+      "lat1": 32.214551,
+      "lon2": 130.858888,
+      "lat2": 32.224256
+    },
+    {
+      "station_cd1": 9992006,
+      "station_cd2": 9992007,
+      "station_name1": "木上",
+      "station_name2": "おかどめ幸福",
+      "lon1": 130.858888,
+      "lat1": 32.224256,
+      "lon2": 130.873629,
+      "lat2": 32.231011
+    },
+    {
+      "station_cd1": 9992007,
+      "station_cd2": 9992008,
+      "station_name1": "おかどめ幸福",
+      "station_name2": "あさぎり",
+      "lon1": 130.873629,
+      "lat1": 32.231011,
+      "lon2": 130.893783,
+      "lat2": 32.236191
+    },
+    {
+      "station_cd1": 9992008,
+      "station_cd2": 9992009,
+      "station_name1": "あさぎり",
+      "station_name2": "東免田",
+      "lon1": 130.893783,
+      "lat1": 32.236191,
+      "lon2": 130.912947,
+      "lat2": 32.250095
+    },
+    {
+      "station_cd1": 9992009,
+      "station_cd2": 9992010,
+      "station_name1": "東免田",
+      "station_name2": "公立病院前",
+      "lon1": 130.912947,
+      "lat1": 32.250095,
+      "lon2": 130.921768,
+      "lat2": 32.255906
+    },
+    {
+      "station_cd1": 9992010,
+      "station_cd2": 9992011,
+      "station_name1": "公立病院前",
+      "station_name2": "多良木",
+      "lon1": 130.921768,
+      "lat1": 32.255906,
+      "lon2": 130.933362,
+      "lat2": 32.262903
+    },
+    {
+      "station_cd1": 9992011,
+      "station_cd2": 9992012,
+      "station_name1": "多良木",
+      "station_name2": "東多良木",
+      "lon1": 130.933362,
+      "lat1": 32.262903,
+      "lon2": 130.950765,
+      "lat2": 32.272211
+    },
+    {
+      "station_cd1": 9992012,
+      "station_cd2": 9992013,
+      "station_name1": "東多良木",
+      "station_name2": "新鶴羽",
+      "lon1": 130.950765,
+      "lat1": 32.272211,
+      "lon2": 130.966275,
+      "lat2": 32.275372
+    },
+    {
+      "station_cd1": 9992013,
+      "station_cd2": 9992014,
+      "station_name1": "新鶴羽",
+      "station_name2": "湯前",
+      "lon1": 130.966275,
+      "lat1": 32.275372,
+      "lon2": 130.980094,
+      "lat2": 32.281389
+    }
+  ]
+}

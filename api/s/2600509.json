@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 26005,
+    "line_name": "東急池上線",
+    "station_cd": 2600509,
+    "station_g_cd": 2600509,
+    "station_name": "雪が谷大塚",
+    "lon": 139.681083,
+    "lat": 35.592038
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99902,
+    "line_name": "伊田線",
+    "station_cd": 9990203,
+    "station_g_cd": 9990203,
+    "station_name": "あかぢ",
+    "lon": 130.72455,
+    "lat": 33.727366
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11222,
+    "line_name": "JR仙石線",
+    "station_cd": 1122212,
+    "station_g_cd": 1122212,
+    "station_name": "下馬",
+    "lon": 141.014965,
+    "lat": 38.305833
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11602,
+    "line_name": "JR京都線",
+    "station_cd": 1160212,
+    "station_g_cd": 1160212,
+    "station_name": "東淀川",
+    "lon": 135.503915,
+    "lat": 34.73938
+  }
+}

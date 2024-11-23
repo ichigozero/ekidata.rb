@@ -1,0 +1,234 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1120601,
+      "station_cd2": 1120602,
+      "station_name1": "八戸",
+      "station_name2": "長苗代",
+      "lon1": 141.431499,
+      "lat1": 40.5092,
+      "lon2": 141.465907,
+      "lat2": 40.52146
+    },
+    {
+      "station_cd1": 1120602,
+      "station_cd2": 1120603,
+      "station_name1": "長苗代",
+      "station_name2": "本八戸",
+      "lon1": 141.465907,
+      "lat1": 40.52146,
+      "lon2": 141.488762,
+      "lat2": 40.516286
+    },
+    {
+      "station_cd1": 1120603,
+      "station_cd2": 1120604,
+      "station_name1": "本八戸",
+      "station_name2": "小中野",
+      "lon1": 141.488762,
+      "lat1": 40.516286,
+      "lon2": 141.510032,
+      "lat2": 40.518767
+    },
+    {
+      "station_cd1": 1120604,
+      "station_cd2": 1120605,
+      "station_name1": "小中野",
+      "station_name2": "陸奥湊",
+      "lon1": 141.510032,
+      "lat1": 40.518767,
+      "lon2": 141.527652,
+      "lat2": 40.52335
+    },
+    {
+      "station_cd1": 1120605,
+      "station_cd2": 1120606,
+      "station_name1": "陸奥湊",
+      "station_name2": "白銀",
+      "lon1": 141.527652,
+      "lat1": 40.52335,
+      "lon2": 141.541648,
+      "lat2": 40.522031
+    },
+    {
+      "station_cd1": 1120606,
+      "station_cd2": 1120607,
+      "station_name1": "白銀",
+      "station_name2": "鮫",
+      "lon1": 141.541648,
+      "lat1": 40.522031,
+      "lon2": 141.554891,
+      "lat2": 40.530244
+    },
+    {
+      "station_cd1": 1120607,
+      "station_cd2": 1120609,
+      "station_name1": "鮫",
+      "station_name2": "陸奥白浜",
+      "lon1": 141.554891,
+      "lat1": 40.530244,
+      "lon2": 141.592299,
+      "lat2": 40.516636
+    },
+    {
+      "station_cd1": 1120609,
+      "station_cd2": 1120610,
+      "station_name1": "陸奥白浜",
+      "station_name2": "種差海岸",
+      "lon1": 141.592299,
+      "lat1": 40.516636,
+      "lon2": 141.607367,
+      "lat2": 40.506951
+    },
+    {
+      "station_cd1": 1120610,
+      "station_cd2": 1120611,
+      "station_name1": "種差海岸",
+      "station_name2": "大久喜",
+      "lon1": 141.607367,
+      "lat1": 40.506951,
+      "lon2": 141.622958,
+      "lat2": 40.495135
+    },
+    {
+      "station_cd1": 1120611,
+      "station_cd2": 1120612,
+      "station_name1": "大久喜",
+      "station_name2": "金浜",
+      "lon1": 141.622958,
+      "lat1": 40.495135,
+      "lon2": 141.637366,
+      "lat2": 40.475994
+    },
+    {
+      "station_cd1": 1120612,
+      "station_cd2": 1120613,
+      "station_name1": "金浜",
+      "station_name2": "大蛇",
+      "lon1": 141.637366,
+      "lat1": 40.475994,
+      "lon2": 141.650773,
+      "lat2": 40.467251
+    },
+    {
+      "station_cd1": 1120613,
+      "station_cd2": 1120614,
+      "station_name1": "大蛇",
+      "station_name2": "階上",
+      "lon1": 141.650773,
+      "lat1": 40.467251,
+      "lon2": 141.664958,
+      "lat2": 40.456834
+    },
+    {
+      "station_cd1": 1120614,
+      "station_cd2": 1120615,
+      "station_name1": "階上",
+      "station_name2": "角の浜",
+      "lon1": 141.664958,
+      "lat1": 40.456834,
+      "lon2": 141.681773,
+      "lat2": 40.444478
+    },
+    {
+      "station_cd1": 1120615,
+      "station_cd2": 1120616,
+      "station_name1": "角の浜",
+      "station_name2": "平内",
+      "lon1": 141.681773,
+      "lat1": 40.444478,
+      "lon2": 141.699272,
+      "lat2": 40.42552
+    },
+    {
+      "station_cd1": 1120616,
+      "station_cd2": 1120617,
+      "station_name1": "平内",
+      "station_name2": "種市",
+      "lon1": 141.699272,
+      "lat1": 40.42552,
+      "lon2": 141.715232,
+      "lat2": 40.410384
+    },
+    {
+      "station_cd1": 1120617,
+      "station_cd2": 1120618,
+      "station_name1": "種市",
+      "station_name2": "玉川",
+      "lon1": 141.715232,
+      "lat1": 40.410384,
+      "lon2": 141.735117,
+      "lat2": 40.380424
+    },
+    {
+      "station_cd1": 1120618,
+      "station_cd2": 1120619,
+      "station_name1": "玉川",
+      "station_name2": "宿戸",
+      "lon1": 141.735117,
+      "lat1": 40.380424,
+      "lon2": 141.746683,
+      "lat2": 40.366129
+    },
+    {
+      "station_cd1": 1120619,
+      "station_cd2": 1120620,
+      "station_name1": "宿戸",
+      "station_name2": "陸中八木",
+      "lon1": 141.746683,
+      "lat1": 40.366129,
+      "lon2": 141.766517,
+      "lat2": 40.345485
+    },
+    {
+      "station_cd1": 1120620,
+      "station_cd2": 1120621,
+      "station_name1": "陸中八木",
+      "station_name2": "有家",
+      "lon1": 141.766517,
+      "lat1": 40.345485,
+      "lon2": 141.773031,
+      "lat2": 40.324007
+    },
+    {
+      "station_cd1": 1120621,
+      "station_cd2": 1120622,
+      "station_name1": "有家",
+      "station_name2": "陸中中野",
+      "lon1": 141.773031,
+      "lat1": 40.324007,
+      "lon2": 141.787768,
+      "lat2": 40.305165
+    },
+    {
+      "station_cd1": 1120622,
+      "station_cd2": 1120623,
+      "station_name1": "陸中中野",
+      "station_name2": "侍浜",
+      "lon1": 141.787768,
+      "lat1": 40.305165,
+      "lon2": 141.760575,
+      "lat2": 40.261375
+    },
+    {
+      "station_cd1": 1120623,
+      "station_cd2": 1120624,
+      "station_name1": "侍浜",
+      "station_name2": "陸中夏井",
+      "lon1": 141.760575,
+      "lat1": 40.261375,
+      "lon2": 141.791906,
+      "lat2": 40.207747
+    },
+    {
+      "station_cd1": 1120624,
+      "station_cd2": 1120625,
+      "station_name1": "陸中夏井",
+      "station_name2": "久慈",
+      "lon1": 141.791906,
+      "lat1": 40.207747,
+      "lon2": 141.770891,
+      "lat2": 40.190391
+    }
+  ]
+}

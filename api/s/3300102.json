@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 33001,
+    "line_name": "京阪本線",
+    "station_cd": 3300102,
+    "station_g_cd": 3300102,
+    "station_name": "祇園四条",
+    "lon": 135.771961,
+    "lat": 35.003689
+  }
+}

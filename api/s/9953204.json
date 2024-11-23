@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 99532,
+    "line_name": "養老鉄道養老線",
+    "station_cd": 9953204,
+    "station_g_cd": 3100404,
+    "station_name": "下野代",
+    "lon": 136.647235,
+    "lat": 35.115899
+  }
+}

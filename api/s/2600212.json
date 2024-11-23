@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 26002,
+    "line_name": "東急目黒線",
+    "station_cd": 2600212,
+    "station_g_cd": 2600112,
+    "station_name": "元住吉",
+    "lon": 139.654668,
+    "lat": 35.565698
+  }
+}

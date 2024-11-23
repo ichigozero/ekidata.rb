@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 30008,
+    "line_name": "名鉄常滑線",
+    "station_cd": 3000826,
+    "station_g_cd": 3000701,
+    "station_name": "常滑",
+    "lon": 136.834992,
+    "lat": 34.891167
+  }
+}

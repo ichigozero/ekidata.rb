@@ -1,0 +1,194 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9971401,
+      "station_cd2": 9971402,
+      "station_name1": "広島駅",
+      "station_name2": "猿猴橋町",
+      "lon1": 132.475403,
+      "lat1": 34.396296,
+      "lon2": 132.475977,
+      "lat2": 34.395047
+    },
+    {
+      "station_cd1": 9971402,
+      "station_cd2": 9971403,
+      "station_name1": "猿猴橋町",
+      "station_name2": "的場町",
+      "lon1": 132.475977,
+      "lat1": 34.395047,
+      "lon2": 132.475076,
+      "lat2": 34.393277
+    },
+    {
+      "station_cd1": 9971403,
+      "station_cd2": 9971404,
+      "station_name1": "的場町",
+      "station_name2": "稲荷町",
+      "lon1": 132.475076,
+      "lat1": 34.393277,
+      "lon2": 132.471728,
+      "lat2": 34.392569
+    },
+    {
+      "station_cd1": 9971404,
+      "station_cd2": 9971405,
+      "station_name1": "稲荷町",
+      "station_name2": "銀山町",
+      "lon1": 132.471728,
+      "lat1": 34.392569,
+      "lon2": 132.467866,
+      "lat2": 34.393135
+    },
+    {
+      "station_cd1": 9971405,
+      "station_cd2": 9971406,
+      "station_name1": "銀山町",
+      "station_name2": "胡町",
+      "lon1": 132.467866,
+      "lat1": 34.393135,
+      "lon2": 132.465076,
+      "lat2": 34.393401
+    },
+    {
+      "station_cd1": 9971406,
+      "station_cd2": 9971407,
+      "station_name1": "胡町",
+      "station_name2": "八丁堀",
+      "lon1": 132.465076,
+      "lat1": 34.393401,
+      "lon2": 132.463403,
+      "lat2": 34.393897
+    },
+    {
+      "station_cd1": 9971407,
+      "station_cd2": 9971408,
+      "station_name1": "八丁堀",
+      "station_name2": "立町",
+      "lon1": 132.463403,
+      "lat1": 34.393897,
+      "lon2": 132.460871,
+      "lat2": 34.394569
+    },
+    {
+      "station_cd1": 9971408,
+      "station_cd2": 9971409,
+      "station_name1": "立町",
+      "station_name2": "紙屋町東",
+      "lon1": 132.460871,
+      "lat1": 34.394569,
+      "lon2": 132.458167,
+      "lat2": 34.395101
+    },
+    {
+      "station_cd1": 9971409,
+      "station_cd2": 9971410,
+      "station_name1": "紙屋町東",
+      "station_name2": "紙屋町西",
+      "lon1": 132.458167,
+      "lat1": 34.395101,
+      "lon2": 132.456965,
+      "lat2": 34.395455
+    },
+    {
+      "station_cd1": 9971410,
+      "station_cd2": 9971411,
+      "station_name1": "紙屋町西",
+      "station_name2": "原爆ドーム前",
+      "lon1": 132.456965,
+      "lat1": 34.395455,
+      "lon2": 132.453918,
+      "lat2": 34.396163
+    },
+    {
+      "station_cd1": 9971411,
+      "station_cd2": 9971412,
+      "station_name1": "原爆ドーム前",
+      "station_name2": "本川町",
+      "lon1": 132.453918,
+      "lat1": 34.396163,
+      "lon2": 132.450485,
+      "lat2": 34.396942
+    },
+    {
+      "station_cd1": 9971412,
+      "station_cd2": 9971413,
+      "station_name1": "本川町",
+      "station_name2": "十日市町",
+      "lon1": 132.450485,
+      "lat1": 34.396942,
+      "lon2": 132.447138,
+      "lat2": 34.397438
+    },
+    {
+      "station_cd1": 9971413,
+      "station_cd2": 9971414,
+      "station_name1": "十日市町",
+      "station_name2": "土橋",
+      "lon1": 132.447138,
+      "lat1": 34.397438,
+      "lon2": 132.446322,
+      "lat2": 34.3948
+    },
+    {
+      "station_cd1": 9971414,
+      "station_cd2": 9971415,
+      "station_name1": "土橋",
+      "station_name2": "舟入町",
+      "lon1": 132.446322,
+      "lat1": 34.3948,
+      "lon2": 132.444928,
+      "lat2": 34.389222
+    },
+    {
+      "station_cd1": 9971415,
+      "station_cd2": 9971416,
+      "station_name1": "舟入町",
+      "station_name2": "舟入本町",
+      "lon1": 132.444928,
+      "lat1": 34.389222,
+      "lon2": 132.442632,
+      "lat2": 34.385556
+    },
+    {
+      "station_cd1": 9971416,
+      "station_cd2": 9971417,
+      "station_name1": "舟入本町",
+      "station_name2": "舟入幸町",
+      "lon1": 132.442632,
+      "lat1": 34.385556,
+      "lon2": 132.441151,
+      "lat2": 34.383139
+    },
+    {
+      "station_cd1": 9971417,
+      "station_cd2": 9971418,
+      "station_name1": "舟入幸町",
+      "station_name2": "舟入川口町",
+      "lon1": 132.441151,
+      "lat1": 34.383139,
+      "lon2": 132.439499,
+      "lat2": 34.380341
+    },
+    {
+      "station_cd1": 9971418,
+      "station_cd2": 9971419,
+      "station_name1": "舟入川口町",
+      "station_name2": "舟入南",
+      "lon1": 132.439499,
+      "lat1": 34.380341,
+      "lon2": 132.437224,
+      "lat2": 34.375099
+    },
+    {
+      "station_cd1": 9971419,
+      "station_cd2": 9971420,
+      "station_name1": "舟入南",
+      "station_name2": "江波",
+      "lon1": 132.437224,
+      "lat1": 34.375099,
+      "lon2": 132.436044,
+      "lat2": 34.372496
+    }
+  ]
+}

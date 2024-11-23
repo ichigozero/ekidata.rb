@@ -1,0 +1,244 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9931801,
+      "station_cd2": 9931802,
+      "station_name1": "取手",
+      "station_name2": "西取手",
+      "lon1": 140.063004,
+      "lat1": 35.89553,
+      "lon2": 140.059437,
+      "lat2": 35.908584
+    },
+    {
+      "station_cd1": 9931802,
+      "station_cd2": 9931803,
+      "station_name1": "西取手",
+      "station_name2": "寺原",
+      "lon1": 140.059437,
+      "lat1": 35.908584,
+      "lon2": 140.054551,
+      "lat2": 35.911825
+    },
+    {
+      "station_cd1": 9931803,
+      "station_cd2": 9931804,
+      "station_name1": "寺原",
+      "station_name2": "新取手",
+      "lon1": 140.054551,
+      "lat1": 35.911825,
+      "lon2": 140.0421,
+      "lat2": 35.917657
+    },
+    {
+      "station_cd1": 9931804,
+      "station_cd2": 9931825,
+      "station_name1": "新取手",
+      "station_name2": "ゆめみ野",
+      "lon1": 140.0421,
+      "lat1": 35.917657,
+      "lon2": 140.034789,
+      "lat2": 35.921129
+    },
+    {
+      "station_cd1": 9931805,
+      "station_cd2": 9931806,
+      "station_name1": "稲戸井",
+      "station_name2": "戸頭",
+      "lon1": 140.02269,
+      "lat1": 35.926142,
+      "lon2": 140.014263,
+      "lat2": 35.92951
+    },
+    {
+      "station_cd1": 9931806,
+      "station_cd2": 9931807,
+      "station_name1": "戸頭",
+      "station_name2": "南守谷",
+      "lon1": 140.014263,
+      "lat1": 35.92951,
+      "lon2": 140.00212,
+      "lat2": 35.934224
+    },
+    {
+      "station_cd1": 9931807,
+      "station_cd2": 9931808,
+      "station_name1": "南守谷",
+      "station_name2": "守谷",
+      "lon1": 140.00212,
+      "lat1": 35.934224,
+      "lon2": 139.992209,
+      "lat2": 35.950626
+    },
+    {
+      "station_cd1": 9931808,
+      "station_cd2": 9931809,
+      "station_name1": "守谷",
+      "station_name2": "新守谷",
+      "lon1": 139.992209,
+      "lat1": 35.950626,
+      "lon2": 139.985864,
+      "lat2": 35.966344
+    },
+    {
+      "station_cd1": 9931809,
+      "station_cd2": 9931810,
+      "station_name1": "新守谷",
+      "station_name2": "小絹",
+      "lon1": 139.985864,
+      "lat1": 35.966344,
+      "lon2": 139.983328,
+      "lat2": 35.981151
+    },
+    {
+      "station_cd1": 9931810,
+      "station_cd2": 9931811,
+      "station_name1": "小絹",
+      "station_name2": "水海道",
+      "lon1": 139.983328,
+      "lat1": 35.981151,
+      "lon2": 139.99137,
+      "lat2": 36.017828
+    },
+    {
+      "station_cd1": 9931811,
+      "station_cd2": 9931812,
+      "station_name1": "水海道",
+      "station_name2": "北水海道",
+      "lon1": 139.99137,
+      "lat1": 36.017828,
+      "lon2": 139.9928,
+      "lat2": 36.032123
+    },
+    {
+      "station_cd1": 9931812,
+      "station_cd2": 9931813,
+      "station_name1": "北水海道",
+      "station_name2": "中妻",
+      "lon1": 139.9928,
+      "lat1": 36.032123,
+      "lon2": 139.990714,
+      "lat2": 36.047291
+    },
+    {
+      "station_cd1": 9931813,
+      "station_cd2": 9931814,
+      "station_name1": "中妻",
+      "station_name2": "三妻",
+      "lon1": 139.990714,
+      "lat1": 36.047291,
+      "lon2": 139.983052,
+      "lat2": 36.073507
+    },
+    {
+      "station_cd1": 9931814,
+      "station_cd2": 9931815,
+      "station_name1": "三妻",
+      "station_name2": "南石下",
+      "lon1": 139.983052,
+      "lat1": 36.073507,
+      "lon2": 139.973938,
+      "lat2": 36.102262
+    },
+    {
+      "station_cd1": 9931815,
+      "station_cd2": 9931816,
+      "station_name1": "南石下",
+      "station_name2": "石下",
+      "lon1": 139.973938,
+      "lat1": 36.102262,
+      "lon2": 139.974323,
+      "lat2": 36.117041
+    },
+    {
+      "station_cd1": 9931816,
+      "station_cd2": 9931817,
+      "station_name1": "石下",
+      "station_name2": "玉村",
+      "lon1": 139.974323,
+      "lat1": 36.117041,
+      "lon2": 139.969959,
+      "lat2": 36.135499
+    },
+    {
+      "station_cd1": 9931817,
+      "station_cd2": 9931818,
+      "station_name1": "玉村",
+      "station_name2": "宗道",
+      "lon1": 139.969959,
+      "lat1": 36.135499,
+      "lon2": 139.970573,
+      "lat2": 36.153589
+    },
+    {
+      "station_cd1": 9931818,
+      "station_cd2": 9931819,
+      "station_name1": "宗道",
+      "station_name2": "下妻",
+      "lon1": 139.970573,
+      "lat1": 36.153589,
+      "lon2": 139.964461,
+      "lat2": 36.182325
+    },
+    {
+      "station_cd1": 9931819,
+      "station_cd2": 9931820,
+      "station_name1": "下妻",
+      "station_name2": "大宝",
+      "lon1": 139.964461,
+      "lat1": 36.182325,
+      "lon2": 139.970193,
+      "lat2": 36.203159
+    },
+    {
+      "station_cd1": 9931820,
+      "station_cd2": 9931821,
+      "station_name1": "大宝",
+      "station_name2": "騰波ノ江",
+      "lon1": 139.970193,
+      "lat1": 36.203159,
+      "lon2": 139.976274,
+      "lat2": 36.223232
+    },
+    {
+      "station_cd1": 9931821,
+      "station_cd2": 9931822,
+      "station_name1": "騰波ノ江",
+      "station_name2": "黒子",
+      "lon1": 139.976274,
+      "lat1": 36.223232,
+      "lon2": 139.97514,
+      "lat2": 36.247396
+    },
+    {
+      "station_cd1": 9931822,
+      "station_cd2": 9931823,
+      "station_name1": "黒子",
+      "station_name2": "大田郷",
+      "lon1": 139.97514,
+      "lat1": 36.247396,
+      "lon2": 139.959724,
+      "lat2": 36.278258
+    },
+    {
+      "station_cd1": 9931823,
+      "station_cd2": 9931824,
+      "station_name1": "大田郷",
+      "station_name2": "下館",
+      "lon1": 139.959724,
+      "lat1": 36.278258,
+      "lon2": 139.978268,
+      "lat2": 36.303959
+    },
+    {
+      "station_cd1": 9931825,
+      "station_cd2": 9931805,
+      "station_name1": "ゆめみ野",
+      "station_name2": "稲戸井",
+      "lon1": 140.034789,
+      "lat1": 35.921129,
+      "lon2": 140.02269,
+      "lat2": 35.926142
+    }
+  ]
+}

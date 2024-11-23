@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 22,
+    "line_cd": 99507,
+    "line_name": "大井川鐵道大井川本線",
+    "station_cd": 9950705,
+    "station_g_cd": 9950705,
+    "station_name": "合格",
+    "lon": 138.120771,
+    "lat": 34.844806
+  }
+}

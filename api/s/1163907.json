@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 30,
+    "line_cd": 11639,
+    "line_name": "きのくに線",
+    "station_cd": 1163907,
+    "station_g_cd": 1163907,
+    "station_name": "紀伊勝浦",
+    "lon": 135.941811,
+    "lat": 33.628133
+  }
+}

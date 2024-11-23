@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 22,
+    "line_cd": 99502,
+    "line_name": "伊豆箱根鉄道駿豆線",
+    "station_cd": 9950201,
+    "station_g_cd": 1150103,
+    "station_name": "三島",
+    "lon": 138.911369,
+    "lat": 35.125946
+  }
+}

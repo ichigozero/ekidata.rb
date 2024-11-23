@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 11306,
+    "line_name": "JR横浜線",
+    "station_cd": 1130618,
+    "station_g_cd": 1130618,
+    "station_name": "八王子みなみ野",
+    "lon": 139.330678,
+    "lat": 35.630664
+  }
+}

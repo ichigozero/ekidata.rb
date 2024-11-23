@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 23004,
+    "line_name": "京成千葉線",
+    "station_cd": 2300407,
+    "station_g_cd": 2300407,
+    "station_name": "西登戸",
+    "lon": 140.102801,
+    "lat": 35.617615
+  }
+}

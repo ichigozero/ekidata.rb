@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11629,
+    "line_name": "JR宝塚線",
+    "station_cd": 1162922,
+    "station_g_cd": 1162922,
+    "station_name": "南矢代",
+    "lon": 135.174875,
+    "lat": 35.037697
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 11906,
+    "line_name": "JR日豊本線(門司港～佐伯)",
+    "station_cd": 1190617,
+    "station_g_cd": 1190617,
+    "station_name": "椎田",
+    "lon": 131.057965,
+    "lat": 33.653377
+  }
+}

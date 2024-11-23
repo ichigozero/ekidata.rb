@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 34006,
+    "line_name": "阪急伊丹線",
+    "station_cd": 3400604,
+    "station_g_cd": 3400604,
+    "station_name": "伊丹",
+    "lon": 135.413618,
+    "lat": 34.779875
+  }
+}

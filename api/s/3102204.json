@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 31022,
+    "line_name": "近鉄長野線",
+    "station_cd": 3102204,
+    "station_g_cd": 3102204,
+    "station_name": "富田林西口",
+    "lon": 135.596347,
+    "lat": 34.500302
+  }
+}

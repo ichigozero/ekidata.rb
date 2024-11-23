@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11325,
+    "line_name": "JR内房線",
+    "station_cd": 1132527,
+    "station_g_cd": 1132527,
+    "station_name": "千歳",
+    "lon": 139.966378,
+    "lat": 34.991701
+  }
+}

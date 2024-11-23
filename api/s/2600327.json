@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 26003,
+    "line_name": "東急田園都市線",
+    "station_cd": 2600327,
+    "station_g_cd": 2500203,
+    "station_name": "中央林間",
+    "lon": 139.444935,
+    "lat": 35.507671
+  }
+}

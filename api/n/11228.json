@@ -1,0 +1,154 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1122801,
+      "station_cd2": 1122802,
+      "station_name1": "いわき",
+      "station_name2": "赤井",
+      "lon1": 140.892273,
+      "lat1": 37.058241,
+      "lon2": 140.866294,
+      "lat2": 37.080631
+    },
+    {
+      "station_cd1": 1122802,
+      "station_cd2": 1122803,
+      "station_name1": "赤井",
+      "station_name2": "小川郷",
+      "lon1": 140.866294,
+      "lat1": 37.080631,
+      "lon2": 140.862514,
+      "lat2": 37.126446
+    },
+    {
+      "station_cd1": 1122803,
+      "station_cd2": 1122804,
+      "station_name1": "小川郷",
+      "station_name2": "江田",
+      "lon1": 140.862514,
+      "lat1": 37.126446,
+      "lon2": 140.82609,
+      "lat2": 37.179389
+    },
+    {
+      "station_cd1": 1122804,
+      "station_cd2": 1122805,
+      "station_name1": "江田",
+      "station_name2": "川前",
+      "lon1": 140.82609,
+      "lat1": 37.179389,
+      "lon2": 140.750335,
+      "lat2": 37.20559
+    },
+    {
+      "station_cd1": 1122805,
+      "station_cd2": 1122806,
+      "station_name1": "川前",
+      "station_name2": "夏井",
+      "lon1": 140.750335,
+      "lat1": 37.20559,
+      "lon2": 140.662552,
+      "lat2": 37.253108
+    },
+    {
+      "station_cd1": 1122806,
+      "station_cd2": 1122807,
+      "station_name1": "夏井",
+      "station_name2": "小野新町",
+      "lon1": 140.662552,
+      "lat1": 37.253108,
+      "lon2": 140.63656,
+      "lat2": 37.275819
+    },
+    {
+      "station_cd1": 1122807,
+      "station_cd2": 1122808,
+      "station_name1": "小野新町",
+      "station_name2": "神俣",
+      "lon1": 140.63656,
+      "lat1": 37.275819,
+      "lon2": 140.659487,
+      "lat2": 37.324186
+    },
+    {
+      "station_cd1": 1122808,
+      "station_cd2": 1122809,
+      "station_name1": "神俣",
+      "station_name2": "菅谷",
+      "lon1": 140.659487,
+      "lat1": 37.324186,
+      "lon2": 140.644185,
+      "lat2": 37.351024
+    },
+    {
+      "station_cd1": 1122809,
+      "station_cd2": 1122810,
+      "station_name1": "菅谷",
+      "station_name2": "大越",
+      "lon1": 140.644185,
+      "lat1": 37.351024,
+      "lon2": 140.630693,
+      "lat2": 37.386746
+    },
+    {
+      "station_cd1": 1122810,
+      "station_cd2": 1122811,
+      "station_name1": "大越",
+      "station_name2": "磐城常葉",
+      "lon1": 140.630693,
+      "lat1": 37.386746,
+      "lon2": 140.605579,
+      "lat2": 37.420611
+    },
+    {
+      "station_cd1": 1122811,
+      "station_cd2": 1122812,
+      "station_name1": "磐城常葉",
+      "station_name2": "船引",
+      "lon1": 140.605579,
+      "lat1": 37.420611,
+      "lon2": 140.574558,
+      "lat2": 37.44291
+    },
+    {
+      "station_cd1": 1122812,
+      "station_cd2": 1122813,
+      "station_name1": "船引",
+      "station_name2": "要田",
+      "lon1": 140.574558,
+      "lat1": 37.44291,
+      "lon2": 140.520773,
+      "lat2": 37.453969
+    },
+    {
+      "station_cd1": 1122813,
+      "station_cd2": 1122814,
+      "station_name1": "要田",
+      "station_name2": "三春",
+      "lon1": 140.520773,
+      "lat1": 37.453969,
+      "lon2": 140.479275,
+      "lat2": 37.449841
+    },
+    {
+      "station_cd1": 1122814,
+      "station_cd2": 1122815,
+      "station_name1": "三春",
+      "station_name2": "舞木",
+      "lon1": 140.479275,
+      "lat1": 37.449841,
+      "lon2": 140.435074,
+      "lat2": 37.416716
+    },
+    {
+      "station_cd1": 1122815,
+      "station_cd2": 1122816,
+      "station_name1": "舞木",
+      "station_name2": "郡山",
+      "lon1": 140.435074,
+      "lat1": 37.416716,
+      "lon2": 140.389363,
+      "lat2": 37.398187
+    }
+  ]
+}

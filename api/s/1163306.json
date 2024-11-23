@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11633,
+    "line_name": "JR姫新線(姫路～佐用)",
+    "station_cd": 1163306,
+    "station_g_cd": 1163306,
+    "station_name": "東觜崎",
+    "lon": 134.557685,
+    "lat": 34.887629
+  }
+}

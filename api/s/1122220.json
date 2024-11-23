@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11222,
+    "line_name": "JR仙石線",
+    "station_cd": 1122220,
+    "station_g_cd": 1122220,
+    "station_name": "陸前富山",
+    "lon": 141.107208,
+    "lat": 38.386307
+  }
+}

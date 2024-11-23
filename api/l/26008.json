@@ -1,0 +1,25 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2600801,
+      "station_g_cd": 1130609,
+      "station_name": "長津田",
+      "lon": 139.493548,
+      "lat": 35.53196
+    },
+    {
+      "station_cd": 2600802,
+      "station_g_cd": 2600802,
+      "station_name": "恩田",
+      "lon": 139.492127,
+      "lat": 35.545535
+    },
+    {
+      "station_cd": 2600803,
+      "station_g_cd": 2600803,
+      "station_name": "こどもの国",
+      "lon": 139.486657,
+      "lat": 35.558035
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9941201,
+      "station_cd2": 9941202,
+      "station_name1": "宇奈月",
+      "station_name2": "黒薙",
+      "lon1": 137.58586,
+      "lat1": 36.815038,
+      "lon2": 137.624738,
+      "lat2": 36.786638
+    },
+    {
+      "station_cd1": 9941202,
+      "station_cd2": 9941203,
+      "station_name1": "黒薙",
+      "station_name2": "鐘釣",
+      "lon1": 137.624738,
+      "lat1": 36.786638,
+      "lon2": 137.651315,
+      "lat2": 36.734378
+    },
+    {
+      "station_cd1": 9941203,
+      "station_cd2": 9941204,
+      "station_name1": "鐘釣",
+      "station_name2": "欅平",
+      "lon1": 137.651315,
+      "lat1": 36.734378,
+      "lon2": 137.658179,
+      "lat2": 36.696732
+    }
+  ]
+}

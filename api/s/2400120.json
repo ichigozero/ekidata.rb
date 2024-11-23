@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 24001,
+    "line_name": "京王線",
+    "station_cd": 2400120,
+    "station_g_cd": 2400120,
+    "station_name": "飛田給",
+    "lon": 139.523666,
+    "lat": 35.660121
+  }
+}

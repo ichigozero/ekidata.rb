@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 12,
+      "line_cd": 23004,
+      "line_name": "京成千葉線",
+      "station_cd": 2300405,
+      "station_name": "京成稲毛"
+    }
+  ]
+}

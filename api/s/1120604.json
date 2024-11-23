@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 2,
+    "line_cd": 11206,
+    "line_name": "JR八戸線",
+    "station_cd": 1120604,
+    "station_g_cd": 1120604,
+    "station_name": "小中野",
+    "lon": 141.510032,
+    "lat": 40.518767
+  }
+}

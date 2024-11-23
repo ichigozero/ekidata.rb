@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 21001,
+    "line_name": "東武東上線",
+    "station_cd": 2100129,
+    "station_g_cd": 2100129,
+    "station_name": "東松山",
+    "lon": 139.401651,
+    "lat": 36.034608
+  }
+}

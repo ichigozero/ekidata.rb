@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 99316,
+    "line_name": "ブルーライン",
+    "station_cd": 9931607,
+    "station_g_cd": 9931607,
+    "station_name": "北新横浜",
+    "lon": 139.612818,
+    "lat": 35.519271
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 99528,
+    "line_name": "三岐鉄道三岐線",
+    "station_cd": 9952811,
+    "station_g_cd": 9952811,
+    "station_name": "丹生川",
+    "lon": 136.519744,
+    "lat": 35.122757
+  }
+}

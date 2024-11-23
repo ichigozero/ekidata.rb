@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 99316,
+    "line_name": "ブルーライン",
+    "station_cd": 9931629,
+    "station_g_cd": 9931629,
+    "station_name": "中田",
+    "lon": 139.511301,
+    "lat": 35.411161
+  }
+}

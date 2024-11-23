@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 11332,
+    "line_name": "JR京浜東北線",
+    "station_cd": 1133208,
+    "station_g_cd": 1133208,
+    "station_name": "西川口",
+    "lon": 139.704312,
+    "lat": 35.815514
+  }
+}

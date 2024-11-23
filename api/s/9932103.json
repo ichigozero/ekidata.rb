@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 99321,
+    "line_name": "ニューシャトル",
+    "station_cd": 9932103,
+    "station_g_cd": 9932103,
+    "station_name": "加茂宮",
+    "lon": 139.616688,
+    "lat": 35.93568
+  }
+}

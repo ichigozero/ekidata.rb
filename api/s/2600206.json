@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 26002,
+    "line_name": "東急目黒線",
+    "station_cd": 2600206,
+    "station_g_cd": 2600206,
+    "station_name": "大岡山",
+    "lon": 139.685909,
+    "lat": 35.607456
+  }
+}

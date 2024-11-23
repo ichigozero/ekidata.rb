@@ -1,0 +1,174 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9971301,
+      "station_cd2": 9971302,
+      "station_name1": "広島駅",
+      "station_name2": "猿猴橋町",
+      "lon1": 132.475403,
+      "lat1": 34.396296,
+      "lon2": 132.475977,
+      "lat2": 34.395047
+    },
+    {
+      "station_cd1": 9971302,
+      "station_cd2": 9971303,
+      "station_name1": "猿猴橋町",
+      "station_name2": "的場町",
+      "lon1": 132.475977,
+      "lat1": 34.395047,
+      "lon2": 132.475076,
+      "lat2": 34.393277
+    },
+    {
+      "station_cd1": 9971303,
+      "station_cd2": 9971304,
+      "station_name1": "的場町",
+      "station_name2": "段原一丁目",
+      "lon1": 132.475076,
+      "lat1": 34.393277,
+      "lon2": 132.475033,
+      "lat2": 34.390833
+    },
+    {
+      "station_cd1": 9971304,
+      "station_cd2": 9971305,
+      "station_name1": "段原一丁目",
+      "station_name2": "比治山下",
+      "lon1": 132.475033,
+      "lat1": 34.390833,
+      "lon2": 132.471492,
+      "lat2": 34.387858
+    },
+    {
+      "station_cd1": 9971305,
+      "station_cd2": 9971306,
+      "station_name1": "比治山下",
+      "station_name2": "比治山橋",
+      "lon1": 132.471492,
+      "lat1": 34.387858,
+      "lon2": 132.468681,
+      "lat2": 34.383272
+    },
+    {
+      "station_cd1": 9971306,
+      "station_cd2": 9971307,
+      "station_name1": "比治山橋",
+      "station_name2": "南区役所前",
+      "lon1": 132.468681,
+      "lat1": 34.383272,
+      "lon2": 132.467072,
+      "lat2": 34.380297
+    },
+    {
+      "station_cd1": 9971307,
+      "station_cd2": 9971308,
+      "station_name1": "南区役所前",
+      "station_name2": "皆実町二丁目",
+      "lon1": 132.467072,
+      "lat1": 34.380297,
+      "lon2": 132.465849,
+      "lat2": 34.377375
+    },
+    {
+      "station_cd1": 9971308,
+      "station_cd2": 9971309,
+      "station_name1": "皆実町二丁目",
+      "station_name2": "皆実町六丁目",
+      "lon1": 132.465849,
+      "lat1": 34.377375,
+      "lon2": 132.464454,
+      "lat2": 34.374169
+    },
+    {
+      "station_cd1": 9971309,
+      "station_cd2": 9971310,
+      "station_name1": "皆実町六丁目",
+      "station_name2": "広大附属学校前",
+      "lon1": 132.464454,
+      "lat1": 34.374169,
+      "lon2": 132.464583,
+      "lat2": 34.371654
+    },
+    {
+      "station_cd1": 9971310,
+      "station_cd2": 9971311,
+      "station_name1": "広大附属学校前",
+      "station_name2": "県病院前",
+      "lon1": 132.464583,
+      "lat1": 34.371654,
+      "lon2": 132.464797,
+      "lat2": 34.36875
+    },
+    {
+      "station_cd1": 9971311,
+      "station_cd2": 9971312,
+      "station_name1": "県病院前",
+      "station_name2": "宇品二丁目",
+      "lon1": 132.464797,
+      "lat1": 34.36875,
+      "lon2": 132.464519,
+      "lat2": 34.366164
+    },
+    {
+      "station_cd1": 9971312,
+      "station_cd2": 9971313,
+      "station_name1": "宇品二丁目",
+      "station_name2": "宇品三丁目",
+      "lon1": 132.464519,
+      "lat1": 34.366164,
+      "lon2": 132.464411,
+      "lat2": 34.364216
+    },
+    {
+      "station_cd1": 9971313,
+      "station_cd2": 9971314,
+      "station_name1": "宇品三丁目",
+      "station_name2": "宇品四丁目",
+      "lon1": 132.464411,
+      "lat1": 34.364216,
+      "lon2": 132.463853,
+      "lat2": 34.35922
+    },
+    {
+      "station_cd1": 9971314,
+      "station_cd2": 9971315,
+      "station_name1": "宇品四丁目",
+      "station_name2": "宇品五丁目",
+      "lon1": 132.463853,
+      "lat1": 34.35922,
+      "lon2": 132.46366,
+      "lat2": 34.357343
+    },
+    {
+      "station_cd1": 9971315,
+      "station_cd2": 9971316,
+      "station_name1": "宇品五丁目",
+      "station_name2": "海岸通",
+      "lon1": 132.46366,
+      "lat1": 34.357343,
+      "lon2": 132.463081,
+      "lat2": 34.354898
+    },
+    {
+      "station_cd1": 9971316,
+      "station_cd2": 9971317,
+      "station_name1": "海岸通",
+      "station_name2": "元宇品口",
+      "lon1": 132.463081,
+      "lat1": 34.354898,
+      "lon2": 132.459412,
+      "lat2": 34.354048
+    },
+    {
+      "station_cd1": 9971317,
+      "station_cd2": 9971318,
+      "station_name1": "元宇品口",
+      "station_name2": "広島港（宇品）",
+      "lon1": 132.459412,
+      "lat1": 34.354048,
+      "lon2": 132.455184,
+      "lat2": 34.352755
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9950501,
+      "station_cd2": 9950502,
+      "station_name1": "掛川",
+      "station_name2": "掛川市役所前",
+      "lon1": 138.014256,
+      "lat1": 34.769568,
+      "lon2": 138.000143,
+      "lat2": 34.770289
+    },
+    {
+      "station_cd1": 9950502,
+      "station_cd2": 9950503,
+      "station_name1": "掛川市役所前",
+      "station_name2": "西掛川",
+      "lon1": 138.000143,
+      "lat1": 34.770289,
+      "lon2": 137.99501,
+      "lat2": 34.771952
+    },
+    {
+      "station_cd1": 9950503,
+      "station_cd2": 9950504,
+      "station_name1": "西掛川",
+      "station_name2": "桜木",
+      "lon1": 137.99501,
+      "lat1": 34.771952,
+      "lon2": 137.972764,
+      "lat2": 34.778216
+    },
+    {
+      "station_cd1": 9950504,
+      "station_cd2": 9950505,
+      "station_name1": "桜木",
+      "station_name2": "いこいの広場",
+      "lon1": 137.972764,
+      "lat1": 34.778216,
+      "lon2": 137.963773,
+      "lat2": 34.788103
+    },
+    {
+      "station_cd1": 9950505,
+      "station_cd2": 9950506,
+      "station_name1": "いこいの広場",
+      "station_name2": "細谷",
+      "lon1": 137.963773,
+      "lat1": 34.788103,
+      "lon2": 137.961606,
+      "lat2": 34.792705
+    },
+    {
+      "station_cd1": 9950506,
+      "station_cd2": 9950507,
+      "station_name1": "細谷",
+      "station_name2": "原谷",
+      "lon1": 137.961606,
+      "lat1": 34.792705,
+      "lon2": 137.955023,
+      "lat2": 34.808434
+    },
+    {
+      "station_cd1": 9950507,
+      "station_cd2": 9950508,
+      "station_name1": "原谷",
+      "station_name2": "原田",
+      "lon1": 137.955023,
+      "lat1": 34.808434,
+      "lon2": 137.952911,
+      "lat2": 34.820183
+    },
+    {
+      "station_cd1": 9950508,
+      "station_cd2": 9950509,
+      "station_name1": "原田",
+      "station_name2": "戸綿",
+      "lon1": 137.952911,
+      "lat1": 34.820183,
+      "lon2": 137.931038,
+      "lat2": 34.831311
+    },
+    {
+      "station_cd1": 9950509,
+      "station_cd2": 9950510,
+      "station_name1": "戸綿",
+      "station_name2": "遠州森",
+      "lon1": 137.931038,
+      "lat1": 34.831311,
+      "lon2": 137.924297,
+      "lat2": 34.8311
+    },
+    {
+      "station_cd1": 9950510,
+      "station_cd2": 9950539,
+      "station_name1": "遠州森",
+      "station_name2": "森町病院前",
+      "lon1": 137.924297,
+      "lat1": 34.8311,
+      "lon2": 137.917944,
+      "lat2": 34.826389
+    },
+    {
+      "station_cd1": 9950511,
+      "station_cd2": 9950512,
+      "station_name1": "円田",
+      "station_name2": "遠江一宮",
+      "lon1": 137.907574,
+      "lat1": 34.820793,
+      "lon2": 137.889145,
+      "lat2": 34.818045
+    },
+    {
+      "station_cd1": 9950512,
+      "station_cd2": 9950513,
+      "station_name1": "遠江一宮",
+      "station_name2": "敷地",
+      "lon1": 137.889145,
+      "lat1": 34.818045,
+      "lon2": 137.864355,
+      "lat2": 34.826218
+    },
+    {
+      "station_cd1": 9950513,
+      "station_cd2": 9950514,
+      "station_name1": "敷地",
+      "station_name2": "豊岡",
+      "lon1": 137.864355,
+      "lat1": 34.826218,
+      "lon2": 137.839758,
+      "lat2": 34.837105
+    },
+    {
+      "station_cd1": 9950514,
+      "station_cd2": 9950515,
+      "station_name1": "豊岡",
+      "station_name2": "上野部",
+      "lon1": 137.839758,
+      "lat1": 34.837105,
+      "lon2": 137.830058,
+      "lat2": 34.847442
+    },
+    {
+      "station_cd1": 9950515,
+      "station_cd2": 9950516,
+      "station_name1": "上野部",
+      "station_name2": "天竜二俣",
+      "lon1": 137.830058,
+      "lat1": 34.847442,
+      "lon2": 137.820045,
+      "lat2": 34.859118
+    },
+    {
+      "station_cd1": 9950516,
+      "station_cd2": 9950517,
+      "station_name1": "天竜二俣",
+      "station_name2": "二俣本町",
+      "lon1": 137.820045,
+      "lat1": 34.859118,
+      "lon2": 137.813015,
+      "lat2": 34.859504
+    },
+    {
+      "station_cd1": 9950517,
+      "station_cd2": 9950518,
+      "station_name1": "二俣本町",
+      "station_name2": "西鹿島",
+      "lon1": 137.813015,
+      "lat1": 34.859504,
+      "lon2": 137.807988,
+      "lat2": 34.846758
+    },
+    {
+      "station_cd1": 9950518,
+      "station_cd2": 9950519,
+      "station_name1": "西鹿島",
+      "station_name2": "岩水寺",
+      "lon1": 137.807988,
+      "lat1": 34.846758,
+      "lon2": 137.792537,
+      "lat2": 34.837705
+    },
+    {
+      "station_cd1": 9950519,
+      "station_cd2": 9950520,
+      "station_name1": "岩水寺",
+      "station_name2": "宮口",
+      "lon1": 137.792537,
+      "lat1": 34.837705,
+      "lon2": 137.773731,
+      "lat2": 34.830389
+    },
+    {
+      "station_cd1": 9950520,
+      "station_cd2": 9950521,
+      "station_name1": "宮口",
+      "station_name2": "フルーツパーク",
+      "lon1": 137.773731,
+      "lat1": 34.830389,
+      "lon2": 137.731976,
+      "lat2": 34.834406
+    },
+    {
+      "station_cd1": 9950521,
+      "station_cd2": 9950522,
+      "station_name1": "フルーツパーク",
+      "station_name2": "都田",
+      "lon1": 137.731976,
+      "lat1": 34.834406,
+      "lon2": 137.718272,
+      "lat2": 34.828223
+    },
+    {
+      "station_cd1": 9950522,
+      "station_cd2": 9950523,
+      "station_name1": "都田",
+      "station_name2": "常葉大学前",
+      "lon1": 137.718272,
+      "lat1": 34.828223,
+      "lon2": 137.709231,
+      "lat2": 34.81989
+    },
+    {
+      "station_cd1": 9950523,
+      "station_cd2": 9950524,
+      "station_name1": "常葉大学前",
+      "station_name2": "金指",
+      "lon1": 137.709231,
+      "lat1": 34.81989,
+      "lon2": 137.681103,
+      "lat2": 34.816951
+    },
+    {
+      "station_cd1": 9950524,
+      "station_cd2": 9950525,
+      "station_name1": "金指",
+      "station_name2": "岡地",
+      "lon1": 137.681103,
+      "lat1": 34.816951,
+      "lon2": 137.665686,
+      "lat2": 34.812295
+    },
+    {
+      "station_cd1": 9950525,
+      "station_cd2": 9950526,
+      "station_name1": "岡地",
+      "station_name2": "気賀",
+      "lon1": 137.665686,
+      "lat1": 34.812295,
+      "lon2": 137.651937,
+      "lat2": 34.80722
+    },
+    {
+      "station_cd1": 9950526,
+      "station_cd2": 9950527,
+      "station_name1": "気賀",
+      "station_name2": "西気賀",
+      "lon1": 137.651937,
+      "lat1": 34.80722,
+      "lon2": 137.621523,
+      "lat2": 34.802323
+    },
+    {
+      "station_cd1": 9950527,
+      "station_cd2": 9950528,
+      "station_name1": "西気賀",
+      "station_name2": "寸座",
+      "lon1": 137.621523,
+      "lat1": 34.802323,
+      "lon2": 137.612523,
+      "lat2": 34.790102
+    },
+    {
+      "station_cd1": 9950528,
+      "station_cd2": 9950529,
+      "station_name1": "寸座",
+      "station_name2": "浜名湖佐久米",
+      "lon1": 137.612523,
+      "lat1": 34.790102,
+      "lon2": 137.599286,
+      "lat2": 34.789146
+    },
+    {
+      "station_cd1": 9950529,
+      "station_cd2": 9950530,
+      "station_name1": "浜名湖佐久米",
+      "station_name2": "東都筑",
+      "lon1": 137.599286,
+      "lat1": 34.789146,
+      "lon2": 137.586571,
+      "lat2": 34.790412
+    },
+    {
+      "station_cd1": 9950530,
+      "station_cd2": 9950531,
+      "station_name1": "東都筑",
+      "station_name2": "都筑",
+      "lon1": 137.586571,
+      "lat1": 34.790412,
+      "lon2": 137.574516,
+      "lat2": 34.79585
+    },
+    {
+      "station_cd1": 9950531,
+      "station_cd2": 9950532,
+      "station_name1": "都筑",
+      "station_name2": "三ヶ日",
+      "lon1": 137.574516,
+      "lat1": 34.79585,
+      "lon2": 137.551705,
+      "lat2": 34.802565
+    },
+    {
+      "station_cd1": 9950532,
+      "station_cd2": 9950533,
+      "station_name1": "三ヶ日",
+      "station_name2": "奥浜名湖",
+      "lon1": 137.551705,
+      "lat1": 34.802565,
+      "lon2": 137.545934,
+      "lat2": 34.795068
+    },
+    {
+      "station_cd1": 9950533,
+      "station_cd2": 9950534,
+      "station_name1": "奥浜名湖",
+      "station_name2": "尾奈",
+      "lon1": 137.545934,
+      "lat1": 34.795068,
+      "lon2": 137.541755,
+      "lat2": 34.783958
+    },
+    {
+      "station_cd1": 9950534,
+      "station_cd2": 9950535,
+      "station_name1": "尾奈",
+      "station_name2": "知波田",
+      "lon1": 137.541755,
+      "lat1": 34.783958,
+      "lon2": 137.511873,
+      "lat2": 34.753069
+    },
+    {
+      "station_cd1": 9950535,
+      "station_cd2": 9950538,
+      "station_name1": "知波田",
+      "station_name2": "大森",
+      "lon1": 137.511873,
+      "lat1": 34.753069,
+      "lon2": 137.509636,
+      "lat2": 34.737865
+    },
+    {
+      "station_cd1": 9950536,
+      "station_cd2": 9950537,
+      "station_name1": "アスモ前",
+      "station_name2": "新所原",
+      "lon1": 137.49405,
+      "lat1": 34.727685,
+      "lon2": 137.485002,
+      "lat2": 34.723343
+    },
+    {
+      "station_cd1": 9950538,
+      "station_cd2": 9950536,
+      "station_name1": "大森",
+      "station_name2": "アスモ前",
+      "lon1": 137.509636,
+      "lat1": 34.737865,
+      "lon2": 137.49405,
+      "lat2": 34.727685
+    },
+    {
+      "station_cd1": 9950539,
+      "station_cd2": 9950511,
+      "station_name1": "森町病院前",
+      "station_name2": "円田",
+      "lon1": 137.917944,
+      "lat1": 34.826389,
+      "lon2": 137.907574,
+      "lat2": 34.820793
+    }
+  ]
+}

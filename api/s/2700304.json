@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 27003,
+    "line_name": "京急大師線",
+    "station_cd": 2700304,
+    "station_g_cd": 2700304,
+    "station_name": "川崎大師",
+    "lon": 139.725946,
+    "lat": 35.535711
+  }
+}

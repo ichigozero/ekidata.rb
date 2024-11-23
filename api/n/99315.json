@@ -1,0 +1,104 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9931501,
+      "station_cd2": 9931502,
+      "station_name1": "阿字ヶ浦",
+      "station_name2": "磯崎",
+      "lon1": 140.61244,
+      "lat1": 36.383529,
+      "lon2": 140.617934,
+      "lat2": 36.37781
+    },
+    {
+      "station_cd1": 9931502,
+      "station_cd2": 9931511,
+      "station_name1": "磯崎",
+      "station_name2": "美乃浜学園",
+      "lon1": 140.617934,
+      "lat1": 36.37781,
+      "lon2": 140.616944,
+      "lat2": 36.372611
+    },
+    {
+      "station_cd1": 9931503,
+      "station_cd2": 9931504,
+      "station_name1": "平磯",
+      "station_name2": "殿山",
+      "lon1": 140.607575,
+      "lat1": 36.357546,
+      "lon2": 140.601087,
+      "lat2": 36.349497
+    },
+    {
+      "station_cd1": 9931504,
+      "station_cd2": 9931505,
+      "station_name1": "殿山",
+      "station_name2": "那珂湊",
+      "lon1": 140.601087,
+      "lat1": 36.349497,
+      "lon2": 140.587716,
+      "lat2": 36.345453
+    },
+    {
+      "station_cd1": 9931505,
+      "station_cd2": 9931510,
+      "station_name1": "那珂湊",
+      "station_name2": "高田の鉄橋",
+      "lon1": 140.587716,
+      "lat1": 36.345453,
+      "lon2": 140.580028,
+      "lat2": 36.352556
+    },
+    {
+      "station_cd1": 9931506,
+      "station_cd2": 9931507,
+      "station_name1": "中根",
+      "station_name2": "金上",
+      "lon1": 140.562138,
+      "lat1": 36.367488,
+      "lon2": 140.534132,
+      "lat2": 36.382319
+    },
+    {
+      "station_cd1": 9931507,
+      "station_cd2": 9931508,
+      "station_name1": "金上",
+      "station_name2": "工機前",
+      "lon1": 140.534132,
+      "lat1": 36.382319,
+      "lon2": 140.524542,
+      "lat2": 36.388099
+    },
+    {
+      "station_cd1": 9931508,
+      "station_cd2": 9931509,
+      "station_name1": "工機前",
+      "station_name2": "勝田",
+      "lon1": 140.524542,
+      "lat1": 36.388099,
+      "lon2": 140.524482,
+      "lat2": 36.394033
+    },
+    {
+      "station_cd1": 9931510,
+      "station_cd2": 9931506,
+      "station_name1": "高田の鉄橋",
+      "station_name2": "中根",
+      "lon1": 140.580028,
+      "lat1": 36.352556,
+      "lon2": 140.562138,
+      "lat2": 36.367488
+    },
+    {
+      "station_cd1": 9931511,
+      "station_cd2": 9931503,
+      "station_name1": "美乃浜学園",
+      "station_name2": "平磯",
+      "lon1": 140.616944,
+      "lat1": 36.372611,
+      "lon2": 140.607575,
+      "lat2": 36.357546
+    }
+  ]
+}

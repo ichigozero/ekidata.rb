@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 24001,
+    "line_name": "京王線",
+    "station_cd": 2400123,
+    "station_g_cd": 2400123,
+    "station_name": "東府中",
+    "lon": 139.495257,
+    "lat": 35.668766
+  }
+}

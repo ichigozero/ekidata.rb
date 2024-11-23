@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 99329,
+    "line_name": "新京成線",
+    "station_cd": 9932921,
+    "station_g_cd": 9932921,
+    "station_name": "みのり台",
+    "lon": 139.929466,
+    "lat": 35.789346
+  }
+}

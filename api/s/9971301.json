@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 99713,
+    "line_name": "広電５号線(皆実線)",
+    "station_cd": 9971301,
+    "station_g_cd": 1161115,
+    "station_name": "広島駅",
+    "lon": 132.475403,
+    "lat": 34.396296
+  }
+}

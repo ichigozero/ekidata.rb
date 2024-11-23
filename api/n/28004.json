@@ -1,0 +1,224 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2800401,
+      "station_cd2": 2800402,
+      "station_name1": "中野",
+      "station_name2": "落合",
+      "lon1": 139.665835,
+      "lat1": 35.705765,
+      "lon2": 139.687284,
+      "lat2": 35.710976
+    },
+    {
+      "station_cd1": 2800402,
+      "station_cd2": 2800403,
+      "station_name1": "落合",
+      "station_name2": "高田馬場",
+      "lon1": 139.687284,
+      "lat1": 35.710976,
+      "lon2": 139.704745,
+      "lat2": 35.713338
+    },
+    {
+      "station_cd1": 2800403,
+      "station_cd2": 2800404,
+      "station_name1": "高田馬場",
+      "station_name2": "早稲田",
+      "lon1": 139.704745,
+      "lat1": 35.713338,
+      "lon2": 139.721319,
+      "lat2": 35.705723
+    },
+    {
+      "station_cd1": 2800404,
+      "station_cd2": 2800405,
+      "station_name1": "早稲田",
+      "station_name2": "神楽坂",
+      "lon1": 139.721319,
+      "lat1": 35.705723,
+      "lon2": 139.734546,
+      "lat2": 35.70379
+    },
+    {
+      "station_cd1": 2800405,
+      "station_cd2": 2800406,
+      "station_name1": "神楽坂",
+      "station_name2": "飯田橋",
+      "lon1": 139.734546,
+      "lat1": 35.70379,
+      "lon2": 139.745986,
+      "lat2": 35.701725
+    },
+    {
+      "station_cd1": 2800406,
+      "station_cd2": 2800407,
+      "station_name1": "飯田橋",
+      "station_name2": "九段下",
+      "lon1": 139.745986,
+      "lat1": 35.701725,
+      "lon2": 139.751948,
+      "lat2": 35.695589
+    },
+    {
+      "station_cd1": 2800407,
+      "station_cd2": 2800408,
+      "station_name1": "九段下",
+      "station_name2": "竹橋",
+      "lon1": 139.751948,
+      "lat1": 35.695589,
+      "lon2": 139.756817,
+      "lat2": 35.690662
+    },
+    {
+      "station_cd1": 2800408,
+      "station_cd2": 2800409,
+      "station_name1": "竹橋",
+      "station_name2": "大手町",
+      "lon1": 139.756817,
+      "lat1": 35.690662,
+      "lon2": 139.766086,
+      "lat2": 35.684801
+    },
+    {
+      "station_cd1": 2800409,
+      "station_cd2": 2800410,
+      "station_name1": "大手町",
+      "station_name2": "日本橋",
+      "lon1": 139.766086,
+      "lat1": 35.684801,
+      "lon2": 139.773516,
+      "lat2": 35.682078
+    },
+    {
+      "station_cd1": 2800410,
+      "station_cd2": 2800411,
+      "station_name1": "日本橋",
+      "station_name2": "茅場町",
+      "lon1": 139.773516,
+      "lat1": 35.682078,
+      "lon2": 139.780005,
+      "lat2": 35.679752
+    },
+    {
+      "station_cd1": 2800411,
+      "station_cd2": 2800412,
+      "station_name1": "茅場町",
+      "station_name2": "門前仲町",
+      "lon1": 139.780005,
+      "lat1": 35.679752,
+      "lon2": 139.796209,
+      "lat2": 35.671851
+    },
+    {
+      "station_cd1": 2800412,
+      "station_cd2": 2800413,
+      "station_name1": "門前仲町",
+      "station_name2": "木場",
+      "lon1": 139.796209,
+      "lat1": 35.671851,
+      "lon2": 139.807042,
+      "lat2": 35.669351
+    },
+    {
+      "station_cd1": 2800413,
+      "station_cd2": 2800414,
+      "station_name1": "木場",
+      "station_name2": "東陽町",
+      "lon1": 139.807042,
+      "lat1": 35.669351,
+      "lon2": 139.817596,
+      "lat2": 35.669629
+    },
+    {
+      "station_cd1": 2800414,
+      "station_cd2": 2800415,
+      "station_name1": "東陽町",
+      "station_name2": "南砂町",
+      "lon1": 139.817596,
+      "lat1": 35.669629,
+      "lon2": 139.83065,
+      "lat2": 35.668796
+    },
+    {
+      "station_cd1": 2800415,
+      "station_cd2": 2800416,
+      "station_name1": "南砂町",
+      "station_name2": "西葛西",
+      "lon1": 139.83065,
+      "lat1": 35.668796,
+      "lon2": 139.859259,
+      "lat2": 35.664631
+    },
+    {
+      "station_cd1": 2800416,
+      "station_cd2": 2800417,
+      "station_name1": "西葛西",
+      "station_name2": "葛西",
+      "lon1": 139.859259,
+      "lat1": 35.664631,
+      "lon2": 139.872458,
+      "lat2": 35.663554
+    },
+    {
+      "station_cd1": 2800417,
+      "station_cd2": 2800418,
+      "station_name1": "葛西",
+      "station_name2": "浦安",
+      "lon1": 139.872458,
+      "lat1": 35.663554,
+      "lon2": 139.893193,
+      "lat2": 35.665932
+    },
+    {
+      "station_cd1": 2800418,
+      "station_cd2": 2800419,
+      "station_name1": "浦安",
+      "station_name2": "南行徳",
+      "lon1": 139.893193,
+      "lat1": 35.665932,
+      "lon2": 139.902311,
+      "lat2": 35.672687
+    },
+    {
+      "station_cd1": 2800419,
+      "station_cd2": 2800420,
+      "station_name1": "南行徳",
+      "station_name2": "行徳",
+      "lon1": 139.902311,
+      "lat1": 35.672687,
+      "lon2": 139.914254,
+      "lat2": 35.682686
+    },
+    {
+      "station_cd1": 2800420,
+      "station_cd2": 2800421,
+      "station_name1": "行徳",
+      "station_name2": "妙典",
+      "lon1": 139.914254,
+      "lat1": 35.682686,
+      "lon2": 139.924209,
+      "lat2": 35.690935
+    },
+    {
+      "station_cd1": 2800421,
+      "station_cd2": 2800422,
+      "station_name1": "妙典",
+      "station_name2": "原木中山",
+      "lon1": 139.924209,
+      "lat1": 35.690935,
+      "lon2": 139.942029,
+      "lat2": 35.703517
+    },
+    {
+      "station_cd1": 2800422,
+      "station_cd2": 2800423,
+      "station_name1": "原木中山",
+      "station_name2": "西船橋",
+      "lon1": 139.942029,
+      "lat1": 35.703517,
+      "lon2": 139.958972,
+      "lat2": 35.707127
+    }
+  ]
+}

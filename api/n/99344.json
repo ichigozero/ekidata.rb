@@ -1,0 +1,54 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9934401,
+      "station_cd2": 9934402,
+      "station_name1": "強羅",
+      "station_name2": "公園下",
+      "lon1": 139.048162,
+      "lat1": 35.25085,
+      "lon2": 139.045639,
+      "lat2": 35.249944
+    },
+    {
+      "station_cd1": 9934402,
+      "station_cd2": 9934403,
+      "station_name1": "公園下",
+      "station_name2": "公園上",
+      "lon1": 139.045639,
+      "lat1": 35.249944,
+      "lon2": 139.043167,
+      "lat2": 35.249083
+    },
+    {
+      "station_cd1": 9934403,
+      "station_cd2": 9934404,
+      "station_name1": "公園上",
+      "station_name2": "中強羅",
+      "lon1": 139.043167,
+      "lat1": 35.249083,
+      "lon2": 139.040556,
+      "lat2": 35.248167
+    },
+    {
+      "station_cd1": 9934404,
+      "station_cd2": 9934405,
+      "station_name1": "中強羅",
+      "station_name2": "上強羅",
+      "lon1": 139.040556,
+      "lat1": 35.248167,
+      "lon2": 139.038056,
+      "lat2": 35.247306
+    },
+    {
+      "station_cd1": 9934405,
+      "station_cd2": 9934406,
+      "station_name1": "上強羅",
+      "station_name2": "早雲山",
+      "lon1": 139.038056,
+      "lat1": 35.247306,
+      "lon2": 139.035611,
+      "lat2": 35.246444
+    }
+  ]
+}

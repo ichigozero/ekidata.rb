@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 99709,
+    "line_name": "アストラムライン",
+    "station_cd": 9970908,
+    "station_g_cd": 9970908,
+    "station_name": "西原",
+    "lon": 132.47478,
+    "lat": 34.44327
+  }
+}

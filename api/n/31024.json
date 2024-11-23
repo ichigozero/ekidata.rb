@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3102401,
+      "station_cd2": 3102402,
+      "station_name1": "信貴山口",
+      "station_name2": "高安山",
+      "lon1": 135.642118,
+      "lat1": 34.619967,
+      "lon2": 135.653794,
+      "lat2": 34.613679
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 11,
+      "line_cd": 21001,
+      "line_name": "東武東上線",
+      "station_cd": 2100139,
+      "station_name": "みなみ寄居"
+    }
+  ]
+}

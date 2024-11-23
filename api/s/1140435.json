@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 15,
+    "line_cd": 11404,
+    "line_name": "JR信越本線(直江津～新潟)",
+    "station_cd": 1140435,
+    "station_g_cd": 1140435,
+    "station_name": "矢代田",
+    "lon": 139.095654,
+    "lat": 37.748863
+  }
+}

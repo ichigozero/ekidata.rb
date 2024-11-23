@@ -1,0 +1,174 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1120501,
+      "station_cd2": 1120502,
+      "station_name1": "青森",
+      "station_name2": "油川",
+      "lon1": 140.734738,
+      "lat1": 40.828668,
+      "lon2": 140.690476,
+      "lat2": 40.857035
+    },
+    {
+      "station_cd1": 1120502,
+      "station_cd2": 1120503,
+      "station_name1": "油川",
+      "station_name2": "津軽宮田",
+      "lon1": 140.690476,
+      "lat1": 40.857035,
+      "lon2": 140.674579,
+      "lat2": 40.887184
+    },
+    {
+      "station_cd1": 1120503,
+      "station_cd2": 1120504,
+      "station_name1": "津軽宮田",
+      "station_name2": "奥内",
+      "lon1": 140.674579,
+      "lat1": 40.887184,
+      "lon2": 140.672382,
+      "lat2": 40.903044
+    },
+    {
+      "station_cd1": 1120504,
+      "station_cd2": 1120505,
+      "station_name1": "奥内",
+      "station_name2": "左堰",
+      "lon1": 140.672382,
+      "lat1": 40.903044,
+      "lon2": 140.665929,
+      "lat2": 40.917214
+    },
+    {
+      "station_cd1": 1120505,
+      "station_cd2": 1120506,
+      "station_name1": "左堰",
+      "station_name2": "後潟",
+      "lon1": 140.665929,
+      "lat1": 40.917214,
+      "lon2": 140.662734,
+      "lat2": 40.931519
+    },
+    {
+      "station_cd1": 1120506,
+      "station_cd2": 1120507,
+      "station_name1": "後潟",
+      "station_name2": "中沢",
+      "lon1": 140.662734,
+      "lat1": 40.931519,
+      "lon2": 140.656244,
+      "lat2": 40.949044
+    },
+    {
+      "station_cd1": 1120507,
+      "station_cd2": 1120508,
+      "station_name1": "中沢",
+      "station_name2": "蓬田",
+      "lon1": 140.656244,
+      "lat1": 40.949044,
+      "lon2": 140.654533,
+      "lat2": 40.969042
+    },
+    {
+      "station_cd1": 1120508,
+      "station_cd2": 1120509,
+      "station_name1": "蓬田",
+      "station_name2": "郷沢",
+      "lon1": 140.654533,
+      "lat1": 40.969042,
+      "lon2": 140.652399,
+      "lat2": 40.987682
+    },
+    {
+      "station_cd1": 1120509,
+      "station_cd2": 1120510,
+      "station_name1": "郷沢",
+      "station_name2": "瀬辺地",
+      "lon1": 140.652399,
+      "lat1": 40.987682,
+      "lon2": 140.648179,
+      "lat2": 41.007869
+    },
+    {
+      "station_cd1": 1120510,
+      "station_cd2": 1120511,
+      "station_name1": "瀬辺地",
+      "station_name2": "蟹田",
+      "lon1": 140.648179,
+      "lat1": 41.007869,
+      "lon2": 140.642565,
+      "lat2": 41.038274
+    },
+    {
+      "station_cd1": 1120511,
+      "station_cd2": 1120512,
+      "station_name1": "蟹田",
+      "station_name2": "中小国",
+      "lon1": 140.642565,
+      "lat1": 41.038274,
+      "lon2": 140.596798,
+      "lat2": 41.051702
+    },
+    {
+      "station_cd1": 1120512,
+      "station_cd2": 1120513,
+      "station_name1": "中小国",
+      "station_name2": "大平",
+      "lon1": 140.596798,
+      "lat1": 41.051702,
+      "lon2": 140.559375,
+      "lat2": 41.065866
+    },
+    {
+      "station_cd1": 1120513,
+      "station_cd2": 1120514,
+      "station_name1": "大平",
+      "station_name2": "津軽二股",
+      "lon1": 140.559375,
+      "lat1": 41.065866,
+      "lon2": 140.514231,
+      "lat2": 41.145937
+    },
+    {
+      "station_cd1": 1120514,
+      "station_cd2": 1120515,
+      "station_name1": "津軽二股",
+      "station_name2": "大川平",
+      "lon1": 140.514231,
+      "lat1": 41.145937,
+      "lon2": 140.507592,
+      "lat2": 41.163204
+    },
+    {
+      "station_cd1": 1120515,
+      "station_cd2": 1120516,
+      "station_name1": "大川平",
+      "station_name2": "今別",
+      "lon1": 140.507592,
+      "lat1": 41.163204,
+      "lon2": 140.490448,
+      "lat2": 41.179741
+    },
+    {
+      "station_cd1": 1120516,
+      "station_cd2": 1120517,
+      "station_name1": "今別",
+      "station_name2": "津軽浜名",
+      "lon1": 140.490448,
+      "lat1": 41.179741,
+      "lon2": 140.47185,
+      "lat2": 41.180521
+    },
+    {
+      "station_cd1": 1120517,
+      "station_cd2": 1120518,
+      "station_name1": "津軽浜名",
+      "station_name2": "三厩",
+      "lon1": 140.47185,
+      "lat1": 41.180521,
+      "lon2": 140.444482,
+      "lat2": 41.185404
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1192201,
+      "station_cd2": 1192202,
+      "station_name1": "早岐",
+      "station_name2": "ハウステンボス",
+      "lon1": 129.79929,
+      "lat1": 33.134155,
+      "lon2": 129.796458,
+      "lat2": 33.091923
+    },
+    {
+      "station_cd1": 1192202,
+      "station_cd2": 1192203,
+      "station_name1": "ハウステンボス",
+      "station_name2": "南風崎",
+      "lon1": 129.796458,
+      "lat1": 33.091923,
+      "lon2": 129.80111,
+      "lat2": 33.086984
+    },
+    {
+      "station_cd1": 1192203,
+      "station_cd2": 1192204,
+      "station_name1": "南風崎",
+      "station_name2": "小串郷",
+      "lon1": 129.80111,
+      "lat1": 33.086984,
+      "lon2": 129.834347,
+      "lat2": 33.063779
+    },
+    {
+      "station_cd1": 1192204,
+      "station_cd2": 1192205,
+      "station_name1": "小串郷",
+      "station_name2": "川棚",
+      "lon1": 129.834347,
+      "lat1": 33.063779,
+      "lon2": 129.864112,
+      "lat2": 33.068368
+    },
+    {
+      "station_cd1": 1192205,
+      "station_cd2": 1192206,
+      "station_name1": "川棚",
+      "station_name2": "彼杵",
+      "lon1": 129.864112,
+      "lat1": 33.068368,
+      "lon2": 129.914541,
+      "lat2": 33.039875
+    },
+    {
+      "station_cd1": 1192206,
+      "station_cd2": 1192207,
+      "station_name1": "彼杵",
+      "station_name2": "千綿",
+      "lon1": 129.914541,
+      "lat1": 33.039875,
+      "lon2": 129.945573,
+      "lat2": 33.013107
+    },
+    {
+      "station_cd1": 1192207,
+      "station_cd2": 1192208,
+      "station_name1": "千綿",
+      "station_name2": "松原",
+      "lon1": 129.945573,
+      "lat1": 33.013107,
+      "lon2": 129.94619,
+      "lat2": 32.97738
+    },
+    {
+      "station_cd1": 1192208,
+      "station_cd2": 1192209,
+      "station_name1": "松原",
+      "station_name2": "竹松",
+      "lon1": 129.94619,
+      "lat1": 32.97738,
+      "lon2": 129.953035,
+      "lat2": 32.939959
+    },
+    {
+      "station_cd1": 1192209,
+      "station_cd2": 1192210,
+      "station_name1": "竹松",
+      "station_name2": "諏訪",
+      "lon1": 129.953035,
+      "lat1": 32.939959,
+      "lon2": 129.960277,
+      "lat2": 32.923627
+    },
+    {
+      "station_cd1": 1192210,
+      "station_cd2": 1192211,
+      "station_name1": "諏訪",
+      "station_name2": "大村",
+      "lon1": 129.960277,
+      "lat1": 32.923627,
+      "lon2": 129.962238,
+      "lat2": 32.911439
+    },
+    {
+      "station_cd1": 1192211,
+      "station_cd2": 1192212,
+      "station_name1": "大村",
+      "station_name2": "岩松",
+      "lon1": 129.962238,
+      "lat1": 32.911439,
+      "lon2": 129.981218,
+      "lat2": 32.890513
+    },
+    {
+      "station_cd1": 1192212,
+      "station_cd2": 1192213,
+      "station_name1": "岩松",
+      "station_name2": "諫早",
+      "lon1": 129.981218,
+      "lat1": 32.890513,
+      "lon2": 130.041596,
+      "lat2": 32.851018
+    }
+  ]
+}

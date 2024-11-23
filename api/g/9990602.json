@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 40,
+      "line_cd": 99906,
+      "line_name": "福岡市営地下鉄箱崎線",
+      "station_cd": 9990602,
+      "station_name": "呉服町"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 99517,
+    "line_name": "名古屋市営地下鉄桜通線",
+    "station_cd": 9951716,
+    "station_g_cd": 9951716,
+    "station_name": "鶴里",
+    "lon": 136.943433,
+    "lat": 35.105738
+  }
+}

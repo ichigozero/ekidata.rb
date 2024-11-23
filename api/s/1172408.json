@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11724,
+    "line_name": "JR岩徳線",
+    "station_cd": 1172408,
+    "station_g_cd": 1172408,
+    "station_name": "米川",
+    "lon": 132.014745,
+    "lat": 34.074521
+  }
+}

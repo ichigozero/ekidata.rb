@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 23001,
+    "line_name": "京成本線",
+    "station_cd": 2300130,
+    "station_g_cd": 2300130,
+    "station_name": "京成大和田",
+    "lon": 140.108578,
+    "lat": 35.712309
+  }
+}

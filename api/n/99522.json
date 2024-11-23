@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9952201,
+      "station_cd2": 9952202,
+      "station_name1": "井原",
+      "station_name2": "運動公園前",
+      "lon1": 137.421885,
+      "lat1": 34.764232,
+      "lon2": 137.422314,
+      "lat2": 34.75845
+    }
+  ]
+}

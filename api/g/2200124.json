@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 11,
+      "line_cd": 22001,
+      "line_name": "西武池袋線",
+      "station_cd": 2200124,
+      "station_name": "元加治"
+    }
+  ]
+}

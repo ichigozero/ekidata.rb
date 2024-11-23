@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2100601,
+      "station_cd2": 2100602,
+      "station_name1": "西新井",
+      "station_name2": "大師前",
+      "lon1": 139.790372,
+      "lat1": 35.777323,
+      "lon2": 139.781647,
+      "lat2": 35.778989
+    }
+  ]
+}

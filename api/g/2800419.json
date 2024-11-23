@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 12,
+      "line_cd": 28004,
+      "line_name": "東京メトロ東西線",
+      "station_cd": 2800419,
+      "station_name": "南行徳"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 44,
+    "line_cd": 11923,
+    "line_name": "阿蘇高原線",
+    "station_cd": 1192333,
+    "station_g_cd": 1192333,
+    "station_name": "中判田",
+    "lon": 131.638735,
+    "lat": 33.164564
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99908,
+    "line_name": "北九州モノレール",
+    "station_cd": 9990813,
+    "station_g_cd": 9990813,
+    "station_name": "企救丘",
+    "lon": 130.877532,
+    "lat": 33.819708
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 27,
+      "line_cd": 99614,
+      "line_name": "北大阪急行電鉄",
+      "station_cd": 9961404,
+      "station_name": "江坂"
+    },
+    {
+      "pref_cd": 27,
+      "line_cd": 99618,
+      "line_name": "大阪メトロ御堂筋線",
+      "station_cd": 9961801,
+      "station_name": "江坂"
+    }
+  ]
+}

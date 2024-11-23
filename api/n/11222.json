@@ -1,0 +1,314 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1122201,
+      "station_cd2": 1122202,
+      "station_name1": "あおば通",
+      "station_name2": "仙台",
+      "lon1": 140.878514,
+      "lat1": 38.260749,
+      "lon2": 140.882158,
+      "lat2": 38.260027
+    },
+    {
+      "station_cd1": 1122202,
+      "station_cd2": 1122203,
+      "station_name1": "仙台",
+      "station_name2": "榴ケ岡",
+      "lon1": 140.882158,
+      "lat1": 38.260027,
+      "lon2": 140.893782,
+      "lat2": 38.258792
+    },
+    {
+      "station_cd1": 1122203,
+      "station_cd2": 1122204,
+      "station_name1": "榴ケ岡",
+      "station_name2": "宮城野原",
+      "lon1": 140.893782,
+      "lat1": 38.258792,
+      "lon2": 140.905155,
+      "lat2": 38.26115
+    },
+    {
+      "station_cd1": 1122204,
+      "station_cd2": 1122205,
+      "station_name1": "宮城野原",
+      "station_name2": "陸前原ノ町",
+      "lon1": 140.905155,
+      "lat1": 38.26115,
+      "lon2": 140.910638,
+      "lat2": 38.266017
+    },
+    {
+      "station_cd1": 1122205,
+      "station_cd2": 1122206,
+      "station_name1": "陸前原ノ町",
+      "station_name2": "苦竹",
+      "lon1": 140.910638,
+      "lat1": 38.266017,
+      "lon2": 140.918867,
+      "lat2": 38.268722
+    },
+    {
+      "station_cd1": 1122206,
+      "station_cd2": 1122207,
+      "station_name1": "苦竹",
+      "station_name2": "小鶴新田",
+      "lon1": 140.918867,
+      "lat1": 38.268722,
+      "lon2": 140.935446,
+      "lat2": 38.273455
+    },
+    {
+      "station_cd1": 1122207,
+      "station_cd2": 1122208,
+      "station_name1": "小鶴新田",
+      "station_name2": "福田町",
+      "lon1": 140.935446,
+      "lat1": 38.273455,
+      "lon2": 140.958252,
+      "lat2": 38.274967
+    },
+    {
+      "station_cd1": 1122208,
+      "station_cd2": 1122209,
+      "station_name1": "福田町",
+      "station_name2": "陸前高砂",
+      "lon1": 140.958252,
+      "lat1": 38.274967,
+      "lon2": 140.967607,
+      "lat2": 38.27344
+    },
+    {
+      "station_cd1": 1122209,
+      "station_cd2": 1122210,
+      "station_name1": "陸前高砂",
+      "station_name2": "中野栄",
+      "lon1": 140.967607,
+      "lat1": 38.27344,
+      "lon2": 140.985236,
+      "lat2": 38.280796
+    },
+    {
+      "station_cd1": 1122210,
+      "station_cd2": 1122211,
+      "station_name1": "中野栄",
+      "station_name2": "多賀城",
+      "lon1": 140.985236,
+      "lat1": 38.280796,
+      "lon2": 141.005375,
+      "lat2": 38.291656
+    },
+    {
+      "station_cd1": 1122211,
+      "station_cd2": 1122212,
+      "station_name1": "多賀城",
+      "station_name2": "下馬",
+      "lon1": 141.005375,
+      "lat1": 38.291656,
+      "lon2": 141.014965,
+      "lat2": 38.305833
+    },
+    {
+      "station_cd1": 1122212,
+      "station_cd2": 1122213,
+      "station_name1": "下馬",
+      "station_name2": "西塩釜",
+      "lon1": 141.014965,
+      "lat1": 38.305833,
+      "lon2": 141.018419,
+      "lat2": 38.31194
+    },
+    {
+      "station_cd1": 1122213,
+      "station_cd2": 1122214,
+      "station_name1": "西塩釜",
+      "station_name2": "本塩釜",
+      "lon1": 141.018419,
+      "lat1": 38.31194,
+      "lon2": 141.022477,
+      "lat2": 38.317715
+    },
+    {
+      "station_cd1": 1122214,
+      "station_cd2": 1122215,
+      "station_name1": "本塩釜",
+      "station_name2": "東塩釜",
+      "lon1": 141.022477,
+      "lat1": 38.317715,
+      "lon2": 141.031665,
+      "lat2": 38.325572
+    },
+    {
+      "station_cd1": 1122215,
+      "station_cd2": 1122216,
+      "station_name1": "東塩釜",
+      "station_name2": "陸前浜田",
+      "lon1": 141.031665,
+      "lat1": 38.325572,
+      "lon2": 141.041818,
+      "lat2": 38.350747
+    },
+    {
+      "station_cd1": 1122216,
+      "station_cd2": 1122217,
+      "station_name1": "陸前浜田",
+      "station_name2": "松島海岸",
+      "lon1": 141.041818,
+      "lat1": 38.350747,
+      "lon2": 141.058523,
+      "lat2": 38.368529
+    },
+    {
+      "station_cd1": 1122217,
+      "station_cd2": 1122218,
+      "station_name1": "松島海岸",
+      "station_name2": "高城町",
+      "lon1": 141.058523,
+      "lat1": 38.368529,
+      "lon2": 141.07344,
+      "lat2": 38.382731
+    },
+    {
+      "station_cd1": 1122218,
+      "station_cd2": 1122219,
+      "station_name1": "高城町",
+      "station_name2": "手樽",
+      "lon1": 141.07344,
+      "lat1": 38.382731,
+      "lon2": 141.092846,
+      "lat2": 38.38715
+    },
+    {
+      "station_cd1": 1122219,
+      "station_cd2": 1122220,
+      "station_name1": "手樽",
+      "station_name2": "陸前富山",
+      "lon1": 141.092846,
+      "lat1": 38.38715,
+      "lon2": 141.107208,
+      "lat2": 38.386307
+    },
+    {
+      "station_cd1": 1122220,
+      "station_cd2": 1122221,
+      "station_name1": "陸前富山",
+      "station_name2": "陸前大塚",
+      "lon1": 141.107208,
+      "lat1": 38.386307,
+      "lon2": 141.12947,
+      "lat2": 38.379078
+    },
+    {
+      "station_cd1": 1122221,
+      "station_cd2": 1122222,
+      "station_name1": "陸前大塚",
+      "station_name2": "東名",
+      "lon1": 141.12947,
+      "lat1": 38.379078,
+      "lon2": 141.14548,
+      "lat2": 38.37529956
+    },
+    {
+      "station_cd1": 1122222,
+      "station_cd2": 1122223,
+      "station_name1": "東名",
+      "station_name2": "野蒜",
+      "lon1": 141.14548,
+      "lat1": 38.37529956,
+      "lon2": 141.1570349,
+      "lat2": 38.3790003
+    },
+    {
+      "station_cd1": 1122223,
+      "station_cd2": 1122224,
+      "station_name1": "野蒜",
+      "station_name2": "陸前小野",
+      "lon1": 141.1570349,
+      "lat1": 38.3790003,
+      "lon2": 141.174345,
+      "lat2": 38.396018
+    },
+    {
+      "station_cd1": 1122224,
+      "station_cd2": 1122225,
+      "station_name1": "陸前小野",
+      "station_name2": "鹿妻",
+      "lon1": 141.174345,
+      "lat1": 38.396018,
+      "lon2": 141.190073,
+      "lat2": 38.403315
+    },
+    {
+      "station_cd1": 1122225,
+      "station_cd2": 1122226,
+      "station_name1": "鹿妻",
+      "station_name2": "矢本",
+      "lon1": 141.190073,
+      "lat1": 38.403315,
+      "lon2": 141.209148,
+      "lat2": 38.420432
+    },
+    {
+      "station_cd1": 1122226,
+      "station_cd2": 1122227,
+      "station_name1": "矢本",
+      "station_name2": "東矢本",
+      "lon1": 141.209148,
+      "lat1": 38.420432,
+      "lon2": 141.22216,
+      "lat2": 38.427993
+    },
+    {
+      "station_cd1": 1122227,
+      "station_cd2": 1122228,
+      "station_name1": "東矢本",
+      "station_name2": "陸前赤井",
+      "lon1": 141.22216,
+      "lat1": 38.427993,
+      "lon2": 141.238883,
+      "lat2": 38.432442
+    },
+    {
+      "station_cd1": 1122228,
+      "station_cd2": 1122232,
+      "station_name1": "陸前赤井",
+      "station_name2": "石巻あゆみ野",
+      "lon1": 141.238883,
+      "lat1": 38.432442,
+      "lon2": 141.259444,
+      "lat2": 38.436111
+    },
+    {
+      "station_cd1": 1122229,
+      "station_cd2": 1122230,
+      "station_name1": "蛇田",
+      "station_name2": "陸前山下",
+      "lon1": 141.277652,
+      "lat1": 38.438218,
+      "lon2": 141.288868,
+      "lat2": 38.437718
+    },
+    {
+      "station_cd1": 1122230,
+      "station_cd2": 1122231,
+      "station_name1": "陸前山下",
+      "station_name2": "石巻",
+      "lon1": 141.288868,
+      "lat1": 38.437718,
+      "lon2": 141.303553,
+      "lat2": 38.43538
+    },
+    {
+      "station_cd1": 1122232,
+      "station_cd2": 1122229,
+      "station_name1": "石巻あゆみ野",
+      "station_name2": "蛇田",
+      "lon1": 141.259444,
+      "lat1": 38.436111,
+      "lon2": 141.277652,
+      "lat2": 38.438218
+    }
+  ]
+}

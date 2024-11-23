@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 10,
+    "line_cd": 11341,
+    "line_name": "JR両毛線",
+    "station_cd": 1134104,
+    "station_g_cd": 1134104,
+    "station_name": "新前橋",
+    "lon": 139.046924,
+    "lat": 36.378936
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 13,
+      "line_cd": 24001,
+      "line_name": "京王線",
+      "station_cd": 2400128,
+      "station_name": "百草園"
+    }
+  ]
+}

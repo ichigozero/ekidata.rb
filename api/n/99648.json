@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9964801,
+      "station_cd2": 9964802,
+      "station_name1": "三宮",
+      "station_name2": "貿易センター",
+      "lon1": 135.195306,
+      "lat1": 34.694563,
+      "lon2": 135.199469,
+      "lat2": 34.689339
+    },
+    {
+      "station_cd1": 9964802,
+      "station_cd2": 9964803,
+      "station_name1": "貿易センター",
+      "station_name2": "ポートターミナル",
+      "lon1": 135.199469,
+      "lat1": 34.689339,
+      "lon2": 135.202205,
+      "lat2": 34.681501
+    },
+    {
+      "station_cd1": 9964803,
+      "station_cd2": 9964804,
+      "station_name1": "ポートターミナル",
+      "station_name2": "中公園",
+      "lon1": 135.202205,
+      "lat1": 34.681501,
+      "lon2": 135.207483,
+      "lat2": 34.673124
+    },
+    {
+      "station_cd1": 9964804,
+      "station_cd2": 9964805,
+      "station_name1": "中公園",
+      "station_name2": "みなとじま",
+      "lon1": 135.207483,
+      "lat1": 34.673124,
+      "lon2": 135.210105,
+      "lat2": 34.668863
+    },
+    {
+      "station_cd1": 9964805,
+      "station_cd2": 9964806,
+      "station_name1": "みなとじま",
+      "station_name2": "市民広場",
+      "lon1": 135.210105,
+      "lat1": 34.668863,
+      "lon2": 135.212455,
+      "lat2": 34.664897
+    },
+    {
+      "station_cd1": 9964806,
+      "station_cd2": 9964807,
+      "station_name1": "市民広場",
+      "station_name2": "医療センター",
+      "lon1": 135.212455,
+      "lat1": 34.664897,
+      "lon2": 135.216343,
+      "lat2": 34.658578
+    },
+    {
+      "station_cd1": 9964806,
+      "station_cd2": 9964810,
+      "station_name1": "市民広場",
+      "station_name2": "南公園",
+      "lon1": 135.212455,
+      "lat1": 34.664897,
+      "lon2": 135.217007,
+      "lat2": 34.664666
+    },
+    {
+      "station_cd1": 9964807,
+      "station_cd2": 9964808,
+      "station_name1": "医療センター",
+      "station_name2": "京コンピュータ前",
+      "lon1": 135.216343,
+      "lat1": 34.658578,
+      "lon2": 135.221865,
+      "lat2": 34.654892
+    },
+    {
+      "station_cd1": 9964808,
+      "station_cd2": 9964809,
+      "station_name1": "京コンピュータ前",
+      "station_name2": "神戸空港",
+      "lon1": 135.221865,
+      "lat1": 34.654892,
+      "lon2": 135.229042,
+      "lat2": 34.637194
+    },
+    {
+      "station_cd1": 9964810,
+      "station_cd2": 9964811,
+      "station_name1": "南公園",
+      "station_name2": "中埠頭",
+      "lon1": 135.217007,
+      "lat1": 34.664666,
+      "lon2": 135.217096,
+      "lat2": 34.669266
+    },
+    {
+      "station_cd1": 9964811,
+      "station_cd2": 9964812,
+      "station_name1": "中埠頭",
+      "station_name2": "北埠頭",
+      "lon1": 135.217096,
+      "lat1": 34.669266,
+      "lon2": 135.214632,
+      "lat2": 34.673566
+    },
+    {
+      "station_cd1": 9964812,
+      "station_cd2": 9964804,
+      "station_name1": "北埠頭",
+      "station_name2": "中公園",
+      "lon1": 135.214632,
+      "lat1": 34.673566,
+      "lon2": 135.207483,
+      "lat2": 34.673124
+    }
+  ]
+}

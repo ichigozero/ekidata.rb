@@ -1,0 +1,104 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1191701,
+      "station_cd2": 1191702,
+      "station_name1": "香椎",
+      "station_name2": "香椎神宮",
+      "lon1": 130.444063,
+      "lat1": 33.659228,
+      "lon2": 130.45271,
+      "lat2": 33.649544
+    },
+    {
+      "station_cd1": 1191702,
+      "station_cd2": 1191703,
+      "station_name1": "香椎神宮",
+      "station_name2": "舞松原",
+      "lon1": 130.45271,
+      "lat1": 33.649544,
+      "lon2": 130.455141,
+      "lat2": 33.645386
+    },
+    {
+      "station_cd1": 1191703,
+      "station_cd2": 1191704,
+      "station_name1": "舞松原",
+      "station_name2": "土井",
+      "lon1": 130.455141,
+      "lat1": 33.645386,
+      "lon2": 130.466068,
+      "lat2": 33.634968
+    },
+    {
+      "station_cd1": 1191704,
+      "station_cd2": 1191705,
+      "station_name1": "土井",
+      "station_name2": "伊賀",
+      "lon1": 130.466068,
+      "lat1": 33.634968,
+      "lon2": 130.473554,
+      "lat2": 33.6208
+    },
+    {
+      "station_cd1": 1191705,
+      "station_cd2": 1191706,
+      "station_name1": "伊賀",
+      "station_name2": "長者原",
+      "lon1": 130.473554,
+      "lat1": 33.6208,
+      "lon2": 130.477848,
+      "lat2": 33.613567
+    },
+    {
+      "station_cd1": 1191706,
+      "station_cd2": 1191707,
+      "station_name1": "長者原",
+      "station_name2": "酒殿",
+      "lon1": 130.477848,
+      "lat1": 33.613567,
+      "lon2": 130.486348,
+      "lat2": 33.602652
+    },
+    {
+      "station_cd1": 1191707,
+      "station_cd2": 1191708,
+      "station_name1": "酒殿",
+      "station_name2": "須恵",
+      "lon1": 130.486348,
+      "lat1": 33.602652,
+      "lon2": 130.498077,
+      "lat2": 33.596803
+    },
+    {
+      "station_cd1": 1191708,
+      "station_cd2": 1191709,
+      "station_name1": "須恵",
+      "station_name2": "須恵中央",
+      "lon1": 130.498077,
+      "lat1": 33.596803,
+      "lon2": 130.505146,
+      "lat2": 33.587296
+    },
+    {
+      "station_cd1": 1191709,
+      "station_cd2": 1191710,
+      "station_name1": "須恵中央",
+      "station_name2": "新原",
+      "lon1": 130.505146,
+      "lat1": 33.587296,
+      "lon2": 130.508835,
+      "lat2": 33.579061
+    },
+    {
+      "station_cd1": 1191710,
+      "station_cd2": 1191711,
+      "station_name1": "新原",
+      "station_name2": "宇美",
+      "lon1": 130.508835,
+      "lat1": 33.579061,
+      "lon2": 130.513426,
+      "lat2": 33.569251
+    }
+  ]
+}

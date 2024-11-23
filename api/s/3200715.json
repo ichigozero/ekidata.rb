@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 32007,
+    "line_name": "南海高野線",
+    "station_cd": 3200715,
+    "station_g_cd": 3200715,
+    "station_name": "中百舌鳥",
+    "lon": 135.504454,
+    "lat": 34.556232
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3000401,
+      "station_cd2": 3000402,
+      "station_name1": "吉良吉田",
+      "station_name2": "三河鳥羽",
+      "lon1": 137.071017,
+      "lat1": 34.794043,
+      "lon2": 137.104984,
+      "lat2": 34.793214
+    },
+    {
+      "station_cd1": 3000402,
+      "station_cd2": 3000403,
+      "station_name1": "三河鳥羽",
+      "station_name2": "西幡豆",
+      "lon1": 137.104984,
+      "lat1": 34.793214,
+      "lon2": 137.121271,
+      "lat2": 34.792431
+    },
+    {
+      "station_cd1": 3000403,
+      "station_cd2": 3000404,
+      "station_name1": "西幡豆",
+      "station_name2": "東幡豆",
+      "lon1": 137.121271,
+      "lat1": 34.792431,
+      "lon2": 137.145645,
+      "lat2": 34.789693
+    },
+    {
+      "station_cd1": 3000404,
+      "station_cd2": 3000405,
+      "station_name1": "東幡豆",
+      "station_name2": "こどもの国",
+      "lon1": 137.145645,
+      "lat1": 34.789693,
+      "lon2": 137.162721,
+      "lat2": 34.788791
+    },
+    {
+      "station_cd1": 3000405,
+      "station_cd2": 3000406,
+      "station_name1": "こどもの国",
+      "station_name2": "西浦",
+      "lon1": 137.162721,
+      "lat1": 34.788791,
+      "lon2": 137.178617,
+      "lat2": 34.79003
+    },
+    {
+      "station_cd1": 3000406,
+      "station_cd2": 3000407,
+      "station_name1": "西浦",
+      "station_name2": "形原",
+      "lon1": 137.178617,
+      "lat1": 34.79003,
+      "lon2": 137.184594,
+      "lat2": 34.798607
+    },
+    {
+      "station_cd1": 3000407,
+      "station_cd2": 3000408,
+      "station_name1": "形原",
+      "station_name2": "三河鹿島",
+      "lon1": 137.184594,
+      "lat1": 34.798607,
+      "lon2": 137.189687,
+      "lat2": 34.813313
+    },
+    {
+      "station_cd1": 3000408,
+      "station_cd2": 3000409,
+      "station_name1": "三河鹿島",
+      "station_name2": "蒲郡競艇場前",
+      "lon1": 137.189687,
+      "lat1": 34.813313,
+      "lon2": 137.202014,
+      "lat2": 34.825545
+    },
+    {
+      "station_cd1": 3000409,
+      "station_cd2": 3000410,
+      "station_name1": "蒲郡競艇場前",
+      "station_name2": "蒲郡",
+      "lon1": 137.202014,
+      "lat1": 34.825545,
+      "lon2": 137.226115,
+      "lat2": 34.822743
+    }
+  ]
+}

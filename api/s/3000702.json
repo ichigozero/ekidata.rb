@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 30007,
+    "line_name": "名鉄空港線",
+    "station_cd": 3000702,
+    "station_g_cd": 3000702,
+    "station_name": "りんくう常滑",
+    "lon": 136.828164,
+    "lat": 34.87967
+  }
+}

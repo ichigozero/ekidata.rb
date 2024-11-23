@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 1,
+      "line_cd": 99101,
+      "line_name": "札幌市営地下鉄東西線",
+      "station_cd": 9910104,
+      "station_name": "二十四軒"
+    }
+  ]
+}

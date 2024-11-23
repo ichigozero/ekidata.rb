@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 6,
+    "line_cd": 11202,
+    "line_name": "JR奥羽本線(新庄～青森)",
+    "station_cd": 1120203,
+    "station_g_cd": 1120203,
+    "station_name": "羽前豊里",
+    "lon": 140.242247,
+    "lat": 38.836748
+  }
+}

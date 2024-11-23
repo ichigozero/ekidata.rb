@@ -1,0 +1,24 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3101201,
+      "station_cd2": 3101202,
+      "station_name1": "道明寺",
+      "station_name2": "柏原南口",
+      "lon1": 135.620399,
+      "lat1": 34.56834,
+      "lon2": 135.624956,
+      "lat2": 34.58153
+    },
+    {
+      "station_cd1": 3101202,
+      "station_cd2": 3101203,
+      "station_name1": "柏原南口",
+      "station_name2": "柏原",
+      "lon1": 135.624956,
+      "lat1": 34.58153,
+      "lon2": 135.623308,
+      "lat2": 34.586668
+    }
+  ]
+}

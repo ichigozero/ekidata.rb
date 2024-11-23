@@ -1,0 +1,25 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9931901,
+      "station_g_cd": 1122903,
+      "station_name": "佐貫",
+      "lon": 140.138292,
+      "lat": 35.929636
+    },
+    {
+      "station_cd": 9931902,
+      "station_g_cd": 9931902,
+      "station_name": "入地",
+      "lon": 140.157266,
+      "lat": 35.91899
+    },
+    {
+      "station_cd": 9931903,
+      "station_g_cd": 9931903,
+      "station_name": "竜ヶ崎",
+      "lon": 140.178937,
+      "lat": 35.908586
+    }
+  ]
+}

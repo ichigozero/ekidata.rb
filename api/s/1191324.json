@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 44,
+    "line_cd": 11913,
+    "line_name": "ゆふ高原線",
+    "station_cd": 1191324,
+    "station_g_cd": 1191324,
+    "station_name": "由布院",
+    "lon": 131.355024,
+    "lat": 33.262551
+  }
+}

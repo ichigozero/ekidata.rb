@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11723,
+    "line_name": "JR小野田線",
+    "station_cd": 1172308,
+    "station_g_cd": 1172308,
+    "station_name": "南中川",
+    "lon": 131.17887,
+    "lat": 33.986973
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 33,
+      "line_cd": 99704,
+      "line_name": "水島本線",
+      "station_cd": 9970402,
+      "station_name": "球場前"
+    }
+  ]
+}

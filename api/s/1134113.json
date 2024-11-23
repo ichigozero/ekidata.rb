@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 9,
+    "line_cd": 11341,
+    "line_name": "JR両毛線",
+    "station_cd": 1134113,
+    "station_g_cd": 1134113,
+    "station_name": "山前",
+    "lon": 139.411322,
+    "lat": 36.347369
+  }
+}

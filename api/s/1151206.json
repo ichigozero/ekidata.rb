@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 11512,
+    "line_name": "JR参宮線",
+    "station_cd": 1151206,
+    "station_g_cd": 1151206,
+    "station_name": "伊勢市",
+    "lon": 136.709661,
+    "lat": 34.49126
+  }
+}

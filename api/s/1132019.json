@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 8,
+    "line_cd": 11320,
+    "line_name": "JR常磐線(上野～取手)",
+    "station_cd": 1132019,
+    "station_g_cd": 1122901,
+    "station_name": "取手",
+    "lon": 140.063004,
+    "lat": 35.89553
+  }
+}

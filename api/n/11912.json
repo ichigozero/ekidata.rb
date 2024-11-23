@@ -1,0 +1,44 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1191201,
+      "station_cd2": 1191202,
+      "station_name1": "桂川",
+      "station_name2": "上穂波",
+      "lon1": 130.662752,
+      "lat1": 33.584705,
+      "lon2": 130.645151,
+      "lat2": 33.566909
+    },
+    {
+      "station_cd1": 1191202,
+      "station_cd2": 1191203,
+      "station_name1": "上穂波",
+      "station_name2": "筑前内野",
+      "lon1": 130.645151,
+      "lat1": 33.566909,
+      "lon2": 130.63793,
+      "lat2": 33.539967
+    },
+    {
+      "station_cd1": 1191203,
+      "station_cd2": 1191204,
+      "station_name1": "筑前内野",
+      "station_name2": "筑前山家",
+      "lon1": 130.63793,
+      "lat1": 33.539967,
+      "lon2": 130.574185,
+      "lat2": 33.477472
+    },
+    {
+      "station_cd1": 1191204,
+      "station_cd2": 1191205,
+      "station_name1": "筑前山家",
+      "station_name2": "原田",
+      "lon1": 130.574185,
+      "lat1": 33.477472,
+      "lon2": 130.539376,
+      "lat2": 33.451769
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9971001,
+      "station_cd2": 9971002,
+      "station_name1": "広島駅",
+      "station_name2": "猿猴橋町",
+      "lon1": 132.475403,
+      "lat1": 34.396296,
+      "lon2": 132.475977,
+      "lat2": 34.395047
+    },
+    {
+      "station_cd1": 9971002,
+      "station_cd2": 9971003,
+      "station_name1": "猿猴橋町",
+      "station_name2": "的場町",
+      "lon1": 132.475977,
+      "lat1": 34.395047,
+      "lon2": 132.475076,
+      "lat2": 34.393277
+    },
+    {
+      "station_cd1": 9971003,
+      "station_cd2": 9971004,
+      "station_name1": "的場町",
+      "station_name2": "稲荷町",
+      "lon1": 132.475076,
+      "lat1": 34.393277,
+      "lon2": 132.471728,
+      "lat2": 34.392569
+    },
+    {
+      "station_cd1": 9971004,
+      "station_cd2": 9971005,
+      "station_name1": "稲荷町",
+      "station_name2": "銀山町",
+      "lon1": 132.471728,
+      "lat1": 34.392569,
+      "lon2": 132.467866,
+      "lat2": 34.393135
+    },
+    {
+      "station_cd1": 9971005,
+      "station_cd2": 9971006,
+      "station_name1": "銀山町",
+      "station_name2": "胡町",
+      "lon1": 132.467866,
+      "lat1": 34.393135,
+      "lon2": 132.465076,
+      "lat2": 34.393401
+    },
+    {
+      "station_cd1": 9971006,
+      "station_cd2": 9971007,
+      "station_name1": "胡町",
+      "station_name2": "八丁堀",
+      "lon1": 132.465076,
+      "lat1": 34.393401,
+      "lon2": 132.463403,
+      "lat2": 34.393897
+    },
+    {
+      "station_cd1": 9971007,
+      "station_cd2": 9971008,
+      "station_name1": "八丁堀",
+      "station_name2": "立町",
+      "lon1": 132.463403,
+      "lat1": 34.393897,
+      "lon2": 132.460871,
+      "lat2": 34.394569
+    },
+    {
+      "station_cd1": 9971008,
+      "station_cd2": 9971009,
+      "station_name1": "立町",
+      "station_name2": "紙屋町東",
+      "lon1": 132.460871,
+      "lat1": 34.394569,
+      "lon2": 132.458167,
+      "lat2": 34.395101
+    },
+    {
+      "station_cd1": 9971009,
+      "station_cd2": 9971010,
+      "station_name1": "紙屋町東",
+      "station_name2": "本通",
+      "lon1": 132.458167,
+      "lat1": 34.395101,
+      "lon2": 132.457003,
+      "lat2": 34.393377
+    },
+    {
+      "station_cd1": 9971010,
+      "station_cd2": 9971011,
+      "station_name1": "本通",
+      "station_name2": "袋町",
+      "lon1": 132.457003,
+      "lat1": 34.393377,
+      "lon2": 132.456214,
+      "lat2": 34.391187
+    },
+    {
+      "station_cd1": 9971011,
+      "station_cd2": 9971012,
+      "station_name1": "袋町",
+      "station_name2": "中電前",
+      "lon1": 132.456214,
+      "lat1": 34.391187,
+      "lon2": 132.455399,
+      "lat2": 34.388779
+    },
+    {
+      "station_cd1": 9971012,
+      "station_cd2": 9971013,
+      "station_name1": "中電前",
+      "station_name2": "市役所前",
+      "lon1": 132.455399,
+      "lat1": 34.388779,
+      "lon2": 132.454455,
+      "lat2": 34.385875
+    },
+    {
+      "station_cd1": 9971013,
+      "station_cd2": 9971014,
+      "station_name1": "市役所前",
+      "station_name2": "鷹野橋",
+      "lon1": 132.454455,
+      "lat1": 34.385875,
+      "lon2": 132.453918,
+      "lat2": 34.383431
+    },
+    {
+      "station_cd1": 9971014,
+      "station_cd2": 9971015,
+      "station_name1": "鷹野橋",
+      "station_name2": "日赤病院前",
+      "lon1": 132.453918,
+      "lat1": 34.383431,
+      "lon2": 132.455871,
+      "lat2": 34.380952
+    },
+    {
+      "station_cd1": 9971015,
+      "station_cd2": 9971016,
+      "station_name1": "日赤病院前",
+      "station_name2": "広電本社前",
+      "lon1": 132.455871,
+      "lat1": 34.380952,
+      "lon2": 132.45821,
+      "lat2": 34.377375
+    },
+    {
+      "station_cd1": 9971016,
+      "station_cd2": 9971017,
+      "station_name1": "広電本社前",
+      "station_name2": "御幸橋",
+      "lon1": 132.45821,
+      "lat1": 34.377375,
+      "lon2": 132.459605,
+      "lat2": 34.375321
+    },
+    {
+      "station_cd1": 9971017,
+      "station_cd2": 9971018,
+      "station_name1": "御幸橋",
+      "station_name2": "皆実町六丁目",
+      "lon1": 132.459605,
+      "lat1": 34.375321,
+      "lon2": 132.464454,
+      "lat2": 34.374169
+    },
+    {
+      "station_cd1": 9971018,
+      "station_cd2": 9971019,
+      "station_name1": "皆実町六丁目",
+      "station_name2": "広大附属学校前",
+      "lon1": 132.464454,
+      "lat1": 34.374169,
+      "lon2": 132.464583,
+      "lat2": 34.371654
+    },
+    {
+      "station_cd1": 9971019,
+      "station_cd2": 9971020,
+      "station_name1": "広大附属学校前",
+      "station_name2": "県病院前",
+      "lon1": 132.464583,
+      "lat1": 34.371654,
+      "lon2": 132.464797,
+      "lat2": 34.36875
+    },
+    {
+      "station_cd1": 9971020,
+      "station_cd2": 9971021,
+      "station_name1": "県病院前",
+      "station_name2": "宇品二丁目",
+      "lon1": 132.464797,
+      "lat1": 34.36875,
+      "lon2": 132.464519,
+      "lat2": 34.366164
+    },
+    {
+      "station_cd1": 9971021,
+      "station_cd2": 9971022,
+      "station_name1": "宇品二丁目",
+      "station_name2": "宇品三丁目",
+      "lon1": 132.464519,
+      "lat1": 34.366164,
+      "lon2": 132.464411,
+      "lat2": 34.364216
+    },
+    {
+      "station_cd1": 9971022,
+      "station_cd2": 9971023,
+      "station_name1": "宇品三丁目",
+      "station_name2": "宇品四丁目",
+      "lon1": 132.464411,
+      "lat1": 34.364216,
+      "lon2": 132.463853,
+      "lat2": 34.35922
+    },
+    {
+      "station_cd1": 9971023,
+      "station_cd2": 9971024,
+      "station_name1": "宇品四丁目",
+      "station_name2": "宇品五丁目",
+      "lon1": 132.463853,
+      "lat1": 34.35922,
+      "lon2": 132.46366,
+      "lat2": 34.357343
+    },
+    {
+      "station_cd1": 9971024,
+      "station_cd2": 9971025,
+      "station_name1": "宇品五丁目",
+      "station_name2": "海岸通",
+      "lon1": 132.46366,
+      "lat1": 34.357343,
+      "lon2": 132.463081,
+      "lat2": 34.354898
+    },
+    {
+      "station_cd1": 9971025,
+      "station_cd2": 9971026,
+      "station_name1": "海岸通",
+      "station_name2": "元宇品口",
+      "lon1": 132.463081,
+      "lat1": 34.354898,
+      "lon2": 132.459412,
+      "lat2": 34.354048
+    },
+    {
+      "station_cd1": 9971026,
+      "station_cd2": 9971027,
+      "station_name1": "元宇品口",
+      "station_name2": "広島港（宇品）",
+      "lon1": 132.459412,
+      "lat1": 34.354048,
+      "lon2": 132.455184,
+      "lat2": 34.352755
+    }
+  ]
+}

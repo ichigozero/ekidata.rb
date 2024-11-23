@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 24,
+      "line_cd": 11509,
+      "line_name": "JR関西本線(亀山～加茂)",
+      "station_cd": 1150904,
+      "station_name": "柘植"
+    },
+    {
+      "pref_cd": 24,
+      "line_cd": 11511,
+      "line_name": "JR草津線",
+      "station_cd": 1151101,
+      "station_name": "柘植"
+    }
+  ]
+}

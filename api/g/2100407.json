@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 11,
+      "line_cd": 21004,
+      "line_name": "東武野田線",
+      "station_cd": 2100407,
+      "station_name": "東岩槻"
+    }
+  ]
+}

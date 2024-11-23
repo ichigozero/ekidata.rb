@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 7,
+    "line_cd": 11230,
+    "line_name": "JR常磐線(いわき～仙台)",
+    "station_cd": 1123022,
+    "station_g_cd": 1123022,
+    "station_name": "新地",
+    "lon": 140.92546288419624,
+    "lat": 37.87916444983968
+  }
+}

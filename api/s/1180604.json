@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 37,
+    "line_cd": 11806,
+    "line_name": "JR予讃線",
+    "station_cd": 1180604,
+    "station_g_cd": 1180604,
+    "station_name": "端岡",
+    "lon": 133.968071,
+    "lat": 34.305021
+  }
+}

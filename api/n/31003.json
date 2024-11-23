@@ -1,0 +1,274 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3100301,
+      "station_cd2": 3100302,
+      "station_name1": "大阪阿部野橋",
+      "station_name2": "河堀口",
+      "lon1": 135.514529,
+      "lat1": 34.645643,
+      "lon2": 135.524237,
+      "lat2": 34.641166
+    },
+    {
+      "station_cd1": 3100302,
+      "station_cd2": 3100303,
+      "station_name1": "河堀口",
+      "station_name2": "北田辺",
+      "lon1": 135.524237,
+      "lat1": 34.641166,
+      "lon2": 135.528934,
+      "lat2": 34.632184
+    },
+    {
+      "station_cd1": 3100303,
+      "station_cd2": 3100304,
+      "station_name1": "北田辺",
+      "station_name2": "今川",
+      "lon1": 135.528934,
+      "lat1": 34.632184,
+      "lon2": 135.531148,
+      "lat2": 34.626226
+    },
+    {
+      "station_cd1": 3100304,
+      "station_cd2": 3100305,
+      "station_name1": "今川",
+      "station_name2": "針中野",
+      "lon1": 135.531148,
+      "lat1": 34.626226,
+      "lon2": 135.533078,
+      "lat2": 34.616969
+    },
+    {
+      "station_cd1": 3100305,
+      "station_cd2": 3100306,
+      "station_name1": "針中野",
+      "station_name2": "矢田",
+      "lon1": 135.533078,
+      "lat1": 34.616969,
+      "lon2": 135.532942,
+      "lat2": 34.605926
+    },
+    {
+      "station_cd1": 3100306,
+      "station_cd2": 3100307,
+      "station_name1": "矢田",
+      "station_name2": "河内天美",
+      "lon1": 135.532942,
+      "lat1": 34.605926,
+      "lon2": 135.535509,
+      "lat2": 34.585823
+    },
+    {
+      "station_cd1": 3100307,
+      "station_cd2": 3100308,
+      "station_name1": "河内天美",
+      "station_name2": "布忍",
+      "lon1": 135.535509,
+      "lat1": 34.585823,
+      "lon2": 135.539415,
+      "lat2": 34.577824
+    },
+    {
+      "station_cd1": 3100308,
+      "station_cd2": 3100309,
+      "station_name1": "布忍",
+      "station_name2": "高見ノ里",
+      "lon1": 135.539415,
+      "lat1": 34.577824,
+      "lon2": 135.546189,
+      "lat2": 34.575232
+    },
+    {
+      "station_cd1": 3100309,
+      "station_cd2": 3100310,
+      "station_name1": "高見ノ里",
+      "station_name2": "河内松原",
+      "lon1": 135.546189,
+      "lat1": 34.575232,
+      "lon2": 135.557097,
+      "lat2": 34.575563
+    },
+    {
+      "station_cd1": 3100310,
+      "station_cd2": 3100311,
+      "station_name1": "河内松原",
+      "station_name2": "恵我ノ荘",
+      "lon1": 135.557097,
+      "lat1": 34.575563,
+      "lon2": 135.572751,
+      "lat2": 34.573591
+    },
+    {
+      "station_cd1": 3100311,
+      "station_cd2": 3100312,
+      "station_name1": "恵我ノ荘",
+      "station_name2": "高鷲",
+      "lon1": 135.572751,
+      "lat1": 34.573591,
+      "lon2": 135.584503,
+      "lat2": 34.571602
+    },
+    {
+      "station_cd1": 3100312,
+      "station_cd2": 3100313,
+      "station_name1": "高鷲",
+      "station_name2": "藤井寺",
+      "lon1": 135.584503,
+      "lat1": 34.571602,
+      "lon2": 135.594046,
+      "lat2": 34.571669
+    },
+    {
+      "station_cd1": 3100313,
+      "station_cd2": 3100314,
+      "station_name1": "藤井寺",
+      "station_name2": "土師ノ里",
+      "lon1": 135.594046,
+      "lat1": 34.571669,
+      "lon2": 135.615622,
+      "lat2": 34.571603
+    },
+    {
+      "station_cd1": 3100314,
+      "station_cd2": 3100315,
+      "station_name1": "土師ノ里",
+      "station_name2": "道明寺",
+      "lon1": 135.615622,
+      "lat1": 34.571603,
+      "lon2": 135.620399,
+      "lat2": 34.56834
+    },
+    {
+      "station_cd1": 3100315,
+      "station_cd2": 3100316,
+      "station_name1": "道明寺",
+      "station_name2": "古市",
+      "lon1": 135.620399,
+      "lat1": 34.56834,
+      "lon2": 135.609092,
+      "lat2": 34.55416
+    },
+    {
+      "station_cd1": 3100316,
+      "station_cd2": 3100317,
+      "station_name1": "古市",
+      "station_name2": "駒ヶ谷",
+      "lon1": 135.609092,
+      "lat1": 34.55416,
+      "lon2": 135.621999,
+      "lat2": 34.545751
+    },
+    {
+      "station_cd1": 3100317,
+      "station_cd2": 3100318,
+      "station_name1": "駒ヶ谷",
+      "station_name2": "上ノ太子",
+      "lon1": 135.621999,
+      "lat1": 34.545751,
+      "lon2": 135.637634,
+      "lat2": 34.532974
+    },
+    {
+      "station_cd1": 3100318,
+      "station_cd2": 3100319,
+      "station_name1": "上ノ太子",
+      "station_name2": "二上山",
+      "lon1": 135.637634,
+      "lat1": 34.532974,
+      "lon2": 135.685974,
+      "lat2": 34.53907
+    },
+    {
+      "station_cd1": 3100319,
+      "station_cd2": 3100320,
+      "station_name1": "二上山",
+      "station_name2": "二上神社口",
+      "lon1": 135.685974,
+      "lat1": 34.53907,
+      "lon2": 135.69414,
+      "lat2": 34.532104
+    },
+    {
+      "station_cd1": 3100320,
+      "station_cd2": 3100321,
+      "station_name1": "二上神社口",
+      "station_name2": "当麻寺",
+      "lon1": 135.69414,
+      "lat1": 34.532104,
+      "lon2": 135.705897,
+      "lat2": 34.516412
+    },
+    {
+      "station_cd1": 3100321,
+      "station_cd2": 3100322,
+      "station_name1": "当麻寺",
+      "station_name2": "磐城",
+      "lon1": 135.705897,
+      "lat1": 34.516412,
+      "lon2": 135.710869,
+      "lat2": 34.511302
+    },
+    {
+      "station_cd1": 3100322,
+      "station_cd2": 3100323,
+      "station_name1": "磐城",
+      "station_name2": "尺土",
+      "lon1": 135.710869,
+      "lat1": 34.511302,
+      "lon2": 135.721404,
+      "lat2": 34.508577
+    },
+    {
+      "station_cd1": 3100323,
+      "station_cd2": 3100324,
+      "station_name1": "尺土",
+      "station_name2": "高田市",
+      "lon1": 135.721404,
+      "lat1": 34.508577,
+      "lon2": 135.742119,
+      "lat2": 34.507145
+    },
+    {
+      "station_cd1": 3100324,
+      "station_cd2": 3100325,
+      "station_name1": "高田市",
+      "station_name2": "浮孔",
+      "lon1": 135.742119,
+      "lat1": 34.507145,
+      "lon2": 135.754749,
+      "lat2": 34.498077
+    },
+    {
+      "station_cd1": 3100325,
+      "station_cd2": 3100326,
+      "station_name1": "浮孔",
+      "station_name2": "坊城",
+      "lon1": 135.754749,
+      "lat1": 34.498077,
+      "lon2": 135.764876,
+      "lat2": 34.493577
+    },
+    {
+      "station_cd1": 3100326,
+      "station_cd2": 3100327,
+      "station_name1": "坊城",
+      "station_name2": "橿原神宮西口",
+      "lon1": 135.764876,
+      "lat1": 34.493577,
+      "lon2": 135.781372,
+      "lat2": 34.486187
+    },
+    {
+      "station_cd1": 3100327,
+      "station_cd2": 3100328,
+      "station_name1": "橿原神宮西口",
+      "station_name2": "橿原神宮前",
+      "lon1": 135.781372,
+      "lat1": 34.486187,
+      "lon2": 135.79434,
+      "lat2": 34.483987
+    }
+  ]
+}

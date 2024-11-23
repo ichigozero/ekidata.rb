@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 21,
+      "line_cd": 30021,
+      "line_name": "名鉄羽島線",
+      "station_cd": 3002102,
+      "station_name": "新羽島"
+    }
+  ]
+}

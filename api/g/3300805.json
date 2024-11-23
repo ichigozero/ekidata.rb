@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 27,
+      "line_cd": 33008,
+      "line_name": "京阪中之島線",
+      "station_cd": 3300805,
+      "station_name": "中之島"
+    }
+  ]
+}

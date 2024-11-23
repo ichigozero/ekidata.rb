@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 11917,
+    "line_name": "JR香椎線(香椎～宇美)",
+    "station_cd": 1191706,
+    "station_g_cd": 1190808,
+    "station_name": "長者原",
+    "lon": 130.477848,
+    "lat": 33.613567
+  }
+}

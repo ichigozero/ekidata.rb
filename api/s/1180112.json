@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 36,
+    "line_cd": 11801,
+    "line_name": "JR土讃線",
+    "station_cd": 1180112,
+    "station_g_cd": 1180112,
+    "station_name": "三縄",
+    "lon": 133.7874,
+    "lat": 34.006854
+  }
+}

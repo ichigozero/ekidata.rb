@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 24,
+    "line_cd": 11512,
+    "line_name": "JR参宮線",
+    "station_cd": 1151211,
+    "station_g_cd": 1151211,
+    "station_name": "鳥羽",
+    "lon": 136.84279,
+    "lat": 34.486516
+  }
+}

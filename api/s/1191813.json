@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 42,
+    "line_cd": 11918,
+    "line_name": "JR佐世保線",
+    "station_cd": 1191813,
+    "station_g_cd": 1191813,
+    "station_name": "日宇",
+    "lon": 129.758276,
+    "lat": 33.157418
+  }
+}

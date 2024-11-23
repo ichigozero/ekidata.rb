@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 31,
+    "line_cd": 99701,
+    "line_name": "若桜線",
+    "station_cd": 9970105,
+    "station_g_cd": 9970105,
+    "station_name": "安部",
+    "lon": 134.291682,
+    "lat": 35.374526
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11724,
+    "line_name": "JR岩徳線",
+    "station_cd": 1172405,
+    "station_g_cd": 1172405,
+    "station_name": "欽明路",
+    "lon": 132.101813,
+    "lat": 34.1044
+  }
+}

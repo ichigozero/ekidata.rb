@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 17,
+    "line_cd": 99416,
+    "line_name": "北陸鉄道石川線",
+    "station_cd": 9941603,
+    "station_g_cd": 1141542,
+    "station_name": "新西金沢",
+    "lon": 136.622688,
+    "lat": 36.553067
+  }
+}

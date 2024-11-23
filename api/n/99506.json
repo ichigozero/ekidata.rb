@@ -1,0 +1,174 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9950601,
+      "station_cd2": 9950602,
+      "station_name1": "新浜松",
+      "station_name2": "第一通り",
+      "lon1": 137.732456,
+      "lat1": 34.703402,
+      "lon2": 137.732845,
+      "lat2": 34.707477
+    },
+    {
+      "station_cd1": 9950602,
+      "station_cd2": 9950603,
+      "station_name1": "第一通り",
+      "station_name2": "遠州病院",
+      "lon1": 137.732845,
+      "lat1": 34.707477,
+      "lon2": 137.73327,
+      "lat2": 34.710657
+    },
+    {
+      "station_cd1": 9950603,
+      "station_cd2": 9950604,
+      "station_name1": "遠州病院",
+      "station_name2": "八幡",
+      "lon1": 137.73327,
+      "lat1": 34.710657,
+      "lon2": 137.73598,
+      "lat2": 34.717012
+    },
+    {
+      "station_cd1": 9950604,
+      "station_cd2": 9950605,
+      "station_name1": "八幡",
+      "station_name2": "助信",
+      "lon1": 137.73598,
+      "lat1": 34.717012,
+      "lon2": 137.738697,
+      "lat2": 34.724303
+    },
+    {
+      "station_cd1": 9950605,
+      "station_cd2": 9950606,
+      "station_name1": "助信",
+      "station_name2": "曳馬",
+      "lon1": 137.738697,
+      "lat1": 34.724303,
+      "lon2": 137.7416039,
+      "lat2": 34.7331485
+    },
+    {
+      "station_cd1": 9950606,
+      "station_cd2": 9950607,
+      "station_name1": "曳馬",
+      "station_name2": "上島",
+      "lon1": 137.7416039,
+      "lat1": 34.7331485,
+      "lon2": 137.745462,
+      "lat2": 34.741568
+    },
+    {
+      "station_cd1": 9950607,
+      "station_cd2": 9950608,
+      "station_name1": "上島",
+      "station_name2": "自動車学校前",
+      "lon1": 137.745462,
+      "lat1": 34.741568,
+      "lon2": 137.751625,
+      "lat2": 34.747489
+    },
+    {
+      "station_cd1": 9950608,
+      "station_cd2": 9950609,
+      "station_name1": "自動車学校前",
+      "station_name2": "さぎの宮",
+      "lon1": 137.751625,
+      "lat1": 34.747489,
+      "lon2": 137.757327,
+      "lat2": 34.757275
+    },
+    {
+      "station_cd1": 9950609,
+      "station_cd2": 9950610,
+      "station_name1": "さぎの宮",
+      "station_name2": "積志",
+      "lon1": 137.757327,
+      "lat1": 34.757275,
+      "lon2": 137.763409,
+      "lat2": 34.768082
+    },
+    {
+      "station_cd1": 9950610,
+      "station_cd2": 9950611,
+      "station_name1": "積志",
+      "station_name2": "遠州西ヶ崎",
+      "lon1": 137.763409,
+      "lat1": 34.768082,
+      "lon2": 137.773905,
+      "lat2": 34.776821
+    },
+    {
+      "station_cd1": 9950611,
+      "station_cd2": 9950612,
+      "station_name1": "遠州西ヶ崎",
+      "station_name2": "遠州小松",
+      "lon1": 137.773905,
+      "lat1": 34.776821,
+      "lon2": 137.777838,
+      "lat2": 34.784264
+    },
+    {
+      "station_cd1": 9950612,
+      "station_cd2": 9950613,
+      "station_name1": "遠州小松",
+      "station_name2": "浜北",
+      "lon1": 137.777838,
+      "lat1": 34.784264,
+      "lon2": 137.784356,
+      "lat2": 34.791358
+    },
+    {
+      "station_cd1": 9950613,
+      "station_cd2": 9950614,
+      "station_name1": "浜北",
+      "station_name2": "美薗中央公園",
+      "lon1": 137.784356,
+      "lat1": 34.791358,
+      "lon2": 137.789764,
+      "lat2": 34.798208
+    },
+    {
+      "station_cd1": 9950614,
+      "station_cd2": 9950615,
+      "station_name1": "美薗中央公園",
+      "station_name2": "遠州小林",
+      "lon1": 137.789764,
+      "lat1": 34.798208,
+      "lon2": 137.795538,
+      "lat2": 34.808374
+    },
+    {
+      "station_cd1": 9950615,
+      "station_cd2": 9950616,
+      "station_name1": "遠州小林",
+      "station_name2": "遠州芝本",
+      "lon1": 137.795538,
+      "lat1": 34.808374,
+      "lon2": 137.798718,
+      "lat2": 34.824024
+    },
+    {
+      "station_cd1": 9950616,
+      "station_cd2": 9950617,
+      "station_name1": "遠州芝本",
+      "station_name2": "遠州岩水寺",
+      "lon1": 137.798718,
+      "lat1": 34.824024,
+      "lon2": 137.801131,
+      "lat2": 34.834373
+    },
+    {
+      "station_cd1": 9950617,
+      "station_cd2": 9950618,
+      "station_name1": "遠州岩水寺",
+      "station_name2": "西鹿島",
+      "lon1": 137.801131,
+      "lat1": 34.834373,
+      "lon2": 137.807988,
+      "lat2": 34.846758
+    }
+  ]
+}

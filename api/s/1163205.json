@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11632,
+    "line_name": "JR加古川線",
+    "station_cd": 1163205,
+    "station_g_cd": 1163205,
+    "station_name": "市場",
+    "lon": 134.932494,
+    "lat": 34.819352
+  }
+}

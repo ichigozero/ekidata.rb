@@ -1,0 +1,184 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1132101,
+      "station_cd2": 1132102,
+      "station_name1": "大崎",
+      "station_name2": "恵比寿",
+      "lon1": 139.728439,
+      "lat1": 35.619772,
+      "lon2": 139.71007,
+      "lat2": 35.646685
+    },
+    {
+      "station_cd1": 1132102,
+      "station_cd2": 1132103,
+      "station_name1": "恵比寿",
+      "station_name2": "渋谷",
+      "lon1": 139.71007,
+      "lat1": 35.646685,
+      "lon2": 139.701238,
+      "lat2": 35.658871
+    },
+    {
+      "station_cd1": 1132103,
+      "station_cd2": 1132104,
+      "station_name1": "渋谷",
+      "station_name2": "新宿",
+      "lon1": 139.701238,
+      "lat1": 35.658871,
+      "lon2": 139.700464,
+      "lat2": 35.689729
+    },
+    {
+      "station_cd1": 1132104,
+      "station_cd2": 1132105,
+      "station_name1": "新宿",
+      "station_name2": "池袋",
+      "lon1": 139.700464,
+      "lat1": 35.689729,
+      "lon2": 139.711086,
+      "lat2": 35.730256
+    },
+    {
+      "station_cd1": 1132105,
+      "station_cd2": 1132106,
+      "station_name1": "池袋",
+      "station_name2": "板橋",
+      "lon1": 139.711086,
+      "lat1": 35.730256,
+      "lon2": 139.719507,
+      "lat2": 35.745435
+    },
+    {
+      "station_cd1": 1132106,
+      "station_cd2": 1132107,
+      "station_name1": "板橋",
+      "station_name2": "十条",
+      "lon1": 139.719507,
+      "lat1": 35.745435,
+      "lon2": 139.722233,
+      "lat2": 35.760321
+    },
+    {
+      "station_cd1": 1132107,
+      "station_cd2": 1132108,
+      "station_name1": "十条",
+      "station_name2": "赤羽",
+      "lon1": 139.722233,
+      "lat1": 35.760321,
+      "lon2": 139.720928,
+      "lat2": 35.778026
+    },
+    {
+      "station_cd1": 1132108,
+      "station_cd2": 1132109,
+      "station_name1": "赤羽",
+      "station_name2": "北赤羽",
+      "lon1": 139.720928,
+      "lat1": 35.778026,
+      "lon2": 139.70569,
+      "lat2": 35.787007
+    },
+    {
+      "station_cd1": 1132109,
+      "station_cd2": 1132110,
+      "station_name1": "北赤羽",
+      "station_name2": "浮間舟渡",
+      "lon1": 139.70569,
+      "lat1": 35.787007,
+      "lon2": 139.691341,
+      "lat2": 35.791209
+    },
+    {
+      "station_cd1": 1132110,
+      "station_cd2": 1132111,
+      "station_name1": "浮間舟渡",
+      "station_name2": "戸田公園",
+      "lon1": 139.691341,
+      "lat1": 35.791209,
+      "lon2": 139.678203,
+      "lat2": 35.807906
+    },
+    {
+      "station_cd1": 1132111,
+      "station_cd2": 1132112,
+      "station_name1": "戸田公園",
+      "station_name2": "戸田",
+      "lon1": 139.678203,
+      "lat1": 35.807906,
+      "lon2": 139.669548,
+      "lat2": 35.817665
+    },
+    {
+      "station_cd1": 1132112,
+      "station_cd2": 1132113,
+      "station_name1": "戸田",
+      "station_name2": "北戸田",
+      "lon1": 139.669548,
+      "lat1": 35.817665,
+      "lon2": 139.661201,
+      "lat2": 35.826883
+    },
+    {
+      "station_cd1": 1132113,
+      "station_cd2": 1132114,
+      "station_name1": "北戸田",
+      "station_name2": "武蔵浦和",
+      "lon1": 139.661201,
+      "lat1": 35.826883,
+      "lon2": 139.646809,
+      "lat2": 35.845422
+    },
+    {
+      "station_cd1": 1132114,
+      "station_cd2": 1132115,
+      "station_name1": "武蔵浦和",
+      "station_name2": "中浦和",
+      "lon1": 139.646809,
+      "lat1": 35.845422,
+      "lon2": 139.6375,
+      "lat2": 35.853769
+    },
+    {
+      "station_cd1": 1132115,
+      "station_cd2": 1132116,
+      "station_name1": "中浦和",
+      "station_name2": "南与野",
+      "lon1": 139.6375,
+      "lat1": 35.853769,
+      "lon2": 139.631117,
+      "lat2": 35.867456
+    },
+    {
+      "station_cd1": 1132116,
+      "station_cd2": 1132117,
+      "station_name1": "南与野",
+      "station_name2": "与野本町",
+      "lon1": 139.631117,
+      "lat1": 35.867456,
+      "lon2": 139.626075,
+      "lat2": 35.880968
+    },
+    {
+      "station_cd1": 1132117,
+      "station_cd2": 1132118,
+      "station_name1": "与野本町",
+      "station_name2": "北与野",
+      "lon1": 139.626075,
+      "lat1": 35.880968,
+      "lon2": 139.628521,
+      "lat2": 35.890678
+    },
+    {
+      "station_cd1": 1132118,
+      "station_cd2": 1132119,
+      "station_name1": "北与野",
+      "station_name2": "大宮",
+      "lon1": 139.628521,
+      "lat1": 35.890678,
+      "lon2": 139.62405,
+      "lat2": 35.906439
+    }
+  ]
+}

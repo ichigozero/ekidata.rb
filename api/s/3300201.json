@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 33002,
+    "line_name": "京阪宇治線",
+    "station_cd": 3300201,
+    "station_g_cd": 3300113,
+    "station_name": "中書島",
+    "lon": 135.760174,
+    "lat": 34.926875
+  }
+}

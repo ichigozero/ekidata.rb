@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 15,
+    "line_cd": 99424,
+    "line_name": "妙高はねうまライン",
+    "station_cd": 1140321,
+    "station_g_cd": 1140321,
+    "station_name": "直江津",
+    "lon": 138.242265,
+    "lat": 37.170251
+  }
+}

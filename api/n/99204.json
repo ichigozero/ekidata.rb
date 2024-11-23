@@ -1,0 +1,104 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9920401,
+      "station_cd2": 9920402,
+      "station_name1": "三沢",
+      "station_name2": "大曲",
+      "lon1": 141.353638,
+      "lat1": 40.668498,
+      "lon2": 141.343038,
+      "lat2": 40.648069
+    },
+    {
+      "station_cd1": 9920402,
+      "station_cd2": 9920403,
+      "station_name1": "大曲",
+      "station_name2": "柳沢",
+      "lon1": 141.343038,
+      "lat1": 40.648069,
+      "lon2": 141.320889,
+      "lat2": 40.642973
+    },
+    {
+      "station_cd1": 9920403,
+      "station_cd2": 9920404,
+      "station_name1": "柳沢",
+      "station_name2": "七百",
+      "lon1": 141.320889,
+      "lat1": 40.642973,
+      "lon2": 141.305855,
+      "lat2": 40.643631
+    },
+    {
+      "station_cd1": 9920404,
+      "station_cd2": 9920405,
+      "station_name1": "七百",
+      "station_name2": "古里",
+      "lon1": 141.305855,
+      "lat1": 40.643631,
+      "lon2": 141.28486,
+      "lat2": 40.63877
+    },
+    {
+      "station_cd1": 9920405,
+      "station_cd2": 9920406,
+      "station_name1": "古里",
+      "station_name2": "三農校前",
+      "lon1": 141.28486,
+      "lat1": 40.63877,
+      "lon2": 141.267245,
+      "lat2": 40.636861
+    },
+    {
+      "station_cd1": 9920406,
+      "station_cd2": 9920407,
+      "station_name1": "三農校前",
+      "station_name2": "高清水",
+      "lon1": 141.267245,
+      "lat1": 40.636861,
+      "lon2": 141.259046,
+      "lat2": 40.635
+    },
+    {
+      "station_cd1": 9920407,
+      "station_cd2": 9920408,
+      "station_name1": "高清水",
+      "station_name2": "北里大学前",
+      "lon1": 141.259046,
+      "lat1": 40.635,
+      "lon2": 141.236837,
+      "lat2": 40.628666
+    },
+    {
+      "station_cd1": 9920408,
+      "station_cd2": 9920409,
+      "station_name1": "北里大学前",
+      "station_name2": "工業高校前",
+      "lon1": 141.236837,
+      "lat1": 40.628666,
+      "lon2": 141.22926,
+      "lat2": 40.627338
+    },
+    {
+      "station_cd1": 9920409,
+      "station_cd2": 9920410,
+      "station_name1": "工業高校前",
+      "station_name2": "ひがし野団地",
+      "lon1": 141.22926,
+      "lat1": 40.627338,
+      "lon2": 141.223714,
+      "lat2": 40.626624
+    },
+    {
+      "station_cd1": 9920410,
+      "station_cd2": 9920411,
+      "station_name1": "ひがし野団地",
+      "station_name2": "十和田市",
+      "lon1": 141.223714,
+      "lat1": 40.626624,
+      "lon2": 141.214062,
+      "lat2": 40.623747
+    }
+  ]
+}

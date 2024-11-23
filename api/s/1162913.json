@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11629,
+    "line_name": "JR宝塚線",
+    "station_cd": 1162913,
+    "station_g_cd": 1162913,
+    "station_name": "武田尾",
+    "lon": 135.305838,
+    "lat": 34.855316
+  }
+}

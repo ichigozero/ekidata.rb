@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11230,
+    "line_name": "JR常磐線(いわき～仙台)",
+    "station_cd": 1123023,
+    "station_g_cd": 1123023,
+    "station_name": "坂元",
+    "lon": 140.90091678185954,
+    "lat": 37.92436999320409
+  }
+}

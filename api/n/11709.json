@@ -1,0 +1,144 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1170901,
+      "station_cd2": 1170902,
+      "station_name1": "岡山",
+      "station_name2": "大元",
+      "lon1": 133.918552,
+      "lat1": 34.666572,
+      "lon2": 133.910795,
+      "lat2": 34.647571
+    },
+    {
+      "station_cd1": 1170902,
+      "station_cd2": 1170903,
+      "station_name1": "大元",
+      "station_name2": "備前西市",
+      "lon1": 133.910795,
+      "lat1": 34.647571,
+      "lon2": 133.899852,
+      "lat2": 34.631448
+    },
+    {
+      "station_cd1": 1170903,
+      "station_cd2": 1170904,
+      "station_name1": "備前西市",
+      "station_name2": "妹尾",
+      "lon1": 133.899852,
+      "lat1": 34.631448,
+      "lon2": 133.871246,
+      "lat2": 34.608269
+    },
+    {
+      "station_cd1": 1170904,
+      "station_cd2": 1170905,
+      "station_name1": "妹尾",
+      "station_name2": "備中箕島",
+      "lon1": 133.871246,
+      "lat1": 34.608269,
+      "lon2": 133.850889,
+      "lat2": 34.605697
+    },
+    {
+      "station_cd1": 1170905,
+      "station_cd2": 1170906,
+      "station_name1": "備中箕島",
+      "station_name2": "早島",
+      "lon1": 133.850889,
+      "lat1": 34.605697,
+      "lon2": 133.833306,
+      "lat2": 34.602158
+    },
+    {
+      "station_cd1": 1170906,
+      "station_cd2": 1170907,
+      "station_name1": "早島",
+      "station_name2": "久々原",
+      "lon1": 133.833306,
+      "lat1": 34.602158,
+      "lon2": 133.82796,
+      "lat2": 34.592158
+    },
+    {
+      "station_cd1": 1170907,
+      "station_cd2": 1170908,
+      "station_name1": "久々原",
+      "station_name2": "茶屋町",
+      "lon1": 133.82796,
+      "lat1": 34.592158,
+      "lon2": 133.825906,
+      "lat2": 34.57694
+    },
+    {
+      "station_cd1": 1170908,
+      "station_cd2": 1170909,
+      "station_name1": "茶屋町",
+      "station_name2": "彦崎",
+      "lon1": 133.825906,
+      "lat1": 34.57694,
+      "lon2": 133.835045,
+      "lat2": 34.552035
+    },
+    {
+      "station_cd1": 1170909,
+      "station_cd2": 1170910,
+      "station_name1": "彦崎",
+      "station_name2": "備前片岡",
+      "lon1": 133.835045,
+      "lat1": 34.552035,
+      "lon2": 133.861837,
+      "lat2": 34.54381
+    },
+    {
+      "station_cd1": 1170910,
+      "station_cd2": 1170911,
+      "station_name1": "備前片岡",
+      "station_name2": "迫川",
+      "lon1": 133.861837,
+      "lat1": 34.54381,
+      "lon2": 133.879394,
+      "lat2": 34.536484
+    },
+    {
+      "station_cd1": 1170911,
+      "station_cd2": 1170912,
+      "station_name1": "迫川",
+      "station_name2": "常山",
+      "lon1": 133.879394,
+      "lat1": 34.536484,
+      "lon2": 133.893096,
+      "lat2": 34.531374
+    },
+    {
+      "station_cd1": 1170912,
+      "station_cd2": 1170913,
+      "station_name1": "常山",
+      "station_name2": "八浜",
+      "lon1": 133.893096,
+      "lat1": 34.531374,
+      "lon2": 133.919504,
+      "lat2": 34.532039
+    },
+    {
+      "station_cd1": 1170913,
+      "station_cd2": 1170914,
+      "station_name1": "八浜",
+      "station_name2": "備前田井",
+      "lon1": 133.919504,
+      "lat1": 34.532039,
+      "lon2": 133.943117,
+      "lat2": 34.516027
+    },
+    {
+      "station_cd1": 1170914,
+      "station_cd2": 1170915,
+      "station_name1": "備前田井",
+      "station_name2": "宇野",
+      "lon1": 133.943117,
+      "lat1": 34.516027,
+      "lon2": 133.953706,
+      "lat2": 34.495035
+    }
+  ]
+}

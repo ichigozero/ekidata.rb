@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 31,
+      "line_cd": 11704,
+      "line_name": "JR因美線",
+      "station_cd": 1170410,
+      "station_name": "智頭"
+    },
+    {
+      "pref_cd": 31,
+      "line_cd": 99644,
+      "line_name": "智頭急行智頭線",
+      "station_cd": 9964414,
+      "station_name": "智頭"
+    }
+  ]
+}

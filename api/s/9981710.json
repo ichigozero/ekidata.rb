@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 39,
+    "line_cd": 99817,
+    "line_name": "ごめん線",
+    "station_cd": 9981710,
+    "station_g_cd": 9981710,
+    "station_name": "明見橋",
+    "lon": 133.617589,
+    "lat": 33.574582
+  }
+}

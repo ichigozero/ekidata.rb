@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 8,
+    "line_cd": 99315,
+    "line_name": "ひたちなか海浜鉄道湊線",
+    "station_cd": 9931511,
+    "station_g_cd": 9931511,
+    "station_name": "美乃浜学園",
+    "lon": 140.616944,
+    "lat": 36.372611
+  }
+}

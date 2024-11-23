@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 99623,
+    "line_name": "大阪メトロ堺筋線",
+    "station_cd": 9962309,
+    "station_g_cd": 1160720,
+    "station_name": "動物園前",
+    "lon": 135.504413,
+    "lat": 34.648815
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1170701,
+      "station_cd2": 1170702,
+      "station_name1": "江津",
+      "station_name2": "江津本町",
+      "lon1": 132.223133,
+      "lat1": 35.012801,
+      "lon2": 132.230266,
+      "lat2": 35.007212
+    },
+    {
+      "station_cd1": 1170702,
+      "station_cd2": 1170703,
+      "station_name1": "江津本町",
+      "station_name2": "千金",
+      "lon1": 132.230266,
+      "lat1": 35.007212,
+      "lon2": 132.249822,
+      "lat2": 35.001635
+    },
+    {
+      "station_cd1": 1170703,
+      "station_cd2": 1170704,
+      "station_name1": "千金",
+      "station_name2": "川平",
+      "lon1": 132.249822,
+      "lat1": 35.001635,
+      "lon2": 132.284411,
+      "lat2": 34.996969
+    },
+    {
+      "station_cd1": 1170704,
+      "station_cd2": 1170705,
+      "station_name1": "川平",
+      "station_name2": "川戸",
+      "lon1": 132.284411,
+      "lat1": 34.996969,
+      "lon2": 132.333583,
+      "lat2": 34.959735
+    },
+    {
+      "station_cd1": 1170705,
+      "station_cd2": 1170706,
+      "station_name1": "川戸",
+      "station_name2": "田津",
+      "lon1": 132.333583,
+      "lat1": 34.959735,
+      "lon2": 132.384492,
+      "lat2": 34.951875
+    },
+    {
+      "station_cd1": 1170706,
+      "station_cd2": 1170707,
+      "station_name1": "田津",
+      "station_name2": "石見川越",
+      "lon1": 132.384492,
+      "lat1": 34.951875,
+      "lon2": 132.4154,
+      "lat2": 34.950276
+    },
+    {
+      "station_cd1": 1170707,
+      "station_cd2": 1170708,
+      "station_name1": "石見川越",
+      "station_name2": "鹿賀",
+      "lon1": 132.4154,
+      "lat1": 34.950276,
+      "lon2": 132.445753,
+      "lat2": 34.962967
+    },
+    {
+      "station_cd1": 1170708,
+      "station_cd2": 1170709,
+      "station_name1": "鹿賀",
+      "station_name2": "因原",
+      "lon1": 132.445753,
+      "lat1": 34.962967,
+      "lon2": 132.473262,
+      "lat2": 34.966514
+    },
+    {
+      "station_cd1": 1170709,
+      "station_cd2": 1170710,
+      "station_name1": "因原",
+      "station_name2": "石見川本",
+      "lon1": 132.473262,
+      "lat1": 34.966514,
+      "lon2": 132.492624,
+      "lat2": 34.99129
+    },
+    {
+      "station_cd1": 1170710,
+      "station_cd2": 1170711,
+      "station_name1": "石見川本",
+      "station_name2": "木路原",
+      "lon1": 132.492624,
+      "lat1": 34.99129,
+      "lon2": 132.508325,
+      "lat2": 34.997514
+    },
+    {
+      "station_cd1": 1170711,
+      "station_cd2": 1170712,
+      "station_name1": "木路原",
+      "station_name2": "竹",
+      "lon1": 132.508325,
+      "lat1": 34.997514,
+      "lon2": 132.529753,
+      "lat2": 35.012676
+    },
+    {
+      "station_cd1": 1170712,
+      "station_cd2": 1170713,
+      "station_name1": "竹",
+      "station_name2": "乙原",
+      "lon1": 132.529753,
+      "lat1": 35.012676,
+      "lon2": 132.547479,
+      "lat2": 35.026135
+    },
+    {
+      "station_cd1": 1170713,
+      "station_cd2": 1170714,
+      "station_name1": "乙原",
+      "station_name2": "石見簗瀬",
+      "lon1": 132.547479,
+      "lat1": 35.026135,
+      "lon2": 132.565521,
+      "lat2": 35.042339
+    },
+    {
+      "station_cd1": 1170714,
+      "station_cd2": 1170715,
+      "station_name1": "石見簗瀬",
+      "station_name2": "明塚",
+      "lon1": 132.565521,
+      "lat1": 35.042339,
+      "lon2": 132.583933,
+      "lat2": 35.048799
+    },
+    {
+      "station_cd1": 1170715,
+      "station_cd2": 1170716,
+      "station_name1": "明塚",
+      "station_name2": "粕淵",
+      "lon1": 132.583933,
+      "lat1": 35.048799,
+      "lon2": 132.592926,
+      "lat2": 35.072447
+    },
+    {
+      "station_cd1": 1170716,
+      "station_cd2": 1170717,
+      "station_name1": "粕淵",
+      "station_name2": "浜原",
+      "lon1": 132.592926,
+      "lat1": 35.072447,
+      "lon2": 132.599564,
+      "lat2": 35.060043
+    },
+    {
+      "station_cd1": 1170717,
+      "station_cd2": 1170718,
+      "station_name1": "浜原",
+      "station_name2": "沢谷",
+      "lon1": 132.599564,
+      "lat1": 35.060043,
+      "lon2": 132.634682,
+      "lat2": 35.057894
+    },
+    {
+      "station_cd1": 1170718,
+      "station_cd2": 1170719,
+      "station_name1": "沢谷",
+      "station_name2": "潮",
+      "lon1": 132.634682,
+      "lat1": 35.057894,
+      "lon2": 132.632425,
+      "lat2": 35.016034
+    },
+    {
+      "station_cd1": 1170719,
+      "station_cd2": 1170720,
+      "station_name1": "潮",
+      "station_name2": "石見松原",
+      "lon1": 132.632425,
+      "lat1": 35.016034,
+      "lon2": 132.615042,
+      "lat2": 34.992792
+    },
+    {
+      "station_cd1": 1170720,
+      "station_cd2": 1170721,
+      "station_name1": "石見松原",
+      "station_name2": "石見都賀",
+      "lon1": 132.615042,
+      "lat1": 34.992792,
+      "lon2": 132.642711,
+      "lat2": 34.956356
+    },
+    {
+      "station_cd1": 1170721,
+      "station_cd2": 1170722,
+      "station_name1": "石見都賀",
+      "station_name2": "宇都井",
+      "lon1": 132.642711,
+      "lat1": 34.956356,
+      "lon2": 132.629657,
+      "lat2": 34.906557
+    },
+    {
+      "station_cd1": 1170722,
+      "station_cd2": 1170723,
+      "station_name1": "宇都井",
+      "station_name2": "伊賀和志",
+      "lon1": 132.629657,
+      "lat1": 34.906557,
+      "lon2": 132.66094,
+      "lat2": 34.895039
+    },
+    {
+      "station_cd1": 1170723,
+      "station_cd2": 1170724,
+      "station_name1": "伊賀和志",
+      "station_name2": "口羽",
+      "lon1": 132.66094,
+      "lat1": 34.895039,
+      "lon2": 132.671234,
+      "lat2": 34.884442
+    },
+    {
+      "station_cd1": 1170724,
+      "station_cd2": 1170725,
+      "station_name1": "口羽",
+      "station_name2": "江平",
+      "lon1": 132.671234,
+      "lat1": 34.884442,
+      "lon2": 132.702219,
+      "lat2": 34.875252
+    },
+    {
+      "station_cd1": 1170725,
+      "station_cd2": 1170726,
+      "station_name1": "江平",
+      "station_name2": "作木口",
+      "lon1": 132.702219,
+      "lat1": 34.875252,
+      "lon2": 132.707061,
+      "lat2": 34.86017
+    },
+    {
+      "station_cd1": 1170726,
+      "station_cd2": 1170727,
+      "station_name1": "作木口",
+      "station_name2": "香淀",
+      "lon1": 132.707061,
+      "lat1": 34.86017,
+      "lon2": 132.71385,
+      "lat2": 34.827113
+    },
+    {
+      "station_cd1": 1170727,
+      "station_cd2": 1170728,
+      "station_name1": "香淀",
+      "station_name2": "式敷",
+      "lon1": 132.71385,
+      "lat1": 34.827113,
+      "lon2": 132.712598,
+      "lat2": 34.815809
+    },
+    {
+      "station_cd1": 1170728,
+      "station_cd2": 1170729,
+      "station_name1": "式敷",
+      "station_name2": "信木",
+      "lon1": 132.712598,
+      "lat1": 34.815809,
+      "lon2": 132.730502,
+      "lat2": 34.812983
+    },
+    {
+      "station_cd1": 1170729,
+      "station_cd2": 1170730,
+      "station_name1": "信木",
+      "station_name2": "所木",
+      "lon1": 132.730502,
+      "lat1": 34.812983,
+      "lon2": 132.75121,
+      "lat2": 34.809925
+    },
+    {
+      "station_cd1": 1170730,
+      "station_cd2": 1170731,
+      "station_name1": "所木",
+      "station_name2": "船佐",
+      "lon1": 132.75121,
+      "lat1": 34.809925,
+      "lon2": 132.766153,
+      "lat2": 34.808086
+    },
+    {
+      "station_cd1": 1170731,
+      "station_cd2": 1170732,
+      "station_name1": "船佐",
+      "station_name2": "長谷",
+      "lon1": 132.766153,
+      "lat1": 34.808086,
+      "lon2": 132.788146,
+      "lat2": 34.803142
+    },
+    {
+      "station_cd1": 1170732,
+      "station_cd2": 1170733,
+      "station_name1": "長谷",
+      "station_name2": "粟屋",
+      "lon1": 132.788146,
+      "lat1": 34.803142,
+      "lon2": 132.812892,
+      "lat2": 34.810197
+    },
+    {
+      "station_cd1": 1170733,
+      "station_cd2": 1170734,
+      "station_name1": "粟屋",
+      "station_name2": "尾関山",
+      "lon1": 132.812892,
+      "lat1": 34.810197,
+      "lon2": 132.8417,
+      "lat2": 34.812737
+    },
+    {
+      "station_cd1": 1170734,
+      "station_cd2": 1170735,
+      "station_name1": "尾関山",
+      "station_name2": "三次",
+      "lon1": 132.8417,
+      "lat1": 34.812737,
+      "lon2": 132.855976,
+      "lat2": 34.802646
+    }
+  ]
+}

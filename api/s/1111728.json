@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 11117,
+    "line_name": "JR釧網本線",
+    "station_cd": 1111728,
+    "station_g_cd": 1110731,
+    "station_name": "釧路",
+    "lon": 144.381983,
+    "lat": 42.990584
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 99326,
+    "line_name": "湘南モノレール",
+    "station_cd": 9932605,
+    "station_g_cd": 9932605,
+    "station_name": "西鎌倉",
+    "lon": 139.504365,
+    "lat": 35.319383
+  }
+}

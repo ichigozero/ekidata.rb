@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99311,
+    "line_name": "ゆりかもめ",
+    "station_cd": 9931109,
+    "station_g_cd": 9931109,
+    "station_name": "テレコムセンター",
+    "lon": 139.779327,
+    "lat": 35.617593
+  }
+}

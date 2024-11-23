@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11325,
+    "line_name": "JR内房線",
+    "station_cd": 1132530,
+    "station_g_cd": 1132530,
+    "station_name": "江見",
+    "lon": 140.061026,
+    "lat": 35.062513
+  }
+}

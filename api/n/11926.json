@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1192601,
+      "station_cd2": 1192602,
+      "station_name1": "吉松",
+      "station_name2": "栗野",
+      "lon1": 130.738104,
+      "lat1": 32.012026,
+      "lon2": 130.723663,
+      "lat2": 31.950575
+    },
+    {
+      "station_cd1": 1192602,
+      "station_cd2": 1192603,
+      "station_name1": "栗野",
+      "station_name2": "大隅横川",
+      "lon1": 130.723663,
+      "lat1": 31.950575,
+      "lon2": 130.702825,
+      "lat2": 31.906487
+    },
+    {
+      "station_cd1": 1192603,
+      "station_cd2": 1192604,
+      "station_name1": "大隅横川",
+      "station_name2": "植村",
+      "lon1": 130.702825,
+      "lat1": 31.906487,
+      "lon2": 130.724065,
+      "lat2": 31.890175
+    },
+    {
+      "station_cd1": 1192604,
+      "station_cd2": 1192605,
+      "station_name1": "植村",
+      "station_name2": "霧島温泉",
+      "lon1": 130.724065,
+      "lat1": 31.890175,
+      "lon2": 130.734329,
+      "lat2": 31.86815
+    },
+    {
+      "station_cd1": 1192605,
+      "station_cd2": 1192606,
+      "station_name1": "霧島温泉",
+      "station_name2": "嘉例川",
+      "lon1": 130.734329,
+      "lat1": 31.86815,
+      "lon2": 130.723021,
+      "lat2": 31.826939
+    },
+    {
+      "station_cd1": 1192606,
+      "station_cd2": 1192607,
+      "station_name1": "嘉例川",
+      "station_name2": "中福良",
+      "lon1": 130.723021,
+      "lat1": 31.826939,
+      "lon2": 130.733174,
+      "lat2": 31.813818
+    },
+    {
+      "station_cd1": 1192607,
+      "station_cd2": 1192608,
+      "station_name1": "中福良",
+      "station_name2": "表木山",
+      "lon1": 130.733174,
+      "lat1": 31.813818,
+      "lon2": 130.745324,
+      "lat2": 31.796176
+    },
+    {
+      "station_cd1": 1192608,
+      "station_cd2": 1192609,
+      "station_name1": "表木山",
+      "station_name2": "日当山",
+      "lon1": 130.745324,
+      "lat1": 31.796176,
+      "lon2": 130.749836,
+      "lat2": 31.763402
+    },
+    {
+      "station_cd1": 1192609,
+      "station_cd2": 1192610,
+      "station_name1": "日当山",
+      "station_name2": "隼人",
+      "lon1": 130.749836,
+      "lat1": 31.763402,
+      "lon2": 130.740316,
+      "lat2": 31.743893
+    }
+  ]
+}

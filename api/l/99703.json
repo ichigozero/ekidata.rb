@@ -1,0 +1,39 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9970301,
+      "station_g_cd": 9970205,
+      "station_name": "川跡",
+      "lon": 132.776411,
+      "lat": 35.395127
+    },
+    {
+      "station_cd": 9970302,
+      "station_g_cd": 9970302,
+      "station_name": "高浜",
+      "lon": 132.746684,
+      "lat": 35.390677
+    },
+    {
+      "station_cd": 9970303,
+      "station_g_cd": 9970303,
+      "station_name": "遙堪",
+      "lon": 132.725637,
+      "lat": 35.389312
+    },
+    {
+      "station_cd": 9970304,
+      "station_g_cd": 9970304,
+      "station_name": "浜山公園北口",
+      "lon": 132.70829,
+      "lat": 35.38926
+    },
+    {
+      "station_cd": 9970305,
+      "station_g_cd": 9970305,
+      "station_name": "出雲大社前",
+      "lon": 132.687531,
+      "lat": 35.393245
+    }
+  ]
+}

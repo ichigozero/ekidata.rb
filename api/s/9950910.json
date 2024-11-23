@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 99509,
+    "line_name": "あおなみ線",
+    "station_cd": 9950910,
+    "station_g_cd": 9950910,
+    "station_name": "野跡",
+    "lon": 136.854136,
+    "lat": 35.075253
+  }
+}

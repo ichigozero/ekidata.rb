@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 34002,
+    "line_name": "阪急宝塚本線",
+    "station_cd": 3400217,
+    "station_g_cd": 3400217,
+    "station_name": "売布神社",
+    "lon": 135.361339,
+    "lat": 34.815863
+  }
+}

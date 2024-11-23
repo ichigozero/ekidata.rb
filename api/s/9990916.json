@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99909,
+    "line_name": "筑豊電気鉄道線",
+    "station_cd": 9990916,
+    "station_g_cd": 9990916,
+    "station_name": "楠橋",
+    "lon": 130.724523,
+    "lat": 33.789259
+  }
+}

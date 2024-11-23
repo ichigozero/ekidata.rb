@@ -1,0 +1,334 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1140701,
+      "station_cd2": 1140702,
+      "station_name1": "長野",
+      "station_name2": "北長野",
+      "lon1": 138.189101,
+      "lat1": 36.643307,
+      "lon2": 138.222534,
+      "lat2": 36.665123
+    },
+    {
+      "station_cd1": 1140702,
+      "station_cd2": 1140703,
+      "station_name1": "北長野",
+      "station_name2": "三才",
+      "lon1": 138.222534,
+      "lat1": 36.665123,
+      "lon2": 138.244079,
+      "lat2": 36.686674
+    },
+    {
+      "station_cd1": 1140703,
+      "station_cd2": 1140704,
+      "station_name1": "三才",
+      "station_name2": "豊野",
+      "lon1": 138.244079,
+      "lat1": 36.686674,
+      "lon2": 138.274458,
+      "lat2": 36.710642
+    },
+    {
+      "station_cd1": 1140704,
+      "station_cd2": 1140705,
+      "station_name1": "豊野",
+      "station_name2": "信濃浅野",
+      "lon1": 138.274458,
+      "lat1": 36.710642,
+      "lon2": 138.294784,
+      "lat2": 36.722011
+    },
+    {
+      "station_cd1": 1140705,
+      "station_cd2": 1140706,
+      "station_name1": "信濃浅野",
+      "station_name2": "立ケ花",
+      "lon1": 138.294784,
+      "lat1": 36.722011,
+      "lon2": 138.307057,
+      "lat2": 36.731257
+    },
+    {
+      "station_cd1": 1140706,
+      "station_cd2": 1140707,
+      "station_name1": "立ケ花",
+      "station_name2": "上今井",
+      "lon1": 138.307057,
+      "lat1": 36.731257,
+      "lon2": 138.319478,
+      "lat2": 36.753947
+    },
+    {
+      "station_cd1": 1140707,
+      "station_cd2": 1140708,
+      "station_name1": "上今井",
+      "station_name2": "替佐",
+      "lon1": 138.319478,
+      "lat1": 36.753947,
+      "lon2": 138.323385,
+      "lat2": 36.768999
+    },
+    {
+      "station_cd1": 1140708,
+      "station_cd2": 1140709,
+      "station_name1": "替佐",
+      "station_name2": "蓮",
+      "lon1": 138.323385,
+      "lat1": 36.768999,
+      "lon2": 138.349026,
+      "lat2": 36.80888
+    },
+    {
+      "station_cd1": 1140709,
+      "station_cd2": 1140710,
+      "station_name1": "蓮",
+      "station_name2": "飯山",
+      "lon1": 138.349026,
+      "lat1": 36.80888,
+      "lon2": 138.359335,
+      "lat2": 36.847642
+    },
+    {
+      "station_cd1": 1140710,
+      "station_cd2": 1140711,
+      "station_name1": "飯山",
+      "station_name2": "北飯山",
+      "lon1": 138.359335,
+      "lat1": 36.847642,
+      "lon2": 138.363765,
+      "lat2": 36.85883
+    },
+    {
+      "station_cd1": 1140711,
+      "station_cd2": 1140712,
+      "station_name1": "北飯山",
+      "station_name2": "信濃平",
+      "lon1": 138.363765,
+      "lat1": 36.85883,
+      "lon2": 138.378479,
+      "lat2": 36.884918
+    },
+    {
+      "station_cd1": 1140712,
+      "station_cd2": 1140713,
+      "station_name1": "信濃平",
+      "station_name2": "戸狩野沢温泉",
+      "lon1": 138.378479,
+      "lat1": 36.884918,
+      "lon2": 138.392952,
+      "lat2": 36.916673
+    },
+    {
+      "station_cd1": 1140713,
+      "station_cd2": 1140714,
+      "station_name1": "戸狩野沢温泉",
+      "station_name2": "上境",
+      "lon1": 138.392952,
+      "lat1": 36.916673,
+      "lon2": 138.419151,
+      "lat2": 36.937916
+    },
+    {
+      "station_cd1": 1140714,
+      "station_cd2": 1140715,
+      "station_name1": "上境",
+      "station_name2": "上桑名川",
+      "lon1": 138.419151,
+      "lat1": 36.937916,
+      "lon2": 138.441204,
+      "lat2": 36.962559
+    },
+    {
+      "station_cd1": 1140715,
+      "station_cd2": 1140716,
+      "station_name1": "上桑名川",
+      "station_name2": "桑名川",
+      "lon1": 138.441204,
+      "lat1": 36.962559,
+      "lon2": 138.458007,
+      "lat2": 36.975882
+    },
+    {
+      "station_cd1": 1140716,
+      "station_cd2": 1140717,
+      "station_name1": "桑名川",
+      "station_name2": "西大滝",
+      "lon1": 138.458007,
+      "lat1": 36.975882,
+      "lon2": 138.480872,
+      "lat2": 36.979169
+    },
+    {
+      "station_cd1": 1140717,
+      "station_cd2": 1140718,
+      "station_name1": "西大滝",
+      "station_name2": "信濃白鳥",
+      "lon1": 138.480872,
+      "lat1": 36.979169,
+      "lon2": 138.50302,
+      "lat2": 36.983591
+    },
+    {
+      "station_cd1": 1140718,
+      "station_cd2": 1140719,
+      "station_name1": "信濃白鳥",
+      "station_name2": "平滝",
+      "lon1": 138.50302,
+      "lat1": 36.983591,
+      "lon2": 138.533723,
+      "lat2": 36.986041
+    },
+    {
+      "station_cd1": 1140719,
+      "station_cd2": 1140720,
+      "station_name1": "平滝",
+      "station_name2": "横倉",
+      "lon1": 138.533723,
+      "lat1": 36.986041,
+      "lon2": 138.55031,
+      "lat2": 36.979875
+    },
+    {
+      "station_cd1": 1140720,
+      "station_cd2": 1140721,
+      "station_name1": "横倉",
+      "station_name2": "森宮野原",
+      "lon1": 138.55031,
+      "lat1": 36.979875,
+      "lon2": 138.57733,
+      "lat2": 36.989447
+    },
+    {
+      "station_cd1": 1140721,
+      "station_cd2": 1140722,
+      "station_name1": "森宮野原",
+      "station_name2": "足滝",
+      "lon1": 138.57733,
+      "lat1": 36.989447,
+      "lon2": 138.603625,
+      "lat2": 36.998958
+    },
+    {
+      "station_cd1": 1140722,
+      "station_cd2": 1140723,
+      "station_name1": "足滝",
+      "station_name2": "越後田中",
+      "lon1": 138.603625,
+      "lat1": 36.998958,
+      "lon2": 138.627058,
+      "lat2": 37.005316
+    },
+    {
+      "station_cd1": 1140723,
+      "station_cd2": 1140724,
+      "station_name1": "越後田中",
+      "station_name2": "津南",
+      "lon1": 138.627058,
+      "lat1": 37.005316,
+      "lon2": 138.639326,
+      "lat2": 37.023503
+    },
+    {
+      "station_cd1": 1140724,
+      "station_cd2": 1140725,
+      "station_name1": "津南",
+      "station_name2": "越後鹿渡",
+      "lon1": 138.639326,
+      "lat1": 37.023503,
+      "lon2": 138.671592,
+      "lat2": 37.048054
+    },
+    {
+      "station_cd1": 1140725,
+      "station_cd2": 1140726,
+      "station_name1": "越後鹿渡",
+      "station_name2": "越後田沢",
+      "lon1": 138.671592,
+      "lat1": 37.048054,
+      "lon2": 138.694731,
+      "lat2": 37.055387
+    },
+    {
+      "station_cd1": 1140726,
+      "station_cd2": 1140727,
+      "station_name1": "越後田沢",
+      "station_name2": "越後水沢",
+      "lon1": 138.694731,
+      "lat1": 37.055387,
+      "lon2": 138.718056,
+      "lat2": 37.074324
+    },
+    {
+      "station_cd1": 1140727,
+      "station_cd2": 1140728,
+      "station_name1": "越後水沢",
+      "station_name2": "土市",
+      "lon1": 138.718056,
+      "lat1": 37.074324,
+      "lon2": 138.72951,
+      "lat2": 37.097457
+    },
+    {
+      "station_cd1": 1140728,
+      "station_cd2": 1140729,
+      "station_name1": "土市",
+      "station_name2": "十日町",
+      "lon1": 138.72951,
+      "lat1": 37.097457,
+      "lon2": 138.756188,
+      "lat2": 37.134562
+    },
+    {
+      "station_cd1": 1140729,
+      "station_cd2": 1140730,
+      "station_name1": "十日町",
+      "station_name2": "魚沼中条",
+      "lon1": 138.756188,
+      "lat1": 37.134562,
+      "lon2": 138.772491,
+      "lat2": 37.159467
+    },
+    {
+      "station_cd1": 1140730,
+      "station_cd2": 1140731,
+      "station_name1": "魚沼中条",
+      "station_name2": "下条",
+      "lon1": 138.772491,
+      "lat1": 37.159467,
+      "lon2": 138.779989,
+      "lat2": 37.198324
+    },
+    {
+      "station_cd1": 1140731,
+      "station_cd2": 1140732,
+      "station_name1": "下条",
+      "station_name2": "越後岩沢",
+      "lon1": 138.779989,
+      "lat1": 37.198324,
+      "lon2": 138.797097,
+      "lat2": 37.240753
+    },
+    {
+      "station_cd1": 1140732,
+      "station_cd2": 1140733,
+      "station_name1": "越後岩沢",
+      "station_name2": "内ケ巻",
+      "lon1": 138.797097,
+      "lat1": 37.240753,
+      "lon2": 138.851833,
+      "lat2": 37.250008
+    },
+    {
+      "station_cd1": 1140733,
+      "station_cd2": 1140734,
+      "station_name1": "内ケ巻",
+      "station_name2": "越後川口",
+      "lon1": 138.851833,
+      "lat1": 37.250008,
+      "lon2": 138.861514,
+      "lat2": 37.272983
+    }
+  ]
+}

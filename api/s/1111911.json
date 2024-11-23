@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 99108,
+    "line_name": "道南いさりび鉄道線",
+    "station_cd": 1111911,
+    "station_g_cd": 1111911,
+    "station_name": "札苅",
+    "lon": 140.468097,
+    "lat": 41.699271
+  }
+}

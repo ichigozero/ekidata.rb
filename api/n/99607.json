@@ -1,0 +1,94 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9960701,
+      "station_cd2": 9960702,
+      "station_name1": "宝ヶ池",
+      "station_name2": "八幡前",
+      "lon1": 135.792366,
+      "lat1": 35.058054,
+      "lon2": 135.79241,
+      "lat2": 35.066358
+    },
+    {
+      "station_cd1": 9960702,
+      "station_cd2": 9960703,
+      "station_name1": "八幡前",
+      "station_name2": "岩倉",
+      "lon1": 135.79241,
+      "lat1": 35.066358,
+      "lon2": 135.786616,
+      "lat2": 35.071208
+    },
+    {
+      "station_cd1": 9960703,
+      "station_cd2": 9960704,
+      "station_name1": "岩倉",
+      "station_name2": "木野",
+      "lon1": 135.786616,
+      "lat1": 35.071208,
+      "lon2": 135.776525,
+      "lat2": 35.071108
+    },
+    {
+      "station_cd1": 9960704,
+      "station_cd2": 9960705,
+      "station_name1": "木野",
+      "station_name2": "京都精華大前",
+      "lon1": 135.776525,
+      "lat1": 35.071108,
+      "lon2": 135.768909,
+      "lat2": 35.073069
+    },
+    {
+      "station_cd1": 9960705,
+      "station_cd2": 9960706,
+      "station_name1": "京都精華大前",
+      "station_name2": "二軒茶屋",
+      "lon1": 135.768909,
+      "lat1": 35.073069,
+      "lon2": 135.765876,
+      "lat2": 35.077743
+    },
+    {
+      "station_cd1": 9960706,
+      "station_cd2": 9960707,
+      "station_name1": "二軒茶屋",
+      "station_name2": "市原",
+      "lon1": 135.765876,
+      "lat1": 35.077743,
+      "lon2": 135.763118,
+      "lat2": 35.088236
+    },
+    {
+      "station_cd1": 9960707,
+      "station_cd2": 9960708,
+      "station_name1": "市原",
+      "station_name2": "二ノ瀬",
+      "lon1": 135.763118,
+      "lat1": 35.088236,
+      "lon2": 135.763065,
+      "lat2": 35.097657
+    },
+    {
+      "station_cd1": 9960708,
+      "station_cd2": 9960709,
+      "station_name1": "二ノ瀬",
+      "station_name2": "貴船口",
+      "lon1": 135.763065,
+      "lat1": 35.097657,
+      "lon2": 135.763804,
+      "lat2": 35.105923
+    },
+    {
+      "station_cd1": 9960709,
+      "station_cd2": 9960710,
+      "station_name1": "貴船口",
+      "station_name2": "鞍馬",
+      "lon1": 135.763804,
+      "lat1": 35.105923,
+      "lon2": 135.772453,
+      "lat2": 35.113
+    }
+  ]
+}

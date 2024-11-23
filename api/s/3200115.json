@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 32001,
+    "line_name": "南海本線",
+    "station_cd": 3200115,
+    "station_g_cd": 3200115,
+    "station_name": "高石",
+    "lon": 135.432723,
+    "lat": 34.521439
+  }
+}

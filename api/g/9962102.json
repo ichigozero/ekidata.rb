@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 27,
+      "line_cd": 99621,
+      "line_name": "大阪メトロ中央線",
+      "station_cd": 9962102,
+      "station_name": "大阪港"
+    }
+  ]
+}

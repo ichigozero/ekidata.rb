@@ -1,0 +1,154 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1171701,
+      "station_cd2": 1171716,
+      "station_name1": "広島",
+      "station_name2": "新白島",
+      "lon1": 132.475593,
+      "lat1": 34.397446,
+      "lon2": 132.461528,
+      "lat2": 34.408361
+    },
+    {
+      "station_cd1": 1171702,
+      "station_cd2": 1171703,
+      "station_name1": "横川",
+      "station_name2": "三滝",
+      "lon1": 132.45045,
+      "lat1": 34.410173,
+      "lon2": 132.447397,
+      "lat2": 34.417278
+    },
+    {
+      "station_cd1": 1171703,
+      "station_cd2": 1171704,
+      "station_name1": "三滝",
+      "station_name2": "安芸長束",
+      "lon1": 132.447397,
+      "lat1": 34.417278,
+      "lon2": 132.456063,
+      "lat2": 34.428382
+    },
+    {
+      "station_cd1": 1171704,
+      "station_cd2": 1171705,
+      "station_name1": "安芸長束",
+      "station_name2": "下祇園",
+      "lon1": 132.456063,
+      "lat1": 34.428382,
+      "lon2": 132.462328,
+      "lat2": 34.439354
+    },
+    {
+      "station_cd1": 1171705,
+      "station_cd2": 1171706,
+      "station_name1": "下祇園",
+      "station_name2": "古市橋",
+      "lon1": 132.462328,
+      "lat1": 34.439354,
+      "lon2": 132.468089,
+      "lat2": 34.450516
+    },
+    {
+      "station_cd1": 1171706,
+      "station_cd2": 1171707,
+      "station_name1": "古市橋",
+      "station_name2": "大町",
+      "lon1": 132.468089,
+      "lat1": 34.450516,
+      "lon2": 132.470655,
+      "lat2": 34.461136
+    },
+    {
+      "station_cd1": 1171707,
+      "station_cd2": 1171708,
+      "station_name1": "大町",
+      "station_name2": "緑井",
+      "lon1": 132.470655,
+      "lat1": 34.461136,
+      "lon2": 132.475851,
+      "lat2": 34.467459
+    },
+    {
+      "station_cd1": 1171708,
+      "station_cd2": 1171709,
+      "station_name1": "緑井",
+      "station_name2": "七軒茶屋",
+      "lon1": 132.475851,
+      "lat1": 34.467459,
+      "lon2": 132.481156,
+      "lat2": 34.472609
+    },
+    {
+      "station_cd1": 1171709,
+      "station_cd2": 1171710,
+      "station_name1": "七軒茶屋",
+      "station_name2": "梅林",
+      "lon1": 132.481156,
+      "lat1": 34.472609,
+      "lon2": 132.494166,
+      "lat2": 34.480877
+    },
+    {
+      "station_cd1": 1171710,
+      "station_cd2": 1171711,
+      "station_name1": "梅林",
+      "station_name2": "上八木",
+      "lon1": 132.494166,
+      "lat1": 34.480877,
+      "lon2": 132.506037,
+      "lat2": 34.489805
+    },
+    {
+      "station_cd1": 1171711,
+      "station_cd2": 1171712,
+      "station_name1": "上八木",
+      "station_name2": "中島",
+      "lon1": 132.506037,
+      "lat1": 34.489805,
+      "lon2": 132.513075,
+      "lat2": 34.500351
+    },
+    {
+      "station_cd1": 1171712,
+      "station_cd2": 1171713,
+      "station_name1": "中島",
+      "station_name2": "可部",
+      "lon1": 132.513075,
+      "lat1": 34.500351,
+      "lon2": 132.51073,
+      "lat2": 34.512066
+    },
+    {
+      "station_cd1": 1171713,
+      "station_cd2": 1171714,
+      "station_name1": "可部",
+      "station_name2": "河戸帆待川",
+      "lon1": 132.51073,
+      "lat1": 34.512066,
+      "lon2": 132.505003,
+      "lat2": 34.5167
+    },
+    {
+      "station_cd1": 1171714,
+      "station_cd2": 1171715,
+      "station_name1": "河戸帆待川",
+      "station_name2": "あき亀山",
+      "lon1": 132.505003,
+      "lat1": 34.5167,
+      "lon2": 132.4959,
+      "lat2": 34.517264
+    },
+    {
+      "station_cd1": 1171716,
+      "station_cd2": 1171702,
+      "station_name1": "新白島",
+      "station_name2": "横川",
+      "lon1": 132.461528,
+      "lat1": 34.408361,
+      "lon2": 132.45045,
+      "lat2": 34.410173
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 1,
+      "line_cd": 11103,
+      "line_name": "JR函館本線(小樽～旭川)",
+      "station_cd": 1110304,
+      "station_name": "朝里"
+    }
+  ]
+}

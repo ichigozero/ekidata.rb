@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 99321,
+    "line_name": "ニューシャトル",
+    "station_cd": 9932102,
+    "station_g_cd": 9932102,
+    "station_name": "鉄道博物館",
+    "lon": 139.617796,
+    "lat": 35.920271
+  }
+}

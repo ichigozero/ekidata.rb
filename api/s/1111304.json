@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 11113,
+    "line_name": "JR留萌本線",
+    "station_cd": 1111304,
+    "station_g_cd": 1111304,
+    "station_name": "北秩父別",
+    "lon": 141.960915,
+    "lat": 43.789375
+  }
+}

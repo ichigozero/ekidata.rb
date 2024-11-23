@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11633,
+    "line_name": "JR姫新線(姫路～佐用)",
+    "station_cd": 1163305,
+    "station_g_cd": 1163305,
+    "station_name": "本竜野",
+    "lon": 134.555611,
+    "lat": 34.861762
+  }
+}

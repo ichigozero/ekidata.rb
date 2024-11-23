@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 30001,
+    "line_name": "名鉄名古屋本線",
+    "station_cd": 3000152,
+    "station_g_cd": 3000152,
+    "station_name": "石刀",
+    "lon": 136.785407,
+    "lat": 35.326204
+  }
+}

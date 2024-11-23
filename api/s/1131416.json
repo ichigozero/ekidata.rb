@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11314,
+    "line_name": "JR総武本線",
+    "station_cd": 1131416,
+    "station_g_cd": 1131416,
+    "station_name": "南酒々井",
+    "lon": 140.267828,
+    "lat": 35.704217
+  }
+}

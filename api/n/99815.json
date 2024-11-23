@@ -1,0 +1,74 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9981501,
+      "station_cd2": 9981502,
+      "station_name1": "中村",
+      "station_name2": "具同",
+      "lon1": 132.943927,
+      "lat1": 32.984641,
+      "lon2": 132.915473,
+      "lat2": 32.9794
+    },
+    {
+      "station_cd1": 9981502,
+      "station_cd2": 9981503,
+      "station_name1": "具同",
+      "station_name2": "国見",
+      "lon1": 132.915473,
+      "lat1": 32.9794,
+      "lon2": 132.883716,
+      "lat2": 32.978932
+    },
+    {
+      "station_cd1": 9981503,
+      "station_cd2": 9981504,
+      "station_name1": "国見",
+      "station_name2": "有岡",
+      "lon1": 132.883716,
+      "lat1": 32.978932,
+      "lon2": 132.833077,
+      "lat2": 32.961229
+    },
+    {
+      "station_cd1": 9981504,
+      "station_cd2": 9981505,
+      "station_name1": "有岡",
+      "station_name2": "工業団地",
+      "lon1": 132.833077,
+      "lat1": 32.961229,
+      "lon2": 132.801931,
+      "lat2": 32.95632
+    },
+    {
+      "station_cd1": 9981505,
+      "station_cd2": 9981506,
+      "station_name1": "工業団地",
+      "station_name2": "平田",
+      "lon1": 132.801931,
+      "lat1": 32.95632,
+      "lon2": 132.794977,
+      "lat2": 32.955639
+    },
+    {
+      "station_cd1": 9981506,
+      "station_cd2": 9981507,
+      "station_name1": "平田",
+      "station_name2": "東宿毛",
+      "lon1": 132.794977,
+      "lat1": 32.955639,
+      "lon2": 132.728736,
+      "lat2": 32.933673
+    },
+    {
+      "station_cd1": 9981507,
+      "station_cd2": 9981508,
+      "station_name1": "東宿毛",
+      "station_name2": "宿毛",
+      "lon1": 132.728736,
+      "lat1": 32.933673,
+      "lon2": 132.71364,
+      "lat2": 32.932534
+    }
+  ]
+}

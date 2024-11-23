@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 7,
+    "line_cd": 11227,
+    "line_name": "JR只見線",
+    "station_cd": 1122722,
+    "station_g_cd": 1122722,
+    "station_name": "本名",
+    "lon": 139.49882,
+    "lat": 37.44476
+  }
+}

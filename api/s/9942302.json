@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 15,
+    "line_cd": 99423,
+    "line_name": "日本海ひすいライン",
+    "station_cd": 9942302,
+    "station_g_cd": 9942302,
+    "station_name": "えちご押上ひすい海岸",
+    "lon": 137.8784,
+    "lat": 37.0482
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1191501,
+      "station_cd2": 1191502,
+      "station_name1": "新飯塚",
+      "station_name2": "上三緒",
+      "lon1": 130.694278,
+      "lat1": 33.644261,
+      "lon2": 130.713824,
+      "lat2": 33.622254
+    },
+    {
+      "station_cd1": 1191502,
+      "station_cd2": 1191503,
+      "station_name1": "上三緒",
+      "station_name2": "下鴨生",
+      "lon1": 130.713824,
+      "lat1": 33.622254,
+      "lon2": 130.728209,
+      "lat2": 33.614811
+    },
+    {
+      "station_cd1": 1191503,
+      "station_cd2": 1191504,
+      "station_name1": "下鴨生",
+      "station_name2": "筑前庄内",
+      "lon1": 130.728209,
+      "lat1": 33.614811,
+      "lon2": 130.738475,
+      "lat2": 33.61635
+    },
+    {
+      "station_cd1": 1191504,
+      "station_cd2": 1191505,
+      "station_name1": "筑前庄内",
+      "station_name2": "船尾",
+      "lon1": 130.738475,
+      "lat1": 33.61635,
+      "lon2": 130.767387,
+      "lat2": 33.630221
+    },
+    {
+      "station_cd1": 1191505,
+      "station_cd2": 1191506,
+      "station_name1": "船尾",
+      "station_name2": "田川後藤寺",
+      "lon1": 130.767387,
+      "lat1": 33.630221,
+      "lon2": 130.800232,
+      "lat2": 33.630294
+    }
+  ]
+}

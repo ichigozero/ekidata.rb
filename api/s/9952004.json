@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 23,
+    "line_cd": 99520,
+    "line_name": "豊橋鉄道渥美線",
+    "station_cd": 9952004,
+    "station_g_cd": 9952004,
+    "station_name": "愛知大学前",
+    "lon": 137.385754,
+    "lat": 34.741682
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 21004,
+    "line_name": "東武野田線",
+    "station_cd": 2100421,
+    "station_g_cd": 2100421,
+    "station_name": "初石",
+    "lon": 139.917861,
+    "lat": 35.883783
+  }
+}

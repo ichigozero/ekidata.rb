@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 12,
+    "line_cd": 11314,
+    "line_name": "JR総武本線",
+    "station_cd": 1131407,
+    "station_g_cd": 1131331,
+    "station_name": "船橋",
+    "lon": 139.984707,
+    "lat": 35.701865
+  }
+}

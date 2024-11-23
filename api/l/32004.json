@@ -1,0 +1,25 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3200401,
+      "station_g_cd": 1162702,
+      "station_name": "羽衣",
+      "lon": 135.44178,
+      "lat": 34.534546
+    },
+    {
+      "station_cd": 3200402,
+      "station_g_cd": 3200402,
+      "station_name": "伽羅橋",
+      "lon": 135.436847,
+      "lat": 34.528869
+    },
+    {
+      "station_cd": 3200403,
+      "station_g_cd": 3200403,
+      "station_name": "高師浜",
+      "lon": 135.431911,
+      "lat": 34.527391
+    }
+  ]
+}

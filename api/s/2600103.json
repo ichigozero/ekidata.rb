@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 26001,
+    "line_name": "東急東横線",
+    "station_cd": 2600103,
+    "station_g_cd": 2600103,
+    "station_name": "中目黒",
+    "lon": 139.698621,
+    "lat": 35.643854
+  }
+}

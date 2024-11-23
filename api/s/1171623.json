@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 11716,
+    "line_name": "JR呉線",
+    "station_cd": 1171623,
+    "station_g_cd": 1171623,
+    "station_name": "天応",
+    "lon": 132.519617,
+    "lat": 34.282238
+  }
+}

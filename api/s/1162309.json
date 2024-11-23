@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11623,
+    "line_name": "大阪環状線",
+    "station_cd": 1162309,
+    "station_g_cd": 1162309,
+    "station_name": "福島",
+    "lon": 135.486563,
+    "lat": 34.697167
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+  <station>
+    <station_cd1>3001901</station_cd1>
+    <station_cd2>3001902</station_cd2>
+    <station_name1>犬山遊園</station_name1>
+    <station_name2>成田山</station_name2>
+    <lat1>35.390331</lat1>
+    <lon1>136.946894</lon1>
+    <lat2>35.387426</lat2>
+    <lon2>136.949646</lon2>
+  </station>
+  <station>
+    <station_cd1>3001902</station_cd1>
+    <station_cd2>3001903</station_cd2>
+    <station_name1>成田山</station_name1>
+    <station_name2>動物園</station_name2>
+    <lat1>35.387426</lat1>
+    <lon1>136.949646</lon1>
+    <lat2>35.390318</lat2>
+    <lon2>136.956687</lon2>
+  </station>
+</ekidata>

@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 14,
+      "line_cd": 27001,
+      "line_name": "京急本線",
+      "station_cd": 2700122,
+      "station_name": "子安"
+    }
+  ]
+}

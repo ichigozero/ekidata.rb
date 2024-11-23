@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 99618,
+    "line_name": "大阪メトロ御堂筋線",
+    "station_cd": 9961804,
+    "station_g_cd": 3400324,
+    "station_name": "西中島南方",
+    "lon": 135.498579,
+    "lat": 34.726584
+  }
+}

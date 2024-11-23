@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 17,
+    "line_cd": 99416,
+    "line_name": "北陸鉄道石川線",
+    "station_cd": 9941616,
+    "station_g_cd": 9941616,
+    "station_name": "鶴来",
+    "lon": 136.623818,
+    "lat": 36.452178
+  }
+}

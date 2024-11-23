@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 16,
+    "line_cd": 11418,
+    "line_name": "JR氷見線",
+    "station_cd": 1141808,
+    "station_g_cd": 1141808,
+    "station_name": "氷見",
+    "lon": 136.990631,
+    "lat": 36.849899
+  }
+}

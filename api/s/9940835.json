@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 16,
+    "line_cd": 99408,
+    "line_name": "富山地鉄本線",
+    "station_cd": 9940835,
+    "station_g_cd": 9940835,
+    "station_name": "愛本",
+    "lon": 137.553769,
+    "lat": 36.855975
+  }
+}

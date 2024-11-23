@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 11328,
+    "line_name": "JR成田エクスプレス",
+    "station_cd": 1132821,
+    "station_g_cd": 1130307,
+    "station_name": "武蔵小杉",
+    "lon": 139.663278,
+    "lat": 35.575965
+  }
+}

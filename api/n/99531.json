@@ -1,0 +1,144 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9953101,
+      "station_cd2": 9953102,
+      "station_name1": "伊賀上野",
+      "station_name2": "新居",
+      "lon1": 136.123017,
+      "lat1": 34.789026,
+      "lon2": 136.115903,
+      "lat2": 34.786338
+    },
+    {
+      "station_cd1": 9953102,
+      "station_cd2": 9953103,
+      "station_name1": "新居",
+      "station_name2": "西大手",
+      "lon1": 136.115903,
+      "lat1": 34.786338,
+      "lon2": 136.124675,
+      "lat2": 34.766923
+    },
+    {
+      "station_cd1": 9953103,
+      "station_cd2": 9953104,
+      "station_name1": "西大手",
+      "station_name2": "上野市",
+      "lon1": 136.124675,
+      "lat1": 34.766923,
+      "lon2": 136.129419,
+      "lat2": 34.767654
+    },
+    {
+      "station_cd1": 9953104,
+      "station_cd2": 9953105,
+      "station_name1": "上野市",
+      "station_name2": "広小路",
+      "lon1": 136.129419,
+      "lat1": 34.767654,
+      "lon2": 136.134427,
+      "lat2": 34.767054
+    },
+    {
+      "station_cd1": 9953105,
+      "station_cd2": 9953106,
+      "station_name1": "広小路",
+      "station_name2": "茅町",
+      "lon1": 136.134427,
+      "lat1": 34.767054,
+      "lon2": 136.135732,
+      "lat2": 34.761524
+    },
+    {
+      "station_cd1": 9953106,
+      "station_cd2": 9953107,
+      "station_name1": "茅町",
+      "station_name2": "桑町",
+      "lon1": 136.135732,
+      "lat1": 34.761524,
+      "lon2": 136.136621,
+      "lat2": 34.754164
+    },
+    {
+      "station_cd1": 9953107,
+      "station_cd2": 9953115,
+      "station_name1": "桑町",
+      "station_name2": "四十九",
+      "lon1": 136.136621,
+      "lat1": 34.754164,
+      "lon2": 136.137,
+      "lat2": 34.748194
+    },
+    {
+      "station_cd1": 9953108,
+      "station_cd2": 9953109,
+      "station_name1": "猪田道",
+      "station_name2": "市部",
+      "lon1": 136.140352,
+      "lat1": 34.735424,
+      "lon2": 136.148661,
+      "lat2": 34.726245
+    },
+    {
+      "station_cd1": 9953109,
+      "station_cd2": 9953110,
+      "station_name1": "市部",
+      "station_name2": "依那古",
+      "lon1": 136.148661,
+      "lat1": 34.726245,
+      "lon2": 136.15318,
+      "lat2": 34.715199
+    },
+    {
+      "station_cd1": 9953110,
+      "station_cd2": 9953111,
+      "station_name1": "依那古",
+      "station_name2": "丸山",
+      "lon1": 136.15318,
+      "lat1": 34.715199,
+      "lon2": 136.157461,
+      "lat2": 34.704381
+    },
+    {
+      "station_cd1": 9953111,
+      "station_cd2": 9953112,
+      "station_name1": "丸山",
+      "station_name2": "上林",
+      "lon1": 136.157461,
+      "lat1": 34.704381,
+      "lon2": 136.161219,
+      "lat2": 34.694998
+    },
+    {
+      "station_cd1": 9953112,
+      "station_cd2": 9953113,
+      "station_name1": "上林",
+      "station_name2": "比土",
+      "lon1": 136.161219,
+      "lat1": 34.694998,
+      "lon2": 136.16047,
+      "lat2": 34.675828
+    },
+    {
+      "station_cd1": 9953113,
+      "station_cd2": 9953114,
+      "station_name1": "比土",
+      "station_name2": "伊賀神戸",
+      "lon1": 136.16047,
+      "lat1": 34.675828,
+      "lon2": 136.152854,
+      "lat2": 34.673639
+    },
+    {
+      "station_cd1": 9953115,
+      "station_cd2": 9953108,
+      "station_name1": "四十九",
+      "station_name2": "猪田道",
+      "lon1": 136.137,
+      "lat1": 34.748194,
+      "lon2": 136.140352,
+      "lat2": 34.735424
+    }
+  ]
+}

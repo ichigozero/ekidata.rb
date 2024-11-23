@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 22,
+    "line_cd": 99508,
+    "line_name": "南アルプスあぷとライン",
+    "station_cd": 9950809,
+    "station_g_cd": 9950809,
+    "station_name": "ひらんだ",
+    "lon": 138.167507,
+    "lat": 35.164806
+  }
+}

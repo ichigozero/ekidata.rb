@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 10,
+    "line_cd": 11341,
+    "line_name": "JR両毛線",
+    "station_cd": 1134106,
+    "station_g_cd": 1134106,
+    "station_name": "前橋大島",
+    "lon": 139.109557,
+    "lat": 36.370585
+  }
+}

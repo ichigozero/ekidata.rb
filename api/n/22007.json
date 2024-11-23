@@ -1,0 +1,284 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2200701,
+      "station_cd2": 2200702,
+      "station_name1": "西武新宿",
+      "station_name2": "高田馬場",
+      "lon1": 139.7,
+      "lat1": 35.696254,
+      "lon2": 139.703715,
+      "lat2": 35.712677
+    },
+    {
+      "station_cd1": 2200702,
+      "station_cd2": 2200703,
+      "station_name1": "高田馬場",
+      "station_name2": "下落合",
+      "lon1": 139.703715,
+      "lat1": 35.712677,
+      "lon2": 139.695391,
+      "lat2": 35.715846
+    },
+    {
+      "station_cd1": 2200703,
+      "station_cd2": 2200704,
+      "station_name1": "下落合",
+      "station_name2": "中井",
+      "lon1": 139.695391,
+      "lat1": 35.715846,
+      "lon2": 139.686967,
+      "lat2": 35.715106
+    },
+    {
+      "station_cd1": 2200704,
+      "station_cd2": 2200705,
+      "station_name1": "中井",
+      "station_name2": "新井薬師前",
+      "lon1": 139.686967,
+      "lat1": 35.715106,
+      "lon2": 139.672582,
+      "lat2": 35.715778
+    },
+    {
+      "station_cd1": 2200705,
+      "station_cd2": 2200706,
+      "station_name1": "新井薬師前",
+      "station_name2": "沼袋",
+      "lon1": 139.672582,
+      "lat1": 35.715778,
+      "lon2": 139.663841,
+      "lat2": 35.719458
+    },
+    {
+      "station_cd1": 2200706,
+      "station_cd2": 2200707,
+      "station_name1": "沼袋",
+      "station_name2": "野方",
+      "lon1": 139.663841,
+      "lat1": 35.719458,
+      "lon2": 139.652733,
+      "lat2": 35.719658
+    },
+    {
+      "station_cd1": 2200707,
+      "station_cd2": 2200708,
+      "station_name1": "野方",
+      "station_name2": "都立家政",
+      "lon1": 139.652733,
+      "lat1": 35.719658,
+      "lon2": 139.644839,
+      "lat2": 35.722313
+    },
+    {
+      "station_cd1": 2200708,
+      "station_cd2": 2200709,
+      "station_name1": "都立家政",
+      "station_name2": "鷺ノ宮",
+      "lon1": 139.644839,
+      "lat1": 35.722313,
+      "lon2": 139.63892,
+      "lat2": 35.722605
+    },
+    {
+      "station_cd1": 2200709,
+      "station_cd2": 2200710,
+      "station_name1": "鷺ノ宮",
+      "station_name2": "下井草",
+      "lon1": 139.63892,
+      "lat1": 35.722605,
+      "lon2": 139.624688,
+      "lat2": 35.723852
+    },
+    {
+      "station_cd1": 2200710,
+      "station_cd2": 2200711,
+      "station_name1": "下井草",
+      "station_name2": "井荻",
+      "lon1": 139.624688,
+      "lat1": 35.723852,
+      "lon2": 139.615303,
+      "lat2": 35.72469
+    },
+    {
+      "station_cd1": 2200711,
+      "station_cd2": 2200712,
+      "station_name1": "井荻",
+      "station_name2": "上井草",
+      "lon1": 139.615303,
+      "lat1": 35.72469,
+      "lon2": 139.602937,
+      "lat2": 35.725326
+    },
+    {
+      "station_cd1": 2200712,
+      "station_cd2": 2200713,
+      "station_name1": "上井草",
+      "station_name2": "上石神井",
+      "lon1": 139.602937,
+      "lat1": 35.725326,
+      "lon2": 139.592266,
+      "lat2": 35.726189
+    },
+    {
+      "station_cd1": 2200713,
+      "station_cd2": 2200714,
+      "station_name1": "上石神井",
+      "station_name2": "武蔵関",
+      "lon1": 139.592266,
+      "lat1": 35.726189,
+      "lon2": 139.576417,
+      "lat2": 35.7276
+    },
+    {
+      "station_cd1": 2200714,
+      "station_cd2": 2200715,
+      "station_name1": "武蔵関",
+      "station_name2": "東伏見",
+      "lon1": 139.576417,
+      "lat1": 35.7276,
+      "lon2": 139.563529,
+      "lat2": 35.728761
+    },
+    {
+      "station_cd1": 2200715,
+      "station_cd2": 2200716,
+      "station_name1": "東伏見",
+      "station_name2": "西武柳沢",
+      "lon1": 139.563529,
+      "lat1": 35.728761,
+      "lon2": 139.552477,
+      "lat2": 35.728621
+    },
+    {
+      "station_cd1": 2200716,
+      "station_cd2": 2200717,
+      "station_name1": "西武柳沢",
+      "station_name2": "田無",
+      "lon1": 139.552477,
+      "lat1": 35.728621,
+      "lon2": 139.539259,
+      "lat2": 35.727307
+    },
+    {
+      "station_cd1": 2200717,
+      "station_cd2": 2200718,
+      "station_name1": "田無",
+      "station_name2": "花小金井",
+      "lon1": 139.539259,
+      "lat1": 35.727307,
+      "lon2": 139.513228,
+      "lat2": 35.726129
+    },
+    {
+      "station_cd1": 2200718,
+      "station_cd2": 2200719,
+      "station_name1": "花小金井",
+      "station_name2": "小平",
+      "lon1": 139.513228,
+      "lat1": 35.726129,
+      "lon2": 139.488491,
+      "lat2": 35.736963
+    },
+    {
+      "station_cd1": 2200719,
+      "station_cd2": 2200720,
+      "station_name1": "小平",
+      "station_name2": "久米川",
+      "lon1": 139.488491,
+      "lat1": 35.736963,
+      "lon2": 139.472653,
+      "lat2": 35.749575
+    },
+    {
+      "station_cd1": 2200720,
+      "station_cd2": 2200721,
+      "station_name1": "久米川",
+      "station_name2": "東村山",
+      "lon1": 139.472653,
+      "lat1": 35.749575,
+      "lon2": 139.465839,
+      "lat2": 35.76006
+    },
+    {
+      "station_cd1": 2200721,
+      "station_cd2": 2200722,
+      "station_name1": "東村山",
+      "station_name2": "所沢",
+      "lon1": 139.465839,
+      "lat1": 35.76006,
+      "lon2": 139.473324,
+      "lat2": 35.786627
+    },
+    {
+      "station_cd1": 2200722,
+      "station_cd2": 2200723,
+      "station_name1": "所沢",
+      "station_name2": "航空公園",
+      "lon1": 139.473324,
+      "lat1": 35.786627,
+      "lon2": 139.465641,
+      "lat2": 35.798272
+    },
+    {
+      "station_cd1": 2200723,
+      "station_cd2": 2200724,
+      "station_name1": "航空公園",
+      "station_name2": "新所沢",
+      "lon1": 139.465641,
+      "lat1": 35.798272,
+      "lon2": 139.457069,
+      "lat2": 35.805854
+    },
+    {
+      "station_cd1": 2200724,
+      "station_cd2": 2200725,
+      "station_name1": "新所沢",
+      "station_name2": "入曽",
+      "lon1": 139.457069,
+      "lat1": 35.805854,
+      "lon2": 139.427304,
+      "lat2": 35.832481
+    },
+    {
+      "station_cd1": 2200725,
+      "station_cd2": 2200726,
+      "station_name1": "入曽",
+      "station_name2": "狭山市",
+      "lon1": 139.427304,
+      "lat1": 35.832481,
+      "lon2": 139.413015,
+      "lat2": 35.856936
+    },
+    {
+      "station_cd1": 2200726,
+      "station_cd2": 2200727,
+      "station_name1": "狭山市",
+      "station_name2": "新狭山",
+      "lon1": 139.413015,
+      "lat1": 35.856936,
+      "lon2": 139.433499,
+      "lat2": 35.873993
+    },
+    {
+      "station_cd1": 2200727,
+      "station_cd2": 2200728,
+      "station_name1": "新狭山",
+      "station_name2": "南大塚",
+      "lon1": 139.433499,
+      "lat1": 35.873993,
+      "lon2": 139.454189,
+      "lat2": 35.889663
+    },
+    {
+      "station_cd1": 2200728,
+      "station_cd2": 2200729,
+      "station_name1": "南大塚",
+      "station_name2": "本川越",
+      "lon1": 139.454189,
+      "lat1": 35.889663,
+      "lon2": 139.481125,
+      "lat2": 35.913524
+    }
+  ]
+}

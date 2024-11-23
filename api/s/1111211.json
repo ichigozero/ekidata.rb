@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 1,
+    "line_cd": 11112,
+    "line_name": "JR札沼線",
+    "station_cd": 1111211,
+    "station_g_cd": 1111211,
+    "station_name": "あいの里公園",
+    "lon": 141.413276,
+    "lat": 43.161206
+  }
+}

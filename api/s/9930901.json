@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99309,
+    "line_name": "つくばエクスプレス",
+    "station_cd": 9930901,
+    "station_g_cd": 1130222,
+    "station_name": "秋葉原",
+    "lon": 139.774273,
+    "lat": 35.698889
+  }
+}

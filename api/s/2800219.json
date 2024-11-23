@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 28002,
+    "line_name": "東京メトロ丸ノ内線",
+    "station_cd": 2800219,
+    "station_g_cd": 2800219,
+    "station_name": "西新宿",
+    "lon": 139.692778,
+    "lat": 35.694298
+  }
+}

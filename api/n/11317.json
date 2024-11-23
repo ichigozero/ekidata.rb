@@ -1,0 +1,84 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1131701,
+      "station_cd2": 1131702,
+      "station_name1": "八王子",
+      "station_name2": "北八王子",
+      "lon1": 139.338998,
+      "lat1": 35.655555,
+      "lon2": 139.363348,
+      "lat2": 35.669232
+    },
+    {
+      "station_cd1": 1131702,
+      "station_cd2": 1131703,
+      "station_name1": "北八王子",
+      "station_name2": "小宮",
+      "lon1": 139.363348,
+      "lat1": 35.669232,
+      "lon2": 139.368481,
+      "lat2": 35.685799
+    },
+    {
+      "station_cd1": 1131703,
+      "station_cd2": 1131704,
+      "station_name1": "小宮",
+      "station_name2": "拝島",
+      "lon1": 139.368481,
+      "lat1": 35.685799,
+      "lon2": 139.343468,
+      "lat2": 35.721278
+    },
+    {
+      "station_cd1": 1131704,
+      "station_cd2": 1131705,
+      "station_name1": "拝島",
+      "station_name2": "東福生",
+      "lon1": 139.343468,
+      "lat1": 35.721278,
+      "lon2": 139.33594,
+      "lat2": 35.745811
+    },
+    {
+      "station_cd1": 1131705,
+      "station_cd2": 1131706,
+      "station_name1": "東福生",
+      "station_name2": "箱根ケ崎",
+      "lon1": 139.33594,
+      "lat1": 35.745811,
+      "lon2": 139.346805,
+      "lat2": 35.771158
+    },
+    {
+      "station_cd1": 1131706,
+      "station_cd2": 1131707,
+      "station_name1": "箱根ケ崎",
+      "station_name2": "金子",
+      "lon1": 139.346805,
+      "lat1": 35.771158,
+      "lon2": 139.328546,
+      "lat2": 35.810822
+    },
+    {
+      "station_cd1": 1131707,
+      "station_cd2": 1131708,
+      "station_name1": "金子",
+      "station_name2": "東飯能",
+      "lon1": 139.328546,
+      "lat1": 35.810822,
+      "lon2": 139.325965,
+      "lat2": 35.852928
+    },
+    {
+      "station_cd1": 1131708,
+      "station_cd2": 1131709,
+      "station_name1": "東飯能",
+      "station_name2": "高麗川",
+      "lon1": 139.325965,
+      "lat1": 35.852928,
+      "lon2": 139.33809,
+      "lat2": 35.896328
+    }
+  ]
+}

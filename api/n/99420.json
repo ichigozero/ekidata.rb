@@ -1,0 +1,234 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9942001,
+      "station_cd2": 9942002,
+      "station_name1": "福井",
+      "station_name2": "新福井",
+      "lon1": 136.223779,
+      "lat1": 36.061711,
+      "lon2": 136.226721,
+      "lat2": 36.064714
+    },
+    {
+      "station_cd1": 9942002,
+      "station_cd2": 9942003,
+      "station_name1": "新福井",
+      "station_name2": "福井口",
+      "lon1": 136.226721,
+      "lat1": 36.064714,
+      "lon2": 136.233176,
+      "lat2": 36.071386
+    },
+    {
+      "station_cd1": 9942003,
+      "station_cd2": 9942024,
+      "station_name1": "福井口",
+      "station_name2": "まつもと町屋",
+      "lon1": 136.233176,
+      "lat1": 36.071386,
+      "lon2": 136.2290465,
+      "lat2": 36.07696597
+    },
+    {
+      "station_cd1": 9942004,
+      "station_cd2": 9942005,
+      "station_name1": "西別院",
+      "station_name2": "田原町",
+      "lon1": 136.222704,
+      "lat1": 36.07516,
+      "lon2": 136.21738,
+      "lat2": 36.074888
+    },
+    {
+      "station_cd1": 9942005,
+      "station_cd2": 9942006,
+      "station_name1": "田原町",
+      "station_name2": "福大前西福井",
+      "lon1": 136.21738,
+      "lat1": 36.074888,
+      "lon2": 136.210339,
+      "lat2": 36.074218
+    },
+    {
+      "station_cd1": 9942006,
+      "station_cd2": 9942022,
+      "station_name1": "福大前西福井",
+      "station_name2": "日華化学前",
+      "lon1": 136.210339,
+      "lat1": 36.074218,
+      "lon2": 136.206479,
+      "lat2": 36.080945
+    },
+    {
+      "station_cd1": 9942007,
+      "station_cd2": 9942008,
+      "station_name1": "新田塚",
+      "station_name2": "中角",
+      "lon1": 136.205299,
+      "lat1": 36.092483,
+      "lon2": 136.204591,
+      "lat2": 36.10111
+    },
+    {
+      "station_cd1": 9942008,
+      "station_cd2": 9942009,
+      "station_name1": "中角",
+      "station_name2": "鷲塚針原",
+      "lon1": 136.204591,
+      "lat1": 36.10111,
+      "lon2": 136.204793,
+      "lat2": 36.12061
+    },
+    {
+      "station_cd1": 9942009,
+      "station_cd2": 9942010,
+      "station_name1": "鷲塚針原",
+      "station_name2": "太郎丸エンゼルランド",
+      "lon1": 136.204793,
+      "lat1": 36.12061,
+      "lon2": 136.20574,
+      "lat2": 36.131298
+    },
+    {
+      "station_cd1": 9942010,
+      "station_cd2": 9942011,
+      "station_name1": "太郎丸エンゼルランド",
+      "station_name2": "西春江ハートピア",
+      "lon1": 136.20574,
+      "lat1": 36.131298,
+      "lon2": 136.206187,
+      "lat2": 36.138964
+    },
+    {
+      "station_cd1": 9942011,
+      "station_cd2": 9942012,
+      "station_name1": "西春江ハートピア",
+      "station_name2": "西長田ゆりの里",
+      "lon1": 136.206187,
+      "lat1": 36.138964,
+      "lon2": 136.206472,
+      "lat2": 36.153615
+    },
+    {
+      "station_cd1": 9942012,
+      "station_cd2": 9942013,
+      "station_name1": "西長田ゆりの里",
+      "station_name2": "下兵庫こうふく",
+      "lon1": 136.206472,
+      "lat1": 36.153615,
+      "lon2": 136.202507,
+      "lat2": 36.170129
+    },
+    {
+      "station_cd1": 9942013,
+      "station_cd2": 9942014,
+      "station_name1": "下兵庫こうふく",
+      "station_name2": "大関",
+      "lon1": 136.202507,
+      "lat1": 36.170129,
+      "lon2": 136.203687,
+      "lat2": 36.186574
+    },
+    {
+      "station_cd1": 9942014,
+      "station_cd2": 9942015,
+      "station_name1": "大関",
+      "station_name2": "本荘",
+      "lon1": 136.203687,
+      "lat1": 36.186574,
+      "lon2": 136.202881,
+      "lat2": 36.205011
+    },
+    {
+      "station_cd1": 9942015,
+      "station_cd2": 9942016,
+      "station_name1": "本荘",
+      "station_name2": "番田",
+      "lon1": 136.202881,
+      "lat1": 36.205011,
+      "lon2": 136.202333,
+      "lat2": 36.212358
+    },
+    {
+      "station_cd1": 9942016,
+      "station_cd2": 9942017,
+      "station_name1": "番田",
+      "station_name2": "あわら湯のまち",
+      "lon1": 136.202333,
+      "lat1": 36.212358,
+      "lon2": 136.193695,
+      "lat2": 36.223159
+    },
+    {
+      "station_cd1": 9942017,
+      "station_cd2": 9942018,
+      "station_name1": "あわら湯のまち",
+      "station_name2": "水居",
+      "lon1": 136.193695,
+      "lat1": 36.223159,
+      "lon2": 136.172019,
+      "lat2": 36.219081
+    },
+    {
+      "station_cd1": 9942018,
+      "station_cd2": 9942019,
+      "station_name1": "水居",
+      "station_name2": "三国神社",
+      "lon1": 136.172019,
+      "lat1": 36.219081,
+      "lon2": 136.158037,
+      "lat2": 36.214773
+    },
+    {
+      "station_cd1": 9942019,
+      "station_cd2": 9942020,
+      "station_name1": "三国神社",
+      "station_name2": "三国",
+      "lon1": 136.158037,
+      "lat1": 36.214773,
+      "lon2": 136.149615,
+      "lat2": 36.217012
+    },
+    {
+      "station_cd1": 9942020,
+      "station_cd2": 9942021,
+      "station_name1": "三国",
+      "station_name2": "三国港",
+      "lon1": 136.149615,
+      "lat1": 36.217012,
+      "lon2": 136.140049,
+      "lat2": 36.220264
+    },
+    {
+      "station_cd1": 9942022,
+      "station_cd2": 9942023,
+      "station_name1": "日華化学前",
+      "station_name2": "八ツ島",
+      "lon1": 136.206479,
+      "lat1": 36.080945,
+      "lon2": 136.205943,
+      "lat2": 36.086407
+    },
+    {
+      "station_cd1": 9942023,
+      "station_cd2": 9942007,
+      "station_name1": "八ツ島",
+      "station_name2": "新田塚",
+      "lon1": 136.205943,
+      "lat1": 36.086407,
+      "lon2": 136.205299,
+      "lat2": 36.092483
+    },
+    {
+      "station_cd1": 9942024,
+      "station_cd2": 9942004,
+      "station_name1": "まつもと町屋",
+      "station_name2": "西別院",
+      "lon1": 136.2290465,
+      "lat1": 36.07696597,
+      "lon2": 136.222704,
+      "lat2": 36.07516
+    }
+  ]
+}

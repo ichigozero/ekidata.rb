@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9951801,
+      "station_cd2": 9951802,
+      "station_name1": "平安通",
+      "station_name2": "上飯田",
+      "lon1": 136.929784,
+      "lat1": 35.195934,
+      "lon2": 136.929642,
+      "lat2": 35.203845
+    }
+  ]
+}

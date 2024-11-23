@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 1,
+      "line_cd": 99104,
+      "line_name": "札幌市電山鼻線",
+      "station_cd": 9910411,
+      "station_name": "電車事業所前"
+    }
+  ]
+}

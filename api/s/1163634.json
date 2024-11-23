@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 30,
+    "line_cd": 11636,
+    "line_name": "JR和歌山線",
+    "station_cd": 1163634,
+    "station_g_cd": 1163634,
+    "station_name": "千旦",
+    "lon": 135.245677,
+    "lat": 34.24167
+  }
+}

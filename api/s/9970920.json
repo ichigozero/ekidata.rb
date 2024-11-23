@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 99709,
+    "line_name": "アストラムライン",
+    "station_cd": 9970920,
+    "station_g_cd": 9970920,
+    "station_name": "大塚",
+    "lon": 132.402702,
+    "lat": 34.441466
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1134301,
+      "station_cd2": 1134302,
+      "station_name1": "東京",
+      "station_name2": "上野",
+      "lon1": 139.766103,
+      "lat1": 35.681391,
+      "lon2": 139.777043,
+      "lat2": 35.71379
+    }
+  ]
+}

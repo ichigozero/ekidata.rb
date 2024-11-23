@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 99617,
+    "line_name": "水間鉄道水間線",
+    "station_cd": 9961702,
+    "station_g_cd": 9961702,
+    "station_name": "貝塚市役所前",
+    "lon": 135.360497,
+    "lat": 34.439461
+  }
+}

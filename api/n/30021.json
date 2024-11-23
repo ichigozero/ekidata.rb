@@ -1,0 +1,14 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3002101,
+      "station_cd2": 3002102,
+      "station_name1": "江吉良",
+      "station_name2": "新羽島",
+      "lon1": 136.699686,
+      "lat1": 35.31543,
+      "lon2": 136.686582,
+      "lat2": 35.315471
+    }
+  ]
+}

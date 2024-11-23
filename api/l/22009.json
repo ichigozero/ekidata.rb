@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 2200901,
+      "station_g_cd": 2200721,
+      "station_name": "東村山",
+      "lon": 139.465839,
+      "lat": 35.76006
+    },
+    {
+      "station_cd": 2200902,
+      "station_g_cd": 2200902,
+      "station_name": "西武園",
+      "lon": 139.448904,
+      "lat": 35.767684
+    }
+  ]
+}

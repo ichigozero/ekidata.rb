@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 24001,
+    "line_name": "京王線",
+    "station_cd": 2400108,
+    "station_g_cd": 2400108,
+    "station_name": "桜上水",
+    "lon": 139.63129,
+    "lat": 35.66768
+  }
+}

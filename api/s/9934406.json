@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 14,
+    "line_cd": 99344,
+    "line_name": "箱根登山ケーブルカー",
+    "station_cd": 9934406,
+    "station_g_cd": 9934406,
+    "station_name": "早雲山",
+    "lon": 139.035611,
+    "lat": 35.246444
+  }
+}

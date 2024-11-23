@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 9,
+    "line_cd": 21003,
+    "line_name": "東武日光線",
+    "station_cd": 2100314,
+    "station_g_cd": 2100314,
+    "station_name": "合戦場",
+    "lon": 139.741057,
+    "lat": 36.407647
+  }
+}

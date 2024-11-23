@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 28,
+    "line_cd": 11635,
+    "line_name": "JR播但線",
+    "station_cd": 1163511,
+    "station_g_cd": 1163511,
+    "station_name": "新野",
+    "lon": 134.752482,
+    "lat": 35.050278
+  }
+}

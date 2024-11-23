@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 1161301,
+      "station_g_cd": 1160802,
+      "station_name": "兵庫",
+      "lon": 135.164706,
+      "lat": 34.668343
+    },
+    {
+      "station_cd": 1161302,
+      "station_g_cd": 1161302,
+      "station_name": "和田岬",
+      "lon": 135.174268,
+      "lat": 34.657278
+    }
+  ]
+}

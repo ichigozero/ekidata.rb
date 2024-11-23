@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 28003,
+    "line_name": "東京メトロ日比谷線",
+    "station_cd": 2800313,
+    "station_g_cd": 2800313,
+    "station_name": "東銀座",
+    "lon": 139.767253,
+    "lat": 35.669464
+  }
+}

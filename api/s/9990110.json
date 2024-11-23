@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99901,
+    "line_name": "甘木鉄道",
+    "station_cd": 9990110,
+    "station_g_cd": 9990110,
+    "station_name": "高田",
+    "lon": 130.63402,
+    "lat": 33.414218
+  }
+}

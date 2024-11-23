@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 23,
+      "line_cd": 30009,
+      "line_name": "名鉄河和線",
+      "station_cd": 3000906,
+      "station_name": "白沢"
+    }
+  ]
+}

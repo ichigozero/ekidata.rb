@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 26,
+      "line_cd": 33007,
+      "line_name": "京阪京津線",
+      "station_cd": 3300701,
+      "station_name": "御陵"
+    },
+    {
+      "pref_cd": 26,
+      "line_cd": 99611,
+      "line_name": "京都市営地下鉄東西線",
+      "station_cd": 9961108,
+      "station_name": "御陵"
+    }
+  ]
+}

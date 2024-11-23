@@ -1,0 +1,34 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2700401,
+      "station_cd2": 2700402,
+      "station_name1": "金沢八景",
+      "station_name2": "六浦",
+      "lon1": 139.62018,
+      "lat1": 35.331223,
+      "lon2": 139.611532,
+      "lat2": 35.32269
+    },
+    {
+      "station_cd1": 2700402,
+      "station_cd2": 2700403,
+      "station_name1": "六浦",
+      "station_name2": "神武寺",
+      "lon1": 139.611532,
+      "lat1": 35.32269,
+      "lon2": 139.592947,
+      "lat2": 35.306233
+    },
+    {
+      "station_cd1": 2700403,
+      "station_cd2": 2700404,
+      "station_name1": "神武寺",
+      "station_name2": "逗子・葉山",
+      "lon1": 139.592947,
+      "lat1": 35.306233,
+      "lon2": 139.580359,
+      "lat2": 35.294189
+    }
+  ]
+}

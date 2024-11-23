@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 13,
+      "line_cd": 21002,
+      "line_name": "東武伊勢崎線",
+      "station_cd": 2100210,
+      "station_name": "小菅"
+    }
+  ]
+}

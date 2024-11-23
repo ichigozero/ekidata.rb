@@ -1,0 +1,264 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3100401,
+      "station_cd2": 3100402,
+      "station_name1": "桑名",
+      "station_name2": "播磨",
+      "lon1": 136.683435,
+      "lat1": 35.06744,
+      "lon2": 136.674595,
+      "lat2": 35.078242
+    },
+    {
+      "station_cd1": 3100402,
+      "station_cd2": 3100403,
+      "station_name1": "播磨",
+      "station_name2": "下深谷",
+      "lon1": 136.674595,
+      "lat1": 35.078242,
+      "lon2": 136.661818,
+      "lat2": 35.096179
+    },
+    {
+      "station_cd1": 3100403,
+      "station_cd2": 3100404,
+      "station_name1": "下深谷",
+      "station_name2": "下野代",
+      "lon1": 136.661818,
+      "lat1": 35.096179,
+      "lon2": 136.647235,
+      "lat2": 35.115899
+    },
+    {
+      "station_cd1": 3100404,
+      "station_cd2": 3100405,
+      "station_name1": "下野代",
+      "station_name2": "多度",
+      "lon1": 136.647235,
+      "lat1": 35.115899,
+      "lon2": 136.640594,
+      "lat2": 35.133855
+    },
+    {
+      "station_cd1": 3100405,
+      "station_cd2": 3100406,
+      "station_name1": "多度",
+      "station_name2": "美濃松山",
+      "lon1": 136.640594,
+      "lat1": 35.133855,
+      "lon2": 136.632644,
+      "lat2": 35.160724
+    },
+    {
+      "station_cd1": 3100406,
+      "station_cd2": 3100407,
+      "station_name1": "美濃松山",
+      "station_name2": "石津",
+      "lon1": 136.632644,
+      "lat1": 35.160724,
+      "lon2": 136.627765,
+      "lat2": 35.181032
+    },
+    {
+      "station_cd1": 3100407,
+      "station_cd2": 3100408,
+      "station_name1": "石津",
+      "station_name2": "美濃山崎",
+      "lon1": 136.627765,
+      "lat1": 35.181032,
+      "lon2": 136.621595,
+      "lat2": 35.198658
+    },
+    {
+      "station_cd1": 3100408,
+      "station_cd2": 3100409,
+      "station_name1": "美濃山崎",
+      "station_name2": "駒野",
+      "lon1": 136.621595,
+      "lat1": 35.198658,
+      "lon2": 136.603389,
+      "lat2": 35.22385
+    },
+    {
+      "station_cd1": 3100409,
+      "station_cd2": 3100410,
+      "station_name1": "駒野",
+      "station_name2": "美濃津屋",
+      "lon1": 136.603389,
+      "lat1": 35.22385,
+      "lon2": 136.566651,
+      "lat2": 35.251532
+    },
+    {
+      "station_cd1": 3100410,
+      "station_cd2": 3100411,
+      "station_name1": "美濃津屋",
+      "station_name2": "養老",
+      "lon1": 136.566651,
+      "lat1": 35.251532,
+      "lon2": 136.556739,
+      "lat2": 35.28693
+    },
+    {
+      "station_cd1": 3100411,
+      "station_cd2": 3100412,
+      "station_name1": "養老",
+      "station_name2": "美濃高田",
+      "lon1": 136.556739,
+      "lat1": 35.28693,
+      "lon2": 136.563602,
+      "lat2": 35.309074
+    },
+    {
+      "station_cd1": 3100412,
+      "station_cd2": 3100413,
+      "station_name1": "美濃高田",
+      "station_name2": "烏江",
+      "lon1": 136.563602,
+      "lat1": 35.309074,
+      "lon2": 136.592258,
+      "lat2": 35.305346
+    },
+    {
+      "station_cd1": 3100413,
+      "station_cd2": 3100414,
+      "station_name1": "烏江",
+      "station_name2": "大外羽",
+      "lon1": 136.592258,
+      "lat1": 35.305346,
+      "lon2": 136.597382,
+      "lat2": 35.315092
+    },
+    {
+      "station_cd1": 3100414,
+      "station_cd2": 3100415,
+      "station_name1": "大外羽",
+      "station_name2": "友江",
+      "lon1": 136.597382,
+      "lat1": 35.315092,
+      "lon2": 136.600672,
+      "lat2": 35.326501
+    },
+    {
+      "station_cd1": 3100415,
+      "station_cd2": 3100416,
+      "station_name1": "友江",
+      "station_name2": "美濃青柳",
+      "lon1": 136.600672,
+      "lat1": 35.326501,
+      "lon2": 136.603797,
+      "lat2": 35.343591
+    },
+    {
+      "station_cd1": 3100416,
+      "station_cd2": 3100417,
+      "station_name1": "美濃青柳",
+      "station_name2": "西大垣",
+      "lon1": 136.603797,
+      "lat1": 35.343591,
+      "lon2": 136.603363,
+      "lat2": 35.360298
+    },
+    {
+      "station_cd1": 3100417,
+      "station_cd2": 3100418,
+      "station_name1": "西大垣",
+      "station_name2": "大垣",
+      "lon1": 136.603363,
+      "lat1": 35.360298,
+      "lon2": 136.61697,
+      "lat2": 35.366664
+    },
+    {
+      "station_cd1": 3100418,
+      "station_cd2": 3100419,
+      "station_name1": "大垣",
+      "station_name2": "室",
+      "lon1": 136.61697,
+      "lat1": 35.366664,
+      "lon2": 136.606209,
+      "lat2": 35.367272
+    },
+    {
+      "station_cd1": 3100419,
+      "station_cd2": 3100420,
+      "station_name1": "室",
+      "station_name2": "北大垣",
+      "lon1": 136.606209,
+      "lat1": 35.367272,
+      "lon2": 136.601979,
+      "lat2": 35.375349
+    },
+    {
+      "station_cd1": 3100420,
+      "station_cd2": 3100421,
+      "station_name1": "北大垣",
+      "station_name2": "東赤坂",
+      "lon1": 136.601979,
+      "lat1": 35.375349,
+      "lon2": 136.600971,
+      "lat2": 35.39414
+    },
+    {
+      "station_cd1": 3100421,
+      "station_cd2": 3100422,
+      "station_name1": "東赤坂",
+      "station_name2": "広神戸",
+      "lon1": 136.600971,
+      "lat1": 35.39414,
+      "lon2": 136.602096,
+      "lat2": 35.419651
+    },
+    {
+      "station_cd1": 3100422,
+      "station_cd2": 3100423,
+      "station_name1": "広神戸",
+      "station_name2": "北神戸",
+      "lon1": 136.602096,
+      "lat1": 35.419651,
+      "lon2": 136.59441,
+      "lat2": 35.430013
+    },
+    {
+      "station_cd1": 3100423,
+      "station_cd2": 3100424,
+      "station_name1": "北神戸",
+      "station_name2": "池野",
+      "lon1": 136.59441,
+      "lat1": 35.430013,
+      "lon2": 136.578712,
+      "lat2": 35.436512
+    },
+    {
+      "station_cd1": 3100424,
+      "station_cd2": 3100425,
+      "station_name1": "池野",
+      "station_name2": "北池野",
+      "lon1": 136.578712,
+      "lat1": 35.436512,
+      "lon2": 136.573673,
+      "lat2": 35.44335
+    },
+    {
+      "station_cd1": 3100425,
+      "station_cd2": 3100426,
+      "station_name1": "北池野",
+      "station_name2": "美濃本郷",
+      "lon1": 136.573673,
+      "lat1": 35.44335,
+      "lon2": 136.571826,
+      "lat2": 35.449874
+    },
+    {
+      "station_cd1": 3100426,
+      "station_cd2": 3100427,
+      "station_name1": "美濃本郷",
+      "station_name2": "揖斐",
+      "lon1": 136.571826,
+      "lat1": 35.449874,
+      "lon2": 136.572536,
+      "lat2": 35.470314
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1172401,
+      "station_cd2": 1172402,
+      "station_name1": "岩国",
+      "station_name2": "西岩国",
+      "lon1": 132.225631,
+      "lat1": 34.171828,
+      "lon2": 132.195786,
+      "lat2": 34.16302
+    },
+    {
+      "station_cd1": 1172402,
+      "station_cd2": 1172403,
+      "station_name1": "西岩国",
+      "station_name2": "川西",
+      "lon1": 132.195786,
+      "lat1": 34.16302,
+      "lon2": 132.177321,
+      "lat2": 34.156612
+    },
+    {
+      "station_cd1": 1172403,
+      "station_cd2": 1172404,
+      "station_name1": "川西",
+      "station_name2": "柱野",
+      "lon1": 132.177321,
+      "lat1": 34.156612,
+      "lon2": 132.154599,
+      "lat2": 34.143874
+    },
+    {
+      "station_cd1": 1172404,
+      "station_cd2": 1172405,
+      "station_name1": "柱野",
+      "station_name2": "欽明路",
+      "lon1": 132.154599,
+      "lat1": 34.143874,
+      "lon2": 132.101813,
+      "lat2": 34.1044
+    },
+    {
+      "station_cd1": 1172405,
+      "station_cd2": 1172406,
+      "station_name1": "欽明路",
+      "station_name2": "玖珂",
+      "lon1": 132.101813,
+      "lat1": 34.1044,
+      "lon2": 132.081951,
+      "lat2": 34.097195
+    },
+    {
+      "station_cd1": 1172406,
+      "station_cd2": 1172407,
+      "station_name1": "玖珂",
+      "station_name2": "周防高森",
+      "lon1": 132.081951,
+      "lat1": 34.097195,
+      "lon2": 132.045564,
+      "lat2": 34.090701
+    },
+    {
+      "station_cd1": 1172407,
+      "station_cd2": 1172408,
+      "station_name1": "周防高森",
+      "station_name2": "米川",
+      "lon1": 132.045564,
+      "lat1": 34.090701,
+      "lon2": 132.014745,
+      "lat2": 34.074521
+    },
+    {
+      "station_cd1": 1172408,
+      "station_cd2": 1172409,
+      "station_name1": "米川",
+      "station_name2": "高水",
+      "lon1": 132.014745,
+      "lat1": 34.074521,
+      "lon2": 131.973069,
+      "lat2": 34.055395
+    },
+    {
+      "station_cd1": 1172409,
+      "station_cd2": 1172410,
+      "station_name1": "高水",
+      "station_name2": "勝間",
+      "lon1": 131.973069,
+      "lat1": 34.055395,
+      "lon2": 131.953979,
+      "lat2": 34.042008
+    },
+    {
+      "station_cd1": 1172410,
+      "station_cd2": 1172411,
+      "station_name1": "勝間",
+      "station_name2": "大河内",
+      "lon1": 131.953979,
+      "lat1": 34.042008,
+      "lon2": 131.934175,
+      "lat2": 34.03098
+    },
+    {
+      "station_cd1": 1172411,
+      "station_cd2": 1172412,
+      "station_name1": "大河内",
+      "station_name2": "周防久保",
+      "lon1": 131.934175,
+      "lat1": 34.03098,
+      "lon2": 131.919248,
+      "lat2": 34.029211
+    },
+    {
+      "station_cd1": 1172412,
+      "station_cd2": 1172413,
+      "station_name1": "周防久保",
+      "station_name2": "生野屋",
+      "lon1": 131.919248,
+      "lat1": 34.029211,
+      "lon2": 131.887359,
+      "lat2": 34.035445
+    },
+    {
+      "station_cd1": 1172413,
+      "station_cd2": 1172414,
+      "station_name1": "生野屋",
+      "station_name2": "周防花岡",
+      "lon1": 131.887359,
+      "lat1": 34.035445,
+      "lon2": 131.867328,
+      "lat2": 34.035922
+    },
+    {
+      "station_cd1": 1172414,
+      "station_cd2": 1172415,
+      "station_name1": "周防花岡",
+      "station_name2": "櫛ケ浜",
+      "lon1": 131.867328,
+      "lat1": 34.035922,
+      "lon2": 131.829079,
+      "lat2": 34.031002
+    },
+    {
+      "station_cd1": 1172415,
+      "station_cd2": 1172416,
+      "station_name1": "櫛ケ浜",
+      "station_name2": "徳山",
+      "lon1": 131.829079,
+      "lat1": 34.031002,
+      "lon2": 131.8029,
+      "lat2": 34.051555
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99309,
+    "line_name": "つくばエクスプレス",
+    "station_cd": 9930904,
+    "station_g_cd": 1132004,
+    "station_name": "南千住",
+    "lon": 139.798783,
+    "lat": 35.732413
+  }
+}

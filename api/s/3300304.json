@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 33003,
+    "line_name": "京阪交野線",
+    "station_cd": 3300304,
+    "station_g_cd": 3300304,
+    "station_name": "村野",
+    "lon": 135.664221,
+    "lat": 34.801828
+  }
+}

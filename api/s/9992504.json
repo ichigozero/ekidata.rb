@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 46,
+    "line_cd": 99925,
+    "line_name": "鹿児島市電１系統",
+    "station_cd": 9992504,
+    "station_g_cd": 9992504,
+    "station_name": "市役所前",
+    "lon": 130.558015,
+    "lat": 31.597179
+  }
+}

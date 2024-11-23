@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9963601,
+      "station_g_cd": 9963601,
+      "station_name": "新神戸",
+      "lon": 135.195758,
+      "lat": 34.706417
+    },
+    {
+      "station_cd": 9963602,
+      "station_g_cd": 9963210,
+      "station_name": "谷上",
+      "lon": 135.17142,
+      "lat": 34.761691
+    }
+  ]
+}

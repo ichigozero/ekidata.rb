@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 33001,
+    "line_name": "京阪本線",
+    "station_cd": 3300107,
+    "station_g_cd": 3300107,
+    "station_name": "伏見稲荷",
+    "lon": 135.769279,
+    "lat": 34.968966
+  }
+}

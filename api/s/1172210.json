@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 35,
+    "line_cd": 11722,
+    "line_name": "JR美祢線",
+    "station_cd": 1172210,
+    "station_g_cd": 1172210,
+    "station_name": "長門湯本",
+    "lon": 131.172422,
+    "lat": 34.334435
+  }
+}

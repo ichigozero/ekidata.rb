@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 26,
+    "line_cd": 11617,
+    "line_name": "学研都市線",
+    "station_cd": 1161702,
+    "station_g_cd": 1161702,
+    "station_name": "西木津",
+    "lon": 135.803507,
+    "lat": 34.737762
+  }
+}

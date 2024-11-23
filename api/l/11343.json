@@ -1,0 +1,18 @@
+{
+  "station_l": [
+    {
+      "station_cd": 1134301,
+      "station_g_cd": 1130101,
+      "station_name": "東京",
+      "lon": 139.766103,
+      "lat": 35.681391
+    },
+    {
+      "station_cd": 1134302,
+      "station_g_cd": 1130220,
+      "station_name": "上野",
+      "lon": 139.777043,
+      "lat": 35.71379
+    }
+  ]
+}

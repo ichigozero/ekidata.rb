@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 99709,
+    "line_name": "アストラムライン",
+    "station_cd": 9970912,
+    "station_g_cd": 9970912,
+    "station_name": "毘沙門台",
+    "lon": 132.462827,
+    "lat": 34.469417
+  }
+}

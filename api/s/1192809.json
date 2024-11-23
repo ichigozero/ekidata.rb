@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 45,
+    "line_cd": 11928,
+    "line_name": "JR日南線",
+    "station_cd": 1192809,
+    "station_g_cd": 1192809,
+    "station_name": "青島",
+    "lon": 131.467121,
+    "lat": 31.799801
+  }
+}

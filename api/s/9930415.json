@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99304,
+    "line_name": "都営新宿線",
+    "station_cd": 9930415,
+    "station_g_cd": 9930415,
+    "station_name": "大島",
+    "lon": 139.83565,
+    "lat": 35.689905
+  }
+}

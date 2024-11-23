@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 99304,
+    "line_name": "都営新宿線",
+    "station_cd": 9930419,
+    "station_g_cd": 9930419,
+    "station_name": "瑞江",
+    "lon": 139.89761,
+    "lat": 35.693318
+  }
+}

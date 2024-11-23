@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11231,
+    "line_name": "JR東北本線(黒磯～利府・盛岡)",
+    "station_cd": 1123138,
+    "station_g_cd": 1123138,
+    "station_name": "館腰",
+    "lon": 140.880208,
+    "lat": 38.142987
+  }
+}

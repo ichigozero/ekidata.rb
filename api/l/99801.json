@@ -1,0 +1,32 @@
+{
+  "station_l": [
+    {
+      "station_cd": 9980104,
+      "station_g_cd": 1180429,
+      "station_name": "阿波海南",
+      "lon": 134.350805,
+      "lat": 33.606379
+    },
+    {
+      "station_cd": 9980101,
+      "station_g_cd": 1180430,
+      "station_name": "海部",
+      "lon": 134.351999,
+      "lat": 33.593453
+    },
+    {
+      "station_cd": 9980102,
+      "station_g_cd": 9980102,
+      "station_name": "宍喰",
+      "lon": 134.300741,
+      "lat": 33.566949
+    },
+    {
+      "station_cd": 9980103,
+      "station_g_cd": 9980103,
+      "station_name": "甲浦",
+      "lon": 134.288242,
+      "lat": 33.547238
+    }
+  ]
+}

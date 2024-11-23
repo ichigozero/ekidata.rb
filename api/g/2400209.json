@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 13,
+      "line_cd": 24002,
+      "line_name": "京王相模原線",
+      "station_cd": 2400209,
+      "station_name": "京王堀之内"
+    }
+  ]
+}

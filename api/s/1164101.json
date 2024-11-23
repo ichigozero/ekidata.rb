@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11641,
+    "line_name": "おおさか東線",
+    "station_cd": 1164101,
+    "station_g_cd": 1161722,
+    "station_name": "放出",
+    "lon": 135.563296,
+    "lat": 34.688103
+  }
+}

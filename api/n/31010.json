@@ -1,0 +1,44 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3101001,
+      "station_cd2": 3101002,
+      "station_name1": "宇治山田",
+      "station_name2": "五十鈴川",
+      "lon1": 136.714002,
+      "lat1": 34.488256,
+      "lon2": 136.727287,
+      "lat2": 34.476433
+    },
+    {
+      "station_cd1": 3101002,
+      "station_cd2": 3101003,
+      "station_name1": "五十鈴川",
+      "station_name2": "朝熊",
+      "lon1": 136.727287,
+      "lat1": 34.476433,
+      "lon2": 136.757357,
+      "lat2": 34.477195
+    },
+    {
+      "station_cd1": 3101003,
+      "station_cd2": 3101004,
+      "station_name1": "朝熊",
+      "station_name2": "池の浦",
+      "lon1": 136.757357,
+      "lat1": 34.477195,
+      "lon2": 136.818533,
+      "lat2": 34.479104
+    },
+    {
+      "station_cd1": 3101004,
+      "station_cd2": 3101005,
+      "station_name1": "池の浦",
+      "station_name2": "鳥羽",
+      "lon1": 136.818533,
+      "lat1": 34.479104,
+      "lon2": 136.843117,
+      "lat2": 34.486743
+    }
+  ]
+}

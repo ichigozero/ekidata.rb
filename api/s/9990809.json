@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99908,
+    "line_name": "北九州モノレール",
+    "station_cd": 9990809,
+    "station_g_cd": 9990809,
+    "station_name": "守恒",
+    "lon": 130.87287,
+    "lat": 33.836648
+  }
+}

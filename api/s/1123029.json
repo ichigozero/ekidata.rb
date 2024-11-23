@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 4,
+    "line_cd": 11230,
+    "line_name": "JR常磐線(いわき～仙台)",
+    "station_cd": 1123029,
+    "station_g_cd": 1123138,
+    "station_name": "館腰",
+    "lon": 140.880208,
+    "lat": 38.142987
+  }
+}

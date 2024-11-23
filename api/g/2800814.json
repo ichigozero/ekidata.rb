@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 13,
+      "line_cd": 28008,
+      "line_name": "東京メトロ半蔵門線",
+      "station_cd": 2800814,
+      "station_name": "住吉"
+    },
+    {
+      "pref_cd": 13,
+      "line_cd": 99304,
+      "line_name": "都営新宿線",
+      "station_cd": 9930413,
+      "station_name": "住吉"
+    }
+  ]
+}

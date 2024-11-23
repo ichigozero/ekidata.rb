@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 38,
+    "line_cd": 11806,
+    "line_name": "JR予讃線",
+    "station_cd": 1180653,
+    "station_g_cd": 1180653,
+    "station_name": "光洋台",
+    "lon": 132.760967,
+    "lat": 33.926886
+  }
+}

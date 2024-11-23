@@ -1,0 +1,254 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 1180301,
+      "station_cd2": 1180302,
+      "station_name1": "徳島",
+      "station_name2": "佐古",
+      "lon1": 134.551391,
+      "lat1": 34.074572,
+      "lon2": 134.538539,
+      "lat2": 34.080644
+    },
+    {
+      "station_cd1": 1180302,
+      "station_cd2": 1180303,
+      "station_name1": "佐古",
+      "station_name2": "蔵本",
+      "lon1": 134.538539,
+      "lat1": 34.080644,
+      "lon2": 134.518044,
+      "lat2": 34.07934
+    },
+    {
+      "station_cd1": 1180303,
+      "station_cd2": 1180304,
+      "station_name1": "蔵本",
+      "station_name2": "鮎喰",
+      "lon1": 134.518044,
+      "lat1": 34.07934,
+      "lon2": 134.50602,
+      "lat2": 34.07734
+    },
+    {
+      "station_cd1": 1180304,
+      "station_cd2": 1180305,
+      "station_name1": "鮎喰",
+      "station_name2": "府中",
+      "lon1": 134.50602,
+      "lat1": 34.07734,
+      "lon2": 134.482886,
+      "lat2": 34.074312
+    },
+    {
+      "station_cd1": 1180305,
+      "station_cd2": 1180306,
+      "station_name1": "府中",
+      "station_name2": "石井",
+      "lon1": 134.482886,
+      "lat1": 34.074312,
+      "lon2": 134.444334,
+      "lat2": 34.070321
+    },
+    {
+      "station_cd1": 1180306,
+      "station_cd2": 1180307,
+      "station_name1": "石井",
+      "station_name2": "下浦",
+      "lon1": 134.444334,
+      "lat1": 34.070321,
+      "lon2": 134.421011,
+      "lat2": 34.067669
+    },
+    {
+      "station_cd1": 1180307,
+      "station_cd2": 1180308,
+      "station_name1": "下浦",
+      "station_name2": "牛島",
+      "lon1": 134.421011,
+      "lat1": 34.067669,
+      "lon2": 134.397131,
+      "lat2": 34.076751
+    },
+    {
+      "station_cd1": 1180308,
+      "station_cd2": 1180309,
+      "station_name1": "牛島",
+      "station_name2": "麻植塚",
+      "lon1": 134.397131,
+      "lat1": 34.076751,
+      "lon2": 134.376394,
+      "lat2": 34.07514
+    },
+    {
+      "station_cd1": 1180309,
+      "station_cd2": 1180310,
+      "station_name1": "麻植塚",
+      "station_name2": "鴨島",
+      "lon1": 134.376394,
+      "lat1": 34.07514,
+      "lon2": 134.356037,
+      "lat2": 34.073757
+    },
+    {
+      "station_cd1": 1180310,
+      "station_cd2": 1180311,
+      "station_name1": "鴨島",
+      "station_name2": "西麻植",
+      "lon1": 134.356037,
+      "lat1": 34.073757,
+      "lon2": 134.336225,
+      "lat2": 34.072442
+    },
+    {
+      "station_cd1": 1180311,
+      "station_cd2": 1180312,
+      "station_name1": "西麻植",
+      "station_name2": "阿波川島",
+      "lon1": 134.336225,
+      "lat1": 34.072442,
+      "lon2": 134.320782,
+      "lat2": 34.061854
+    },
+    {
+      "station_cd1": 1180312,
+      "station_cd2": 1180313,
+      "station_name1": "阿波川島",
+      "station_name2": "学",
+      "lon1": 134.320782,
+      "lat1": 34.061854,
+      "lon2": 134.286411,
+      "lat2": 34.057766
+    },
+    {
+      "station_cd1": 1180313,
+      "station_cd2": 1180314,
+      "station_name1": "学",
+      "station_name2": "山瀬",
+      "lon1": 134.286411,
+      "lat1": 34.057766,
+      "lon2": 134.256553,
+      "lat2": 34.060206
+    },
+    {
+      "station_cd1": 1180314,
+      "station_cd2": 1180315,
+      "station_name1": "山瀬",
+      "station_name2": "阿波山川",
+      "lon1": 134.256553,
+      "lat1": 34.060206,
+      "lon2": 134.234271,
+      "lat2": 34.055162
+    },
+    {
+      "station_cd1": 1180315,
+      "station_cd2": 1180316,
+      "station_name1": "阿波山川",
+      "station_name2": "川田",
+      "lon1": 134.234271,
+      "lat1": 34.055162,
+      "lon2": 134.204521,
+      "lat2": 34.061311
+    },
+    {
+      "station_cd1": 1180316,
+      "station_cd2": 1180317,
+      "station_name1": "川田",
+      "station_name2": "穴吹",
+      "lon1": 134.204521,
+      "lat1": 34.061311,
+      "lon2": 134.163053,
+      "lat2": 34.056161
+    },
+    {
+      "station_cd1": 1180317,
+      "station_cd2": 1180318,
+      "station_name1": "穴吹",
+      "station_name2": "小島",
+      "lon1": 134.163053,
+      "lat1": 34.056161,
+      "lon2": 134.10704,
+      "lat2": 34.050309
+    },
+    {
+      "station_cd1": 1180318,
+      "station_cd2": 1180319,
+      "station_name1": "小島",
+      "station_name2": "貞光",
+      "lon1": 134.10704,
+      "lat1": 34.050309,
+      "lon2": 134.059177,
+      "lat2": 34.039337
+    },
+    {
+      "station_cd1": 1180319,
+      "station_cd2": 1180320,
+      "station_name1": "貞光",
+      "station_name2": "阿波半田",
+      "lon1": 134.059177,
+      "lat1": 34.039337,
+      "lon2": 134.03617,
+      "lat2": 34.041059
+    },
+    {
+      "station_cd1": 1180320,
+      "station_cd2": 1180321,
+      "station_name1": "阿波半田",
+      "station_name2": "江口",
+      "lon1": 134.03617,
+      "lat1": 34.041059,
+      "lon2": 133.973801,
+      "lat2": 34.037131
+    },
+    {
+      "station_cd1": 1180321,
+      "station_cd2": 1180322,
+      "station_name1": "江口",
+      "station_name2": "三加茂",
+      "lon1": 133.973801,
+      "lat1": 34.037131,
+      "lon2": 133.949211,
+      "lat2": 34.0357
+    },
+    {
+      "station_cd1": 1180322,
+      "station_cd2": 1180323,
+      "station_name1": "三加茂",
+      "station_name2": "阿波加茂",
+      "lon1": 133.949211,
+      "lat1": 34.0357,
+      "lon2": 133.927033,
+      "lat2": 34.036708
+    },
+    {
+      "station_cd1": 1180323,
+      "station_cd2": 1180324,
+      "station_name1": "阿波加茂",
+      "station_name2": "辻",
+      "lon1": 133.927033,
+      "lat1": 34.036708,
+      "lon2": 133.873856,
+      "lat2": 34.02912
+    },
+    {
+      "station_cd1": 1180324,
+      "station_cd2": 1180325,
+      "station_name1": "辻",
+      "station_name2": "佃",
+      "lon1": 133.873856,
+      "lat1": 34.02912,
+      "lon2": 133.857677,
+      "lat2": 34.032439
+    },
+    {
+      "station_cd1": 1180325,
+      "station_cd2": 1180326,
+      "station_name1": "佃",
+      "station_name2": "阿波池田",
+      "lon1": 133.857677,
+      "lat1": 34.032439,
+      "lon2": 133.804669,
+      "lat2": 34.026891
+    }
+  ]
+}

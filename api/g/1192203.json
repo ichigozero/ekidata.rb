@@ -1,0 +1,11 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 42,
+      "line_cd": 11922,
+      "line_name": "JR大村線",
+      "station_cd": 1192203,
+      "station_name": "南風崎"
+    }
+  ]
+}

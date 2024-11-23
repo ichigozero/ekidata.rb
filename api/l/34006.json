@@ -1,0 +1,32 @@
+{
+  "station_l": [
+    {
+      "station_cd": 3400601,
+      "station_g_cd": 3400106,
+      "station_name": "塚口",
+      "lon": 135.41585,
+      "lat": 34.752826
+    },
+    {
+      "station_cd": 3400602,
+      "station_g_cd": 3400602,
+      "station_name": "稲野",
+      "lon": 135.415532,
+      "lat": 34.764817
+    },
+    {
+      "station_cd": 3400603,
+      "station_g_cd": 3400603,
+      "station_name": "新伊丹",
+      "lon": 135.415479,
+      "lat": 34.772574
+    },
+    {
+      "station_cd": 3400604,
+      "station_g_cd": 3400604,
+      "station_name": "伊丹",
+      "lon": 135.413618,
+      "lat": 34.779875
+    }
+  ]
+}

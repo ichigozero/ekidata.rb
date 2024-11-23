@@ -1,0 +1,64 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2201101,
+      "station_cd2": 2201102,
+      "station_name1": "国分寺",
+      "station_name2": "一橋学園",
+      "lon1": 139.479547,
+      "lat1": 35.700836,
+      "lon2": 139.480039,
+      "lat2": 35.72217
+    },
+    {
+      "station_cd1": 2201102,
+      "station_cd2": 2201103,
+      "station_name1": "一橋学園",
+      "station_name2": "青梅街道",
+      "lon1": 139.480039,
+      "lat1": 35.72217,
+      "lon2": 139.476628,
+      "lat2": 35.73098
+    },
+    {
+      "station_cd1": 2201103,
+      "station_cd2": 2201105,
+      "station_name1": "青梅街道",
+      "station_name2": "萩山",
+      "lon1": 139.476628,
+      "lat1": 35.73098,
+      "lon2": 139.476903,
+      "lat2": 35.740759
+    },
+    {
+      "station_cd1": 2201105,
+      "station_cd2": 2201106,
+      "station_name1": "萩山",
+      "station_name2": "八坂",
+      "lon1": 139.476903,
+      "lat1": 35.740759,
+      "lon2": 139.467676,
+      "lat2": 35.744925
+    },
+    {
+      "station_cd1": 2201106,
+      "station_cd2": 2201107,
+      "station_name1": "八坂",
+      "station_name2": "武蔵大和",
+      "lon1": 139.467676,
+      "lat1": 35.744925,
+      "lon2": 139.444008,
+      "lat2": 35.756427
+    },
+    {
+      "station_cd1": 2201107,
+      "station_cd2": 2201108,
+      "station_name1": "武蔵大和",
+      "station_name2": "多摩湖",
+      "lon1": 139.444008,
+      "lat1": 35.756427,
+      "lon2": 139.442747,
+      "lat2": 35.765881
+    }
+  ]
+}

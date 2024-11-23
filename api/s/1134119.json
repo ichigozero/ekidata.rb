@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 9,
+    "line_cd": 11341,
+    "line_name": "JR両毛線",
+    "station_cd": 1134119,
+    "station_g_cd": 1134119,
+    "station_name": "栃木",
+    "lon": 139.731037,
+    "lat": 36.371912
+  }
+}

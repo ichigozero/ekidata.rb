@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 36,
+    "line_cd": 99801,
+    "line_name": "阿波室戸シーサイドライン",
+    "station_cd": 9980104,
+    "station_g_cd": 1180429,
+    "station_name": "阿波海南",
+    "lon": 134.350805,
+    "lat": 33.606379
+  }
+}

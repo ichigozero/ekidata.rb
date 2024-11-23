@@ -1,0 +1,124 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9952901,
+      "station_cd2": 9952902,
+      "station_name1": "西桑名",
+      "station_name2": "馬道",
+      "lon1": 136.684034,
+      "lat1": 35.065694,
+      "lon2": 136.676354,
+      "lat2": 35.060705
+    },
+    {
+      "station_cd1": 9952902,
+      "station_cd2": 9952903,
+      "station_name1": "馬道",
+      "station_name2": "西別所",
+      "lon1": 136.676354,
+      "lat1": 35.060705,
+      "lon2": 136.666043,
+      "lat2": 35.059752
+    },
+    {
+      "station_cd1": 9952903,
+      "station_cd2": 9952904,
+      "station_name1": "西別所",
+      "station_name2": "蓮花寺",
+      "lon1": 136.666043,
+      "lat1": 35.059752,
+      "lon2": 136.652189,
+      "lat2": 35.059657
+    },
+    {
+      "station_cd1": 9952904,
+      "station_cd2": 9952905,
+      "station_name1": "蓮花寺",
+      "station_name2": "在良",
+      "lon1": 136.652189,
+      "lat1": 35.059657,
+      "lon2": 136.643731,
+      "lat2": 35.060685
+    },
+    {
+      "station_cd1": 9952905,
+      "station_cd2": 9952906,
+      "station_name1": "在良",
+      "station_name2": "星川",
+      "lon1": 136.643731,
+      "lat1": 35.060685,
+      "lon2": 136.630113,
+      "lat2": 35.064398
+    },
+    {
+      "station_cd1": 9952906,
+      "station_cd2": 9952907,
+      "station_name1": "星川",
+      "station_name2": "七和",
+      "lon1": 136.630113,
+      "lat1": 35.064398,
+      "lon2": 136.615722,
+      "lat2": 35.06888
+    },
+    {
+      "station_cd1": 9952907,
+      "station_cd2": 9952908,
+      "station_name1": "七和",
+      "station_name2": "穴太",
+      "lon1": 136.615722,
+      "lat1": 35.06888,
+      "lon2": 136.604887,
+      "lat2": 35.073032
+    },
+    {
+      "station_cd1": 9952908,
+      "station_cd2": 9952909,
+      "station_name1": "穴太",
+      "station_name2": "東員",
+      "lon1": 136.604887,
+      "lat1": 35.073032,
+      "lon2": 136.587562,
+      "lat2": 35.077945
+    },
+    {
+      "station_cd1": 9952909,
+      "station_cd2": 9952910,
+      "station_name1": "東員",
+      "station_name2": "大泉",
+      "lon1": 136.587562,
+      "lat1": 35.077945,
+      "lon2": 136.57021,
+      "lat2": 35.095044
+    },
+    {
+      "station_cd1": 9952910,
+      "station_cd2": 9952911,
+      "station_name1": "大泉",
+      "station_name2": "楚原",
+      "lon1": 136.57021,
+      "lat1": 35.095044,
+      "lon2": 136.560349,
+      "lat2": 35.110984
+    },
+    {
+      "station_cd1": 9952911,
+      "station_cd2": 9952912,
+      "station_name1": "楚原",
+      "station_name2": "麻生田",
+      "lon1": 136.560349,
+      "lat1": 35.110984,
+      "lon2": 136.535628,
+      "lat2": 35.133807
+    },
+    {
+      "station_cd1": 9952912,
+      "station_cd2": 9952913,
+      "station_name1": "麻生田",
+      "station_name2": "阿下喜",
+      "lon1": 136.535628,
+      "lat1": 35.133807,
+      "lon2": 136.518796,
+      "lat2": 35.146177
+    }
+  ]
+}

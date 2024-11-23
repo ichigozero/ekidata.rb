@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 11641,
+    "line_name": "おおさか東線",
+    "station_cd": 1164104,
+    "station_g_cd": 1164104,
+    "station_name": "ＪＲ俊徳道",
+    "lon": 135.572421,
+    "lat": 34.658372
+  }
+}

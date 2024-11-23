@@ -1,0 +1,34 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2400701,
+      "station_cd2": 2400702,
+      "station_name1": "新線新宿",
+      "station_name2": "初台",
+      "lon1": 139.698812,
+      "lat1": 35.68869,
+      "lon2": 139.686354,
+      "lat2": 35.68123
+    },
+    {
+      "station_cd1": 2400702,
+      "station_cd2": 2400703,
+      "station_name1": "初台",
+      "station_name2": "幡ヶ谷",
+      "lon1": 139.686354,
+      "lat1": 35.68123,
+      "lon2": 139.676183,
+      "lat2": 35.677061
+    },
+    {
+      "station_cd1": 2400703,
+      "station_cd2": 2400704,
+      "station_name1": "幡ヶ谷",
+      "station_name2": "笹塚",
+      "lon1": 139.676183,
+      "lat1": 35.677061,
+      "lon2": 139.667251,
+      "lat2": 35.673758
+    }
+  ]
+}

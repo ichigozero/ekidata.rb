@@ -1,0 +1,184 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3000901,
+      "station_cd2": 3000902,
+      "station_name1": "太田川",
+      "station_name2": "高横須賀",
+      "lon1": 136.892504,
+      "lat1": 35.020221,
+      "lon2": 136.893696,
+      "lat2": 35.009608
+    },
+    {
+      "station_cd1": 3000902,
+      "station_cd2": 3000903,
+      "station_name1": "高横須賀",
+      "station_name2": "南加木屋",
+      "lon1": 136.893696,
+      "lat1": 35.009608,
+      "lon2": 136.906853,
+      "lat2": 34.989216
+    },
+    {
+      "station_cd1": 3000903,
+      "station_cd2": 3000904,
+      "station_name1": "南加木屋",
+      "station_name2": "八幡新田",
+      "lon1": 136.906853,
+      "lat1": 34.989216,
+      "lon2": 136.912578,
+      "lat2": 34.973674
+    },
+    {
+      "station_cd1": 3000904,
+      "station_cd2": 3000905,
+      "station_name1": "八幡新田",
+      "station_name2": "巽ヶ丘",
+      "lon1": 136.912578,
+      "lat1": 34.973674,
+      "lon2": 136.915556,
+      "lat2": 34.962265
+    },
+    {
+      "station_cd1": 3000905,
+      "station_cd2": 3000906,
+      "station_name1": "巽ヶ丘",
+      "station_name2": "白沢",
+      "lon1": 136.915556,
+      "lat1": 34.962265,
+      "lon2": 136.91537,
+      "lat2": 34.955219
+    },
+    {
+      "station_cd1": 3000906,
+      "station_cd2": 3000907,
+      "station_name1": "白沢",
+      "station_name2": "坂部",
+      "lon1": 136.91537,
+      "lat1": 34.955219,
+      "lon2": 136.916562,
+      "lat2": 34.941579
+    },
+    {
+      "station_cd1": 3000907,
+      "station_cd2": 3000908,
+      "station_name1": "坂部",
+      "station_name2": "阿久比",
+      "lon1": 136.916562,
+      "lat1": 34.941579,
+      "lon2": 136.918517,
+      "lat2": 34.931256
+    },
+    {
+      "station_cd1": 3000908,
+      "station_cd2": 3000910,
+      "station_name1": "阿久比",
+      "station_name2": "植大",
+      "lon1": 136.918517,
+      "lat1": 34.931256,
+      "lon2": 136.923448,
+      "lat2": 34.917457
+    },
+    {
+      "station_cd1": 3000910,
+      "station_cd2": 3000911,
+      "station_name1": "植大",
+      "station_name2": "半田口",
+      "lon1": 136.923448,
+      "lat1": 34.917457,
+      "lon2": 136.925462,
+      "lat2": 34.909111
+    },
+    {
+      "station_cd1": 3000911,
+      "station_cd2": 3000912,
+      "station_name1": "半田口",
+      "station_name2": "住吉町",
+      "lon1": 136.925462,
+      "lat1": 34.909111,
+      "lon2": 136.925684,
+      "lat2": 34.902042
+    },
+    {
+      "station_cd1": 3000912,
+      "station_cd2": 3000913,
+      "station_name1": "住吉町",
+      "station_name2": "知多半田",
+      "lon1": 136.925684,
+      "lat1": 34.902042,
+      "lon2": 136.925954,
+      "lat2": 34.893931
+    },
+    {
+      "station_cd1": 3000913,
+      "station_cd2": 3000914,
+      "station_name1": "知多半田",
+      "station_name2": "成岩",
+      "lon1": 136.925954,
+      "lat1": 34.893931,
+      "lon2": 136.921879,
+      "lat2": 34.886209
+    },
+    {
+      "station_cd1": 3000914,
+      "station_cd2": 3000915,
+      "station_name1": "成岩",
+      "station_name2": "青山",
+      "lon1": 136.921879,
+      "lat1": 34.886209,
+      "lon2": 136.917,
+      "lat2": 34.878132
+    },
+    {
+      "station_cd1": 3000915,
+      "station_cd2": 3000916,
+      "station_name1": "青山",
+      "station_name2": "上ゲ",
+      "lon1": 136.917,
+      "lat1": 34.878132,
+      "lon2": 136.916403,
+      "lat2": 34.858389
+    },
+    {
+      "station_cd1": 3000916,
+      "station_cd2": 3000917,
+      "station_name1": "上ゲ",
+      "station_name2": "知多武豊",
+      "lon1": 136.916403,
+      "lat1": 34.858389,
+      "lon2": 136.916439,
+      "lat2": 34.850732
+    },
+    {
+      "station_cd1": 3000917,
+      "station_cd2": 3000918,
+      "station_name1": "知多武豊",
+      "station_name2": "富貴",
+      "lon1": 136.916439,
+      "lat1": 34.850732,
+      "lon2": 136.917043,
+      "lat2": 34.828823
+    },
+    {
+      "station_cd1": 3000918,
+      "station_cd2": 3000920,
+      "station_name1": "富貴",
+      "station_name2": "河和口",
+      "lon1": 136.917043,
+      "lat1": 34.828823,
+      "lon2": 136.918618,
+      "lat2": 34.797805
+    },
+    {
+      "station_cd1": 3000920,
+      "station_cd2": 3000921,
+      "station_name1": "河和口",
+      "station_name2": "河和",
+      "lon1": 136.918618,
+      "lat1": 34.797805,
+      "lon2": 136.912528,
+      "lat2": 34.777771
+    }
+  ]
+}

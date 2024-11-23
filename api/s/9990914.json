@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99909,
+    "line_name": "筑豊電気鉄道線",
+    "station_cd": 9990914,
+    "station_g_cd": 9990914,
+    "station_name": "希望が丘高校前",
+    "lon": 130.71151,
+    "lat": 33.808681
+  }
+}

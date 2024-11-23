@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 40,
+    "line_cd": 99909,
+    "line_name": "筑豊電気鉄道線",
+    "station_cd": 9990912,
+    "station_g_cd": 9990912,
+    "station_name": "東中間",
+    "lon": 130.721317,
+    "lat": 33.820019
+  }
+}

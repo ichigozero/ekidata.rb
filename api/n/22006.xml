@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ekidata version="ekidata.jp pref api 1.0">
+  <station>
+    <station_cd1>2200601</station_cd1>
+    <station_cd2>2200602</station_cd2>
+    <station_name1>多摩湖</station_name1>
+    <station_name2>西武園ゆうえんち</station_name2>
+    <lat1>35.765881</lat1>
+    <lon1>139.442747</lon1>
+    <lat2>35.769042</lat2>
+    <lon2>139.440166</lon2>
+  </station>
+  <station>
+    <station_cd1>2200602</station_cd1>
+    <station_cd2>2200603</station_cd2>
+    <station_name1>西武園ゆうえんち</station_name1>
+    <station_name2>西武球場前</station_name2>
+    <lat1>35.769042</lat1>
+    <lon1>139.440166</lon1>
+    <lat2>35.77093</lat2>
+    <lon2>139.41966</lon2>
+  </station>
+</ekidata>

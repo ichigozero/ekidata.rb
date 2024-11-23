@@ -1,0 +1,104 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3001701,
+      "station_cd2": 3001702,
+      "station_name1": "犬山",
+      "station_name2": "富岡前",
+      "lon1": 136.945536,
+      "lat1": 35.379871,
+      "lon2": 136.962112,
+      "lat2": 35.379508
+    },
+    {
+      "station_cd1": 3001702,
+      "station_cd2": 3001703,
+      "station_name1": "富岡前",
+      "station_name2": "善師野",
+      "lon1": 136.962112,
+      "lat1": 35.379508,
+      "lon2": 136.980027,
+      "lat2": 35.389744
+    },
+    {
+      "station_cd1": 3001703,
+      "station_cd2": 3001704,
+      "station_name1": "善師野",
+      "station_name2": "西可児",
+      "lon1": 136.980027,
+      "lat1": 35.389744,
+      "lon2": 137.010616,
+      "lat2": 35.404685
+    },
+    {
+      "station_cd1": 3001704,
+      "station_cd2": 3001705,
+      "station_name1": "西可児",
+      "station_name2": "可児川",
+      "lon1": 137.010616,
+      "lat1": 35.404685,
+      "lon2": 137.01847,
+      "lat2": 35.41812
+    },
+    {
+      "station_cd1": 3001705,
+      "station_cd2": 3001706,
+      "station_name1": "可児川",
+      "station_name2": "日本ライン今渡",
+      "lon1": 137.01847,
+      "lat1": 35.41812,
+      "lon2": 137.036818,
+      "lat2": 35.432302
+    },
+    {
+      "station_cd1": 3001706,
+      "station_cd2": 3001707,
+      "station_name1": "日本ライン今渡",
+      "station_name2": "新可児",
+      "lon1": 137.036818,
+      "lat1": 35.432302,
+      "lon2": 137.055622,
+      "lat2": 35.423282
+    },
+    {
+      "station_cd1": 3001707,
+      "station_cd2": 3001708,
+      "station_name1": "新可児",
+      "station_name2": "明智",
+      "lon1": 137.055622,
+      "lat1": 35.423282,
+      "lon2": 137.087295,
+      "lat2": 35.433208
+    },
+    {
+      "station_cd1": 3001708,
+      "station_cd2": 3001709,
+      "station_name1": "明智",
+      "station_name2": "顔戸",
+      "lon1": 137.087295,
+      "lat1": 35.433208,
+      "lon2": 137.105154,
+      "lat2": 35.434522
+    },
+    {
+      "station_cd1": 3001709,
+      "station_cd2": 3001710,
+      "station_name1": "顔戸",
+      "station_name2": "御嵩口",
+      "lon1": 137.105154,
+      "lat1": 35.434522,
+      "lon2": 137.121741,
+      "lat2": 35.431281
+    },
+    {
+      "station_cd1": 3001710,
+      "station_cd2": 3001711,
+      "station_name1": "御嵩口",
+      "station_name2": "御嵩",
+      "lon1": 137.121741,
+      "lat1": 35.431281,
+      "lon2": 137.127527,
+      "lat2": 35.429723
+    }
+  ]
+}

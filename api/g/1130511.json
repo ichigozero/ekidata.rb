@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 11,
+      "line_cd": 11305,
+      "line_name": "JR武蔵野線",
+      "station_cd": 1130511,
+      "station_name": "南浦和"
+    },
+    {
+      "pref_cd": 11,
+      "line_cd": 11332,
+      "line_name": "JR京浜東北線",
+      "station_cd": 1133206,
+      "station_name": "南浦和"
+    }
+  ]
+}

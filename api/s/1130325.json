@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 11303,
+    "line_name": "JR南武線",
+    "station_cd": 1130325,
+    "station_g_cd": 1130325,
+    "station_name": "立川",
+    "lon": 139.413704,
+    "lat": 35.698202
+  }
+}

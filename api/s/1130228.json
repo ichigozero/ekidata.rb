@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 11302,
+    "line_name": "JR山手線",
+    "station_cd": 1130228,
+    "station_g_cd": 1130228,
+    "station_name": "田町",
+    "lon": 139.747575,
+    "lat": 35.645736
+  }
+}

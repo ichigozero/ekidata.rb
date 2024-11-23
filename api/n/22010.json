@@ -1,0 +1,44 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 2201001,
+      "station_cd2": 2201002,
+      "station_name1": "国分寺",
+      "station_name2": "恋ヶ窪",
+      "lon1": 139.480841,
+      "lat1": 35.700123,
+      "lon2": 139.463944,
+      "lat2": 35.711385
+    },
+    {
+      "station_cd1": 2201002,
+      "station_cd2": 2201003,
+      "station_name1": "恋ヶ窪",
+      "station_name2": "鷹の台",
+      "lon1": 139.463944,
+      "lat1": 35.711385,
+      "lon2": 139.461155,
+      "lat2": 35.723097
+    },
+    {
+      "station_cd1": 2201003,
+      "station_cd2": 2201004,
+      "station_name1": "鷹の台",
+      "station_name2": "小川",
+      "lon1": 139.461155,
+      "lat1": 35.723097,
+      "lon2": 139.463493,
+      "lat2": 35.737573
+    },
+    {
+      "station_cd1": 2201004,
+      "station_cd2": 2201005,
+      "station_name1": "小川",
+      "station_name2": "東村山",
+      "lon1": 139.463493,
+      "lat1": 35.737573,
+      "lon2": 139.465839,
+      "lat2": 35.76006
+    }
+  ]
+}

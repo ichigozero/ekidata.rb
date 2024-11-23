@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 99625,
+    "line_name": "大阪メトロ南港ポートタウン線",
+    "station_cd": 9962507,
+    "station_g_cd": 9962507,
+    "station_name": "南港東",
+    "lon": 135.438607,
+    "lat": 34.613826
+  }
+}

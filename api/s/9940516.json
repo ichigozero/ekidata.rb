@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 20,
+    "line_cd": 99405,
+    "line_name": "長野電鉄長野線",
+    "station_cd": 9940516,
+    "station_g_cd": 9940516,
+    "station_name": "都住",
+    "lon": 138.322086,
+    "lat": 36.704122
+  }
+}

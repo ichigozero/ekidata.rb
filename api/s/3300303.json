@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 27,
+    "line_cd": 33003,
+    "line_name": "京阪交野線",
+    "station_cd": 3300303,
+    "station_g_cd": 3300303,
+    "station_name": "星ヶ丘",
+    "lon": 135.659755,
+    "lat": 34.807696
+  }
+}

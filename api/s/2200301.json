@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 13,
+    "line_cd": 22003,
+    "line_name": "西武有楽町線",
+    "station_cd": 2200301,
+    "station_g_cd": 2200301,
+    "station_name": "小竹向原",
+    "lon": 139.678572,
+    "lat": 35.743803
+  }
+}

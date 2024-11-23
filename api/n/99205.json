@@ -1,0 +1,174 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 9920501,
+      "station_cd2": 9920502,
+      "station_name1": "盛岡",
+      "station_name2": "青山",
+      "lon1": 141.136599,
+      "lat1": 39.701547,
+      "lon2": 141.118462,
+      "lat2": 39.725029
+    },
+    {
+      "station_cd1": 9920502,
+      "station_cd2": 9920503,
+      "station_name1": "青山",
+      "station_name2": "厨川",
+      "lon1": 141.118462,
+      "lat1": 39.725029,
+      "lon2": 141.129354,
+      "lat2": 39.744637
+    },
+    {
+      "station_cd1": 9920503,
+      "station_cd2": 9920504,
+      "station_name1": "厨川",
+      "station_name2": "巣子",
+      "lon1": 141.129354,
+      "lat1": 39.744637,
+      "lon2": 141.148674,
+      "lat2": 39.783345
+    },
+    {
+      "station_cd1": 9920504,
+      "station_cd2": 9920505,
+      "station_name1": "巣子",
+      "station_name2": "滝沢",
+      "lon1": 141.148674,
+      "lat1": 39.783345,
+      "lon2": 141.149362,
+      "lat2": 39.798953
+    },
+    {
+      "station_cd1": 9920505,
+      "station_cd2": 9920506,
+      "station_name1": "滝沢",
+      "station_name2": "渋民",
+      "lon1": 141.149362,
+      "lat1": 39.798953,
+      "lon2": 141.1544895,
+      "lat2": 39.83480577
+    },
+    {
+      "station_cd1": 9920506,
+      "station_cd2": 9920507,
+      "station_name1": "渋民",
+      "station_name2": "好摩",
+      "lon1": 141.1544895,
+      "lat1": 39.83480577,
+      "lon2": 141.173685,
+      "lat2": 39.874037
+    },
+    {
+      "station_cd1": 9920507,
+      "station_cd2": 9920508,
+      "station_name1": "好摩",
+      "station_name2": "岩手川口",
+      "lon1": 141.173685,
+      "lat1": 39.874037,
+      "lon2": 141.199337,
+      "lat2": 39.918696
+    },
+    {
+      "station_cd1": 9920508,
+      "station_cd2": 9920509,
+      "station_name1": "岩手川口",
+      "station_name2": "いわて沼宮内",
+      "lon1": 141.199337,
+      "lat1": 39.918696,
+      "lon2": 141.216955,
+      "lat2": 39.960155
+    },
+    {
+      "station_cd1": 9920509,
+      "station_cd2": 9920510,
+      "station_name1": "いわて沼宮内",
+      "station_name2": "御堂",
+      "lon1": 141.216955,
+      "lat1": 39.960155,
+      "lon2": 141.23703,
+      "lat2": 40.004412
+    },
+    {
+      "station_cd1": 9920510,
+      "station_cd2": 9920511,
+      "station_name1": "御堂",
+      "station_name2": "奥中山高原",
+      "lon1": 141.23703,
+      "lat1": 40.004412,
+      "lon2": 141.22844,
+      "lat2": 40.066235
+    },
+    {
+      "station_cd1": 9920511,
+      "station_cd2": 9920512,
+      "station_name1": "奥中山高原",
+      "station_name2": "小繋",
+      "lon1": 141.22844,
+      "lat1": 40.066235,
+      "lon2": 141.260437,
+      "lat2": 40.123173
+    },
+    {
+      "station_cd1": 9920512,
+      "station_cd2": 9920513,
+      "station_name1": "小繋",
+      "station_name2": "小鳥谷",
+      "lon1": 141.260437,
+      "lat1": 40.123173,
+      "lon2": 141.307735,
+      "lat2": 40.171061
+    },
+    {
+      "station_cd1": 9920513,
+      "station_cd2": 9920514,
+      "station_name1": "小鳥谷",
+      "station_name2": "一戸",
+      "lon1": 141.307735,
+      "lat1": 40.171061,
+      "lon2": 141.297419,
+      "lat2": 40.210092
+    },
+    {
+      "station_cd1": 9920514,
+      "station_cd2": 9920515,
+      "station_name1": "一戸",
+      "station_name2": "二戸",
+      "lon1": 141.297419,
+      "lat1": 40.210092,
+      "lon2": 141.286211,
+      "lat2": 40.25997
+    },
+    {
+      "station_cd1": 9920515,
+      "station_cd2": 9920516,
+      "station_name1": "二戸",
+      "station_name2": "斗米",
+      "lon1": 141.286211,
+      "lat1": 40.25997,
+      "lon2": 141.291123,
+      "lat2": 40.285158
+    },
+    {
+      "station_cd1": 9920516,
+      "station_cd2": 9920517,
+      "station_name1": "斗米",
+      "station_name2": "金田一温泉",
+      "lon1": 141.291123,
+      "lat1": 40.285158,
+      "lon2": 141.303943,
+      "lat2": 40.323503
+    },
+    {
+      "station_cd1": 9920517,
+      "station_cd2": 9920518,
+      "station_name1": "金田一温泉",
+      "station_name2": "目時",
+      "lon1": 141.303943,
+      "lat1": 40.323503,
+      "lon2": 141.289504,
+      "lat2": 40.351908
+    }
+  ]
+}

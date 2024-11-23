@@ -1,0 +1,18 @@
+{
+  "station_g": [
+    {
+      "pref_cd": 23,
+      "line_cd": 30001,
+      "line_name": "名鉄名古屋本線",
+      "station_cd": 3000133,
+      "station_name": "神宮前"
+    },
+    {
+      "pref_cd": 23,
+      "line_cd": 30008,
+      "line_name": "名鉄常滑線",
+      "station_cd": 3000804,
+      "station_name": "神宮前"
+    }
+  ]
+}

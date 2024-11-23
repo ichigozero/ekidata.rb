@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 11,
+    "line_cd": 22002,
+    "line_name": "西武秩父線",
+    "station_cd": 2200201,
+    "station_g_cd": 2200125,
+    "station_name": "飯能",
+    "lon": 139.318824,
+    "lat": 35.851189
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 17,
+    "line_cd": 11419,
+    "line_name": "JR七尾線",
+    "station_cd": 1141916,
+    "station_g_cd": 1141916,
+    "station_name": "良川",
+    "lon": 136.894628,
+    "lat": 36.976662
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "station": {
+    "pref_cd": 34,
+    "line_cd": 11716,
+    "line_name": "JR呉線",
+    "station_cd": 1171628,
+    "station_g_cd": 1171628,
+    "station_name": "矢野",
+    "lon": 132.531931,
+    "lat": 34.352081
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "station_join": [
+    {
+      "station_cd1": 3001901,
+      "station_cd2": 3001902,
+      "station_name1": "犬山遊園",
+      "station_name2": "成田山",
+      "lon1": 136.946894,
+      "lat1": 35.390331,
+      "lon2": 136.949646,
+      "lat2": 35.387426
+    },
+    {
+      "station_cd1": 3001902,
+      "station_cd2": 3001903,
+      "station_name1": "成田山",
+      "station_name2": "動物園",
+      "lon1": 136.949646,
+      "lat1": 35.387426,
+      "lon2": 136.956687,
+      "lat2": 35.390318
+    }
+  ]
+}

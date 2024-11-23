@@ -5,5 +5,5 @@ run:
 	bundle exec ruby init.rb
 
 build/doc:
-	npx @redocly/cli build-docs -o ./doc/api.html api.yaml
+	npx @redocly/cli build-docs -o index.html api.yaml
 

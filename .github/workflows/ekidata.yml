@@ -22,7 +22,7 @@ jobs:
           bundler-cache: true
 
       - name: Build
-        - run: make build/doc && make run
+        run: make build/doc && make run
 
       - name: Create public
         run: |

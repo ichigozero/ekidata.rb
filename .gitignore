@@ -38,6 +38,7 @@ build-iPhoneSimulator/
 /doc/
 /rdoc/
 /api/
+index.html
 
 ## Environment normalization:
 /.bundle/

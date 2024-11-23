@@ -1,0 +1,36 @@
+name: release-ci
+on:
+  pull_request:
+    branches: ["release"]
+    types:
+      - closed
+
+jobs:
+  release:
+    if: github.event.pull_request.merged == true
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.5"
+          bundler-cache: true
+
+      - name: Build
+        - run: make build/doc && make run
+
+      - name: Create public
+        run: |
+          mkdir -p ./public
+          mv -t ./public ./api ./doc
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

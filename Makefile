@@ -1,10 +1,9 @@
 setup:
-	bundle install
-	npm install -g @redocly/cli
+	bundle config set path 'vendor/bundle' && bundle install
 
 run:
-	ruby init.rb
+	bundle exec ruby init.rb
 
 build/doc:
-	redocly build-docs -o ./doc/api.html api.yaml
+	npx @redocly/cli build-docs -o ./doc/api.html api.yaml
 

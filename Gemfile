@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 ruby '3.3.5'
 
+gem 'csv'
 gem 'nokogiri'
 gem 'rubocop'
 gem 'rubocop-rspec'

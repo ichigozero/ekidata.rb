@@ -1,3 +1,4 @@
+require 'csv'
 require 'fileutils'
 require 'json'
 require 'sqlite3'
@@ -19,6 +20,10 @@ db = SQLite3::Database.new(':memory:')
   r.close
 end
 
+records = lambda do |path, &block|
+  CSV.foreach(path, encoding: 'UTF-8').with_index(&block)
+end
+
 [
   PrefectureRepository.importer(db),
   CompanyRepository.importer(db),
@@ -26,7 +31,7 @@ end
   StationRepository.importer(db),
   JoinRepository.importer(db)
 ].each do |r|
-  r.do
+  r.do records
   r.close
 end
 

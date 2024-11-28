@@ -1,4 +1,3 @@
-require 'csv'
 require 'sqlite3'
 
 class RepositoryCreator
@@ -22,9 +21,9 @@ class RepositoryImporter
     @stmt = db.prepare(insert_query)
   end
 
-  def do
+  def do(records)
     @db.transaction do
-      CSV.foreach(@csv_path).with_index do |row, i|
+      records.call(@csv_path) do |row, i|
         next if i.zero?
 
         @stmt.execute(row)

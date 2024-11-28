@@ -11,35 +11,27 @@ FileUtils.mkdir_p(["./api/p", "./api/l", "./api/s", "./api/g", "./api/n"])
 
 db = SQLite3::Database.new(":memory:")
 
-[
-  PrefectureRepository.creator(db),
-  CompanyRepository.creator(db),
-  LineRepository.creator(db),
-  StationRepository.creator(db),
-  JoinRepository.creator(db),
-].each do |r|
-  r.do
-  r.close
-end
-
 records = lambda do |path, &block|
   CSV.foreach(path, encoding: "UTF-8").with_index(&block)
 end
 
-[
-  PrefectureRepository.importer(db),
-  CompanyRepository.importer(db),
-  LineRepository.importer(db),
-  StationRepository.importer(db),
-  JoinRepository.importer(db),
-].each do |r|
-  r.do(records)
-  r.close
+Migrator.create_tables(db)
+
+repositories = {
+  pref: PrefectureRepository.new(db),
+  company: CompanyRepository.new(db),
+  line: LineRepository.new(db),
+  station: StationRepository.new(db),
+  join: JoinRepository.new(db),
+}
+
+repositories.each_value do |r|
+  r.import(records)
 end
 
 db.results_as_hash = true
 
-LineRepository.lines_by_prefectures(db) do |pref, data|
+repositories[:line].find_by_prefectures do |pref, data|
   pref_cd = pref["pref_cd"]
   builder = XMLBuilder.lines_by_prefectures(pref, data)
 
@@ -52,7 +44,7 @@ LineRepository.lines_by_prefectures(db) do |pref, data|
   end
 end
 
-StationRepository.stations_by_lines(db) do |line, data|
+repositories[:station].find_by_lines do |line, data|
   line_cd = line["line_cd"]
   builder = XMLBuilder.stations_by_lines(line, data)
 
@@ -65,7 +57,7 @@ StationRepository.stations_by_lines(db) do |line, data|
   end
 end
 
-StationRepository.station_details(db) do |station_cd, data|
+repositories[:station].station_details do |station_cd, data|
   builder = XMLBuilder.station_details(data)
 
   File.open("./api/s/#{station_cd}.xml", "w") do |f|
@@ -77,7 +69,7 @@ StationRepository.station_details(db) do |station_cd, data|
   end
 end
 
-StationRepository.station_groups(db) do |station, data|
+repositories[:station].station_groups do |station, data|
   station_g_cd = station["station_g_cd"]
   builder = XMLBuilder.station_groups(station, data)
 
@@ -90,7 +82,7 @@ StationRepository.station_groups(db) do |station, data|
   end
 end
 
-JoinRepository.station_joins_by_lines(db) do |line_cd, data|
+repositories[:join].find_by_lines do |line_cd, data|
   builder = XMLBuilder.joins_by_lines(data)
 
   File.open("./api/n/#{line_cd}.xml", "w") do |f|
@@ -101,3 +93,5 @@ JoinRepository.station_joins_by_lines(db) do |line_cd, data|
     f.write(JSON.pretty_generate({ station_join: data }))
   end
 end
+
+repositories.each_value(&:close)

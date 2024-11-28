@@ -7,4 +7,5 @@ gem 'csv'
 gem 'nokogiri'
 gem 'rubocop'
 gem 'rubocop-rspec'
+gem 'rubocop-shopify', require: false
 gem 'sqlite3'

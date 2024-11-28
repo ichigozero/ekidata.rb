@@ -1,4 +1,6 @@
-require 'sqlite3'
+# frozen_string_literal: true
+
+require "sqlite3"
 
 class RepositoryCreator
   def initialize(db, create_query)
@@ -37,27 +39,27 @@ class RepositoryImporter
 end
 
 module PrefectureRepository
-  CSV_PATH = './data/pref.csv'.freeze
-  CREATE_QUERY = <<~SQL.freeze
+  CSV_PATH = "./data/pref.csv"
+  CREATE_QUERY = <<~SQL
     CREATE TABLE IF NOT EXISTS m_pref (
       pref_cd INTEGER NOT NULL PRIMARY KEY,
       pref_name TEXT
     )
   SQL
-  INSERT_QUERY = 'INSERT INTO m_pref VALUES (?, ?)'.freeze
+  INSERT_QUERY = "INSERT INTO m_pref VALUES (?, ?)"
 
   def self.creator(db)
-    RepositoryCreator.new db, CREATE_QUERY
+    RepositoryCreator.new(db, CREATE_QUERY)
   end
 
   def self.importer(db)
-    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+    RepositoryImporter.new(db, CSV_PATH, INSERT_QUERY)
   end
 end
 
 module CompanyRepository
-  CSV_PATH = './data/company.csv'.freeze
-  CREATE_QUERY = <<~SQL.freeze
+  CSV_PATH = "./data/company.csv"
+  CREATE_QUERY = <<~SQL
     CREATE TABLE IF NOT EXISTS m_company (
       company_cd INTEGER NOT NULL PRIMARY KEY,
       rr_cd INTEGER,
@@ -71,20 +73,20 @@ module CompanyRepository
       e_sort INTEGER
     )
   SQL
-  INSERT_QUERY = 'INSERT INTO m_company VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'.freeze
+  INSERT_QUERY = "INSERT INTO m_company VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
 
   def self.creator(db)
-    RepositoryCreator.new db, CREATE_QUERY
+    RepositoryCreator.new(db, CREATE_QUERY)
   end
 
   def self.importer(db)
-    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+    RepositoryImporter.new(db, CSV_PATH, INSERT_QUERY)
   end
 end
 
 module LineRepository
-  CSV_PATH = './data/line.csv'.freeze
-  CREATE_QUERY = <<~SQL.freeze
+  CSV_PATH = "./data/line.csv"
+  CREATE_QUERY = <<~SQL
     CREATE TABLE IF NOT EXISTS m_line (
       line_cd INTEGER NOT NULL PRIMARY KEY,
       company_cd INTEGER,
@@ -102,21 +104,21 @@ module LineRepository
       FOREIGN KEY (company_cd) REFERENCES m_company(company_cd)
     )
   SQL
-  INSERT_QUERY = <<~SQL.freeze
+  INSERT_QUERY = <<~SQL
     INSERT INTO m_line VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
-    RepositoryCreator.new db, CREATE_QUERY
+    RepositoryCreator.new(db, CREATE_QUERY)
   end
 
   def self.importer(db)
-    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+    RepositoryImporter.new(db, CSV_PATH, INSERT_QUERY)
   end
 
   def self.lines_by_prefectures(db)
-    stmt1 = db.prepare 'SELECT pref_cd, pref_name FROM m_pref'
-    stmt2 = db.prepare <<~SQL
+    stmt1 = db.prepare("SELECT pref_cd, pref_name FROM m_pref")
+    stmt2 = db.prepare(<<~SQL)
       SELECT l.line_cd, l.line_name
       FROM m_line l
       INNER JOIN m_station s ON s.line_cd = l.line_cd
@@ -127,7 +129,7 @@ module LineRepository
     SQL
 
     stmt1.execute.each do |row|
-      stmt2.bind_param 1, row['pref_cd']
+      stmt2.bind_param(1, row["pref_cd"])
       r = stmt2.execute.to_a
 
       yield row, r unless r.empty?
@@ -141,8 +143,8 @@ module LineRepository
 end
 
 module StationRepository
-  CSV_PATH = './data/station.csv'.freeze
-  CREATE_QUERY = <<~SQL.freeze
+  CSV_PATH = "./data/station.csv"
+  CREATE_QUERY = <<~SQL
     CREATE TABLE IF NOT EXISTS m_station (
       station_cd INTEGER NOT NULL PRIMARY KEY,
       station_g_cd INTEGER,
@@ -163,21 +165,21 @@ module StationRepository
       FOREIGN KEY (pref_cd) REFERENCES m_pref(prefF_cd)
     )
   SQL
-  INSERT_QUERY = <<~SQL.freeze
+  INSERT_QUERY = <<~SQL
     INSERT INTO m_station VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   SQL
 
   def self.creator(db)
-    RepositoryCreator.new db, CREATE_QUERY
+    RepositoryCreator.new(db, CREATE_QUERY)
   end
 
   def self.importer(db)
-    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+    RepositoryImporter.new(db, CSV_PATH, INSERT_QUERY)
   end
 
   def self.stations_by_lines(db)
-    stmt1 = db.prepare 'SELECT line_cd, line_name, lon, lat, zoom FROM m_line'
-    stmt2 = db.prepare <<~SQL
+    stmt1 = db.prepare("SELECT line_cd, line_name, lon, lat, zoom FROM m_line")
+    stmt2 = db.prepare(<<~SQL)
       SELECT station_cd, station_g_cd, station_name, lon, lat
       FROM m_station
       WHERE e_status = 0
@@ -187,7 +189,7 @@ module StationRepository
     SQL
 
     stmt1.execute.each do |row|
-      stmt2.bind_param 1, row['line_cd']
+      stmt2.bind_param(1, row["line_cd"])
       r = stmt2.execute.to_a
 
       yield row, r unless r.empty?
@@ -200,7 +202,7 @@ module StationRepository
   end
 
   def self.station_details(db)
-    stmt = db.prepare <<~SQL
+    stmt = db.prepare(<<~SQL)
       SELECT
         s.pref_cd, s.line_cd, l.line_name, s.station_cd,
         s.station_g_cd, s.station_name, s.lon, s.lat
@@ -211,14 +213,14 @@ module StationRepository
     SQL
 
     stmt.execute.each do |row|
-      yield row['station_cd'], row.to_h
+      yield row["station_cd"], row.to_h
     end
 
     stmt.close
   end
 
   def self.station_groups(db)
-    stmt1 = db.prepare <<~SQL
+    stmt1 = db.prepare(<<~SQL)
       SELECT
         l.line_cd,
         l.line_name,
@@ -232,7 +234,7 @@ module StationRepository
       WHERE s.e_status = 0 AND s.station_cd > 1000000
       ORDER BY s.station_g_cd
     SQL
-    stmt2 = db.prepare <<~SQL
+    stmt2 = db.prepare(<<~SQL)
       SELECT s.pref_cd, s.line_cd, l.line_name, s.station_cd, s.station_name
       FROM m_station s
       INNER JOIN m_line l ON l.line_cd = s.line_cd
@@ -243,7 +245,7 @@ module StationRepository
     SQL
 
     stmt1.execute.each do |row|
-      stmt2.bind_param 1, row['station_g_cd']
+      stmt2.bind_param(1, row["station_g_cd"])
       yield row, stmt2.execute.to_a
       stmt2.reset!
     end
@@ -254,8 +256,8 @@ module StationRepository
 end
 
 module JoinRepository
-  CSV_PATH = './data/join.csv'.freeze
-  CREATE_QUERY = <<~SQL.freeze
+  CSV_PATH = "./data/join.csv"
+  CREATE_QUERY = <<~SQL
     CREATE TABLE IF NOT EXISTS m_station_join (
       line_cd INTEGER NOT NULL,
       station_cd1 INTEGER NOT NULL,
@@ -266,21 +268,21 @@ module JoinRepository
       PRIMARY KEY (line_cd, station_cd1, station_cd2)
     )
   SQL
-  INSERT_QUERY = <<~SQL.freeze
+  INSERT_QUERY = <<~SQL
     INSERT INTO m_station_join VALUES (?, ?, ?)
   SQL
 
   def self.creator(db)
-    RepositoryCreator.new db, CREATE_QUERY
+    RepositoryCreator.new(db, CREATE_QUERY)
   end
 
   def self.importer(db)
-    RepositoryImporter.new db, CSV_PATH, INSERT_QUERY
+    RepositoryImporter.new(db, CSV_PATH, INSERT_QUERY)
   end
 
   def self.station_joins_by_lines(db)
-    stmt1 = db.prepare 'SELECT line_cd FROM m_line'
-    stmt2 = db.prepare <<~SQL
+    stmt1 = db.prepare("SELECT line_cd FROM m_line")
+    stmt2 = db.prepare(<<~SQL)
       SELECT
         j.station_cd1,
         j.station_cd2,
@@ -297,10 +299,10 @@ module JoinRepository
     SQL
 
     stmt1.execute.each do |row|
-      stmt2.bind_param 1, row['line_cd']
+      stmt2.bind_param(1, row["line_cd"])
       r = stmt2.execute.to_a
 
-      yield row['line_cd'], r unless r.empty?
+      yield row["line_cd"], r unless r.empty?
 
       stmt2.reset!
     end

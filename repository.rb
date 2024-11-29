@@ -44,6 +44,9 @@ module Migrator
             FOREIGN KEY (company_cd) REFERENCES m_company(company_cd)
           )
         m_line
+        <<~m_line_index,
+          CREATE INDEX ix_m_line_company_cd ON m_line(company_cd)
+        m_line_index
         <<~m_station,
           CREATE TABLE IF NOT EXISTS m_station (
             station_cd INTEGER NOT NULL PRIMARY KEY,
@@ -62,9 +65,15 @@ module Migrator
             e_status INTEGER,
             e_sort INTEGER,
             FOREIGN KEY (line_cd) REFERENCES m_line(line_cd),
-            FOREIGN KEY (pref_cd) REFERENCES m_pref(prefF_cd)
+            FOREIGN KEY (pref_cd) REFERENCES m_pref(pref_cd)
           )
         m_station
+        <<~m_station_index1,
+          CREATE INDEX ix_m_station_line_cd ON m_station(line_cd)
+        m_station_index1
+        <<~m_station_index2,
+          CREATE INDEX ix_m_station_pref_cd ON m_station(pref_cd)
+        m_station_index2
         <<~m_station_join,
           CREATE TABLE IF NOT EXISTS m_station_join (
             line_cd INTEGER NOT NULL,
